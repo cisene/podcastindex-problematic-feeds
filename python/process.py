@@ -247,9 +247,9 @@ def main():
 
   results = {}
   results['dates'] = {}
-  #results['feeds'] = {}
 
   feeds = {}
+  feeds['feeds'] = {}
 
   data = httpGET(DATA_CSV_SOURCE)
 
@@ -310,11 +310,11 @@ def main():
       results['dates'][dateKey][reasonKey][feedSourceKey] += 1
       results['dates'][dateKey]['Total'] += 1
 
-      if feedSourceKey not in feeds:
-        feeds[feedSourceKey] = []
+      if feedSourceKey not in feeds['feeds']:
+        feeds['feeds'][feedSourceKey] = []
 
-      if url not in feeds[feedSourceKey]:
-        feeds[feedSourceKey].append(url)
+      if url not in feeds['feeds'][feedSourceKey]:
+        feeds['feeds'][feedSourceKey].append(url)
 
   sorted(results)
   writeYAML(DATA_YAML_DEST, results)
