@@ -13,6 +13,10 @@ from contextlib import closing
 import datetime as DT
 from datetime import datetime, date, time
 
+#from operator import itemgetter
+#from collections import OrderedDict
+from sortedcontainers import SortedDict
+
 # User Agent String
 USER_AGENT_STRING = "Python/process-problematic-feeds @cisene@podcastindex.social"
 
@@ -20,7 +24,7 @@ USER_AGENT_STRING = "Python/process-problematic-feeds @cisene@podcastindex.socia
 DATA_CSV_SOURCE = "https://public.podcastindex.org/podcastindex_problematic_feeds.csv"
 
 DATA_YAML_DEST = '../yaml/podcastindex-problematic-feeds.yaml'
-
+DATA_YAML_FEEDS = '../yaml/podcastindex-problematic-feeds-collections.yaml'
 
 def writeYAML(filepath, contents):
   s = yaml.safe_dump(
@@ -243,7 +247,9 @@ def main():
 
   results = {}
   results['dates'] = {}
-  results['feeds'] = {}
+  #results['feeds'] = {}
+
+  feeds = {}
 
   data = httpGET(DATA_CSV_SOURCE)
 
@@ -304,17 +310,19 @@ def main():
       results['dates'][dateKey][reasonKey][feedSourceKey] += 1
       results['dates'][dateKey]['Total'] += 1
 
-      if feedSourceKey not in results['feeds']:
-        results['feeds'][feedSourceKey] = []
+      if feedSourceKey not in feeds:
+        feeds[feedSourceKey] = []
 
-      if url not in results['feeds'][feedSourceKey]:
-        results['feeds'][feedSourceKey].append(url)
+      if url not in feeds[feedSourceKey]:
+        feeds[feedSourceKey].append(url)
 
-  #print(results)
-
+  sorted(results)
   writeYAML(DATA_YAML_DEST, results)
-  print(f"Wrote: {len(results['dates'])} dates and {len(results['feeds'])} sourcedomains ..")
+  print(f"Wrote: {len(results['dates'])} dates ..")
 
+  sorted(feeds)
+  writeYAML(DATA_YAML_FEEDS, feeds)
+ 
 
 if __name__ == '__main__':
   main()
