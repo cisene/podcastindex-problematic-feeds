@@ -42,7 +42,24 @@ def writeYAML(filepath, contents):
   with open(filepath, "w") as f:
     f.write(s.replace('\n- ', '\n\n- '))
 
+def readYAML(filepath):
+  contents = None
+  data = None
+  if os.path.isfile(filepath):
+    fp = None
 
+    try:
+      fp = open(filepath)
+      contents = fp.read()
+      fp.close()
+
+    finally:
+      pass
+
+  if contents != None:
+    data = yaml.safe_load(contents)
+
+  return data
 
 
 def httpGET(url):
@@ -245,11 +262,16 @@ def resolveFeedSource(url):
 
 def main():
 
-  results = {}
-  results['dates'] = {}
+  results = readYAML(DATA_YAML_DEST)
+  feeds = readYAML(DATA_YAML_FEEDS)
 
-  feeds = {}
-  feeds['feeds'] = {}
+  if results == None:
+    results = {}
+    results['dates'] = {}
+
+  if feeds == None:
+    feeds = {}
+    feeds['feeds'] = {}
 
   data = httpGET(DATA_CSV_SOURCE)
 
@@ -287,15 +309,14 @@ def main():
           dateKey = value
 
         if field == idx_url:
-          #print(f"url: {value}")
           url = value
           value = resolveFeedSource(value)
           if value == None:
             print(f"Unresolved url '{value}'")
-            exit(0)
+            #exit(0)
+            continue
           feedSourceKey = value
 
-        #print(value)
 
       if dateKey not in results['dates']:
         results['dates'][dateKey] = {}
