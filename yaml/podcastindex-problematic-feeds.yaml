@@ -1,2951 +1,2992 @@
 dates:
-  '2026-07-28':
-    Total: 2752
-    Spam:
-      spreakercom: 124
-      beamlydev: 4
-      rsscom: 94
-      firstoryme: 482
-      anchorfm: 113
-      hubhoppercom: 69
-      podbeancom: 310
-      castboxfm: 11
-      podomaticcom: 13
-      aushaco: 3
-      podcastmachinecom: 10
-      buzzsproutcom: 22
-      castoscom: 2
-      applecom: 4
-      asynccom: 4
-      tbladvisorycom: 2
-      zegocom: 2
-      pinecastcom: 3
-      beamlycom: 4
-      redcirclecom: 7
-      captivatefm: 2
-      bigboxpodcastpl: 6
-      camacuk: 11
-      podigeeio: 2
-      chiropractorroundrocktxcom: 2
-      blubrrycom: 2
-      ivooxcom: 1
-      getspikegamecom: 1
-      afrnet: 1
-      sounderfm: 1
-      wistiacom: 1
-    AI Slop:
-      beamlycom: 2
-      supabaseco: 4
-      hubhoppercom: 5
-      insideout7blog: 2
-      buzzsproutcom: 8
-      megaphonefm: 5
-      redcirclecom: 2
-      mazdekai: 2
-      podbeancom: 5
-      spreakercom: 396
-      anchorfm: 10
-      rsscom: 27
-      theempresariocom: 2
-      jellypodcom: 4
-      githubio: 4
-      noxmagcom: 6
-      fexingocom: 8
-      discerningheartscom: 2
-      captivatefm: 7
-      podservefm: 4
-      dippackmistricom: 2
-      riversidecom: 2
-      feedback-loupecom: 2
-      substackcom: 3
-      speechkitru: 2
-      pinecastcom: 1
-      worldintwentycom: 1
+  '2026-01-09':
+    Total: 1
     Hijack:
-      podigeeio: 2
-      spreakercom: 919
-  '2026-07-27':
-    Total: 2192
+      spreakercom: 1
+  '2026-01-10':
+    Total: 20
     Spam:
-      spreakercom: 200
-      libsyncom: 2
-      buzzsproutcom: 34
-      podbeancom: 1060
-      podomaticcom: 16
-      hubhoppercom: 22
-      blubrrycom: 2
-      rsscom: 42
-      nerranetworkcom: 6
-      firstoryme: 434
-      pinecastcom: 10
-      captivatefm: 2
-      epoxyflooringrochesternycom: 2
-      anchorfm: 72
-      podcastmachinecom: 2
-      getcourseaccesscom: 10
-      kajabicom: 2
-      mavedigital: 6
-      redcirclecom: 2
-      podigeeio: 6
-      aushaco: 2
-      riversidecom: 2
+      anchorfm: 1
+      guillermorhyoscom: 1
+      rsscom: 13
+      spreakercom: 3
     Hijack:
-      spreakercom: 50
+      rsscom: 1
+      spreakercom: 1
+  '2026-01-11':
+    Total: 17
     AI Slop:
-      rsscom: 18
-      anchorfm: 28
-      spreakercom: 68
-      podservefm: 2
-      riversidecom: 2
-      buzzsproutcom: 36
-      redcirclecom: 6
-      transistorfm: 8
-      simplecastcom: 2
-      castoscom: 2
-      nerranetworkcom: 2
-      podbeancom: 4
-      podcastmachinecom: 4
-      maximiliancombr: 2
-      hubhoppercom: 6
-      captivatefm: 2
-      discerningheartscom: 2
-      megaphonefm: 2
-      substackcom: 2
-      ivooxcom: 2
-      thehumfmcom: 2
-      acastcom: 2
-      fastcastai: 2
-  '2026-07-26':
-    Total: 1464
-    Hijack:
-      spreakercom: 38
-      podbeancom: 2
-    AI Slop:
-      rsscom: 14
-      spreakercom: 42
-      anchorfm: 26
-      transistorfm: 4
-      megaphonefm: 2
-      jellypodcom: 4
-      buzzsproutcom: 6
-      sundaysnews: 12
-      fastcastai: 6
-      castoscom: 2
-      riversidecom: 2
-      buddingfuturesabacom: 2
-      podpilotorg: 2
-      hubhoppercom: 2
-      railwayapp: 2
-      amazonawscom: 2
-      simplecastcom: 2
+      jellypodai: 1
+      redcirclecom: 1
+      rsscom: 1
+      transistorfm: 1
     Spam:
-      letscastfm: 2
-      spreakercom: 118
-      pinecastcom: 68
-      anchorfm: 62
-      megaphonefm: 2
-      rsscom: 112
-      buzzsproutcom: 22
-      podbeancom: 606
-      firstoryme: 248
-      podomaticcom: 2
-      castboxfm: 6
-      hubhoppercom: 16
-      transistorfm: 2
-      rsspodcastingcom: 2
-      theaudioinsightcom: 2
-      captivatefm: 4
-      riversidecom: 4
-      r2dev: 2
-      castoscom: 4
-      mazdekai: 6
-      aushaco: 2
-  '2026-07-25':
-    Total: 2476
-    Spam:
-      hubhoppercom: 10
-      podbeancom: 354
-      podomaticcom: 8
-      podvinecom: 2
-      rsscom: 56
-      anchorfm: 42
-      firstoryme: 298
-      buzzsproutcom: 24
-      spreakercom: 146
-      riversidecom: 6
-      pinecastcom: 44
-      redcirclecom: 6
-      podigeeio: 4
-      tpacoachingcom: 2
-      transistorfm: 2
-      aushaco: 2
-      libsyncom: 4
-      tinkeit: 2
-      castoscom: 20
-      carovaiqcom: 2
-      mazdekai: 2
-    Hijack:
-      spreakercom: 1232
-      podbeancom: 2
-      otrwesternscom: 2
-    AI Slop:
-      supabaseco: 2
-      johnsoncitylodge561org: 2
-      spreakercom: 42
-      megaphonefm: 6
-      buzzsproutcom: 16
-      rsscom: 16
-      podservefm: 2
-      transistorfm: 6
-      anchorfm: 38
-      aushaco: 2
-      pinecastcom: 2
-      beehiivcom: 2
-      myid: 8
-      hubhoppercom: 12
-      sundaysnews: 2
-      riversidecom: 6
-      podigeeio: 4
-      acastcom: 6
-      substackcom: 2
-      jellypodcom: 2
-      rsspodcastingcom: 4
-      extrasimplehistorycom: 2
-      nerranetworkcom: 2
-      paulcsavdariblog: 2
-      castoscom: 2
-      simplecastcom: 4
-      podbeancom: 2
-      libsyncom: 2
-      fastcastai: 2
-      zvukstream: 2
-      budapestfm: 2
-  '2026-07-24':
-    Total: 1480
-    Hijack:
-      spreakercom: 680
-      anchorfm: 6
-      pdorg: 2
-      libsyncom: 2
-      substackcom: 2
-    Spam:
-      anchorfm: 32
-      firstoryme: 370
-      pinecastcom: 16
-      rsscom: 22
-      spreakercom: 130
-      buzzsproutcom: 8
-      nachgefasst-podcastde: 2
-      libsyncom: 2
-      hubhoppercom: 24
-      r2dev: 2
-      captivatefm: 2
-      redcirclecom: 6
-    AI Slop:
-      spreakercom: 58
-      buzzsproutcom: 10
-      rsscom: 14
-      podservefm: 2
-      megaphonefm: 4
-      anchorfm: 32
-      skeptoidcom: 2
-      transistorfm: 6
-      hubhoppercom: 8
-      podbeancom: 4
-      beehiivcom: 2
-      apprendre-la-mecanique-automobilefr: 2
-      pinecastcom: 2
-      fexingocom: 2
-      jellypodcom: 2
-      r2dev: 2
-      captivatefm: 10
-      simplecastcom: 8
-    Illegal:
       anchorfm: 2
-  '2026-07-23':
-    Total: 1746
-    Hijack:
-      spreakercom: 644
+      firstoryme: 1
+      soundonfm: 3
+      spreakercom: 3
+      ximalayacom: 1
+      xyzfmspace: 3
+  '2026-01-13':
+    Total: 2
+    AI Slop:
+      rsscom: 1
+      spreakercom: 1
+  '2026-01-14':
+    Total: 7
+    AI Slop:
       anchorfm: 2
+      rsscom: 3
+      spreakercom: 1
+    Spam:
+      transistorfm: 1
+  '2026-01-15':
+    Total: 1
+    Spam:
+      spreakercom: 1
+  '2026-01-16':
+    Total: 4
+    Spam:
+      spreakercom: 3
+    unknown:
+      jellypodai: 1
+  '2026-01-31':
+    Total: 5
+    Spam:
+      firstoryme: 3
+    AI Slop:
+      rsscom: 1
+      titansofchangecom: 1
+  '2026-02-25':
+    Total: 2
+    AI Slop:
       buzzsproutcom: 2
+  '2026-03-13':
+    Total: 1
     Spam:
-      spreakercom: 230
-      buzzsproutcom: 30
-      rsscom: 30
-      hubhoppercom: 36
-      anchorfm: 26
-      ebootisde: 2
-      jellypodcom: 4
-      blubrrycom: 2
-      firstoryme: 432
-      aushaco: 2
-      podservefm: 2
-      redcirclecom: 6
-      podbeancom: 4
-      pinecastcom: 18
-      riversidefm: 6
-      captivatefm: 4
-      beamlycom: 2
-      libsyncom: 2
-      castoscom: 20
-      podigeeio: 2
-      transistorfm: 2
-      podcastmachinecom: 2
+      spreakercom: 1
+  '2026-04-13':
+    Total: 189
     AI Slop:
-      buzzsproutcom: 8
-      megaphonefm: 4
-      spreakercom: 88
-      podigeeio: 4
-      rsscom: 30
-      transistorfm: 10
-      captivatefm: 8
-      pinecastcom: 2
-      fexingocom: 6
-      podcastmachinecom: 2
-      jellypodcom: 4
-      anchorfm: 22
-      dreamhosterscom: 2
-      supabaseco: 2
-      libsyncom: 2
-      hubhoppercom: 12
-      firstoryme: 2
-      brokeitdev: 2
-      socialmediajobsremotecom: 2
-      simplecastcom: 6
-      podbeancom: 8
-      fastcastai: 2
-      soundonfm: 2
-      amazonawscom: 2
-      acastcom: 2
-  '2026-07-22':
-    Total: 1116
+      spreakercom: 161
     Spam:
-      rsscom: 38
-      hubhoppercom: 32
-      anchorfm: 22
-      spreakercom: 54
-      buzzsproutcom: 16
-      omnycontentcom: 2
-      transistorfm: 4
-      captivatefm: 4
-      firstoryme: 470
-      podbeancom: 4
-      pinecastcom: 14
-      podigeeio: 4
-      redcirclecom: 6
-      riversidecom: 2
-    AI Slop:
-      ivooxcom: 2
-      aushaco: 2
-      ecode10com: 2
-      spreakercom: 92
-      hubhoppercom: 14
-      anchorfm: 20
-      rsscom: 28
-      transistorfm: 20
-      buzzsproutcom: 10
-      prestocastcom: 2
-      communitysolarnews: 2
-      podbeancom: 6
-      substackcom: 2
-      captivatefm: 2
-      podigeeio: 2
-      podservefm: 2
-      jellypodcom: 2
-      megaphonefm: 4
-      fastcastai: 4
-      netlifyapp: 2
-      brokeitdev: 2
-      runapp: 2
-      supabaseco: 6
-      gtbieu: 2
-      fexingocom: 2
-    Hijack:
-      spreakercom: 210
-  '2026-07-21':
-    Total: 1116
-    AI Slop:
-      spreakercom: 154
-      fastcastai: 4
-    Spam:
-      anchorfm: 102
-      rsscom: 30
-      hubhoppercom: 20
-      spreakercom: 58
-      firstoryme: 486
-      pinecastcom: 22
-      ximalayacom: 4
-      windowsnet: 2
-      redcirclecom: 2
-      sewerlinerepairsimpsonvillecom: 2
-      substackcom: 4
-      libsyncom: 2
-      acastcom: 2
-      podbeancom: 2
-      riversidecom: 4
-      dentalxbridgecom: 2
-      wavlakecom: 2
-      podigeeio: 4
-    Hijack:
-      spreakercom: 24
-      anchorfm: 2
-      amazonawscom: 182
-  '2026-07-20':
-    Total: 1030
-    AI Slop:
-      anchorfm: 10
-      rsscom: 18
-      fexingocom: 2
-      captivatefm: 2
-      castoscom: 2
-      jellypodcom: 6
-      transistorfm: 2
-      podbeancom: 6
-      spreakercom: 30
-      buzzsproutcom: 4
-      podpilotorg: 2
-      firstoryme: 2
-      herokuappcom: 2
-      supabaseco: 4
-      diegozccom: 2
-      redcirclecom: 2
-      podigeeio: 2
-      fastcastai: 2
-    Hijack:
-      amazonawscom: 240
-      spreakercom: 6
-      rsscom: 2
-      gsmccloud: 36
-    Spam:
-      spreakercom: 240
-      firstoryme: 318
-      preretirementnavigatedcom: 2
-      aushaco: 2
-      podbeancom: 2
-      podigeeio: 6
-      hubhoppercom: 18
-      buzzsproutcom: 8
-      anchorfm: 14
-      rsscom: 8
-      ivooxcom: 2
-      riversidecom: 2
-      pinecastcom: 18
-      redcirclecom: 2
-      transistorfm: 2
-    Illegal:
-      talkshoecom: 2
-  '2026-07-19':
-    Total: 2188
-    AI Slop:
-      fastcastai: 8
-      spreakercom: 660
-      transistorfm: 4
-      anchorfm: 20
-      simplecastcom: 4
-      rsscom: 10
-      captivatefm: 2
-      supabaseco: 8
-      podbeancom: 2
-      buzzsproutcom: 12
-      runapp: 2
-      rtvees: 2
-      hubhoppercom: 2
-      firstoryme: 2
-      megaphonefm: 4
-      soundonfm: 2
-      substackcom: 4
-      bigfootycontentcom: 2
-      castoscom: 2
-      muffedai: 20
-      beehiivcom: 2
-      acastcom: 2
-    Spam:
-      rsscom: 4
-      buzzsproutcom: 10
-      transistorfm: 2
-      firstoryme: 312
-      anchorfm: 52
-      redcirclecom: 2
-      spreakercom: 32
-      pinecastcom: 14
-      hubhoppercom: 22
-      outbreaknewstodaycom: 2
-      podbeancom: 2
-      riversidefm: 2
-      prestocastcom: 2
-      podigeeio: 2
-      fastcastai: 14
-      wavlakecom: 2
-    Hijack:
-      gsmccloud: 354
-      amazonawscom: 480
-      spreakercom: 100
-      rsscom: 2
-  '2026-07-18':
-    Total: 1610
-    Hijack:
-      gsmccloud: 354
-      amazonawscom: 720
-      spreakercom: 98
-    AI Slop:
-      spreakercom: 46
-      hubhoppercom: 8
-      rsscom: 8
-      transistorfm: 8
-      ancientfaithcom: 2
-      fastcastai: 28
-      ivooxcom: 2
-      anchorfm: 30
-      buzzsproutcom: 10
-      riversidecom: 4
-      asynccom: 2
-      aushaco: 2
-      castoscom: 6
-      podbeancom: 6
-      punkytigerlabscom: 2
-      prestocastcom: 4
-      podigeeio: 2
-      alitucom: 2
-      backblazeb2com: 2
-      redcirclecom: 2
-      squarespacecom: 2
-      supabaseco: 2
-      skilledtradetoolscom: 2
-      lanternpodcastscom: 2
-      jellypodcom: 4
-      substackcom: 4
-      cinepromptio: 2
-      storyflocom: 2
-      markkulabnet: 2
-      californiacarecompasscom: 2
-      podcastmachinecom: 2
-      libsyncom: 2
-      fexingocom: 2
-    Spam:
-      pinecastcom: 48
-      spreakercom: 22
-      firstoryme: 82
-      anchorfm: 22
-      buzzsproutcom: 10
-      rsscom: 14
-      hubhoppercom: 12
-      workersdev: 2
-      riversidecom: 2
-      podigeeio: 2
-      concretecontractorsdaytonohiocom: 2
-      transistorfm: 4
-      megaphonefm: 8
-    Illegal:
-      rsscom: 2
-  '2026-07-17':
-    Total: 2274
-    Spam:
-      firstoryme: 178
-      anchorfm: 34
-      megaphonefm: 2
-      spreakercom: 50
-      pinecastcom: 12
-      libsyncom: 2
-      rsscom: 10
-      audioboomcom: 2
-      biterainvestcom: 8
-      transistorfm: 4
-      buzzsproutcom: 8
-      hubhoppercom: 6
-      cloudfunctionsnet: 2
-      simplecastcom: 2
-      captivatefm: 4
-      redcirclecom: 2
-      riversidecom: 2
-    AI Slop:
-      anchorfm: 10
-      riversidecom: 2
-      hubhoppercom: 6
-      libsyncom: 2
-      fastcastai: 24
-      transistorfm: 18
-      spreakercom: 114
-      jellypodcom: 8
-      buzzsproutcom: 12
-      rsscom: 12
-      redcirclecom: 4
-      podigeeio: 2
-      githubusercontentcom: 2
-      megaphonefm: 2
-    Hijack:
-      spreakercom: 200
-      amazonawscom: 968
-      gsmccloud: 556
-      afrnet: 2
-      rsscom: 2
-  '2026-07-16':
-    Total: 3790
-    Hijack:
-      amazonawscom: 2058
-      spreakercom: 840
-      gsmccloud: 124
-      podbeancom: 4
-      firstoryme: 2
-      transistorfm: 2
-    Spam:
-      anchorfm: 36
-      spreakercom: 82
-      aushaco: 2
-      rsscom: 22
-      hubhoppercom: 16
-      pinecastcom: 16
-      buzzsproutcom: 16
-      podigeeio: 2
-      redcirclecom: 2
-      realtorpersiacom: 2
-      firstoryme: 380
-      jellypodcom: 2
-      burnabyhousecom: 2
-      transistorfm: 4
-      podbeancom: 2
-      substackcom: 2
-      beamlycom: 2
-      cloudinarycom: 2
-      podhostspace: 2
-    AI Slop:
-      jellypodcom: 12
-      buzzsproutcom: 6
-      spreakercom: 90
-      fastcastai: 10
-      rsscom: 20
-      anchorfm: 10
-      fexingocom: 2
-      windowsnet: 2
-      podeoco: 2
-      transistorfm: 2
-      hubhoppercom: 2
-      apexaiin: 2
-      megaphonefm: 2
-      supabaseco: 4
-  '2026-07-15':
-    Total: 2626
-    Spam:
-      spreakercom: 172
-      podcastmachinecom: 4
-      buzzsproutcom: 20
-      anchorfm: 28
-      podigeeio: 2
-      rsscom: 18
-      aushaco: 4
-      hubhoppercom: 14
-      firstoryme: 440
-      podservefm: 2
-      soundcloudcom: 2
-      captivatefm: 8
-      springcastapp: 2
-      riversidecom: 2
-      podbeancom: 2
-      riversidefm: 2
-    AI Slop:
-      beamlycom: 2
-      rsscom: 12
-      spreakercom: 72
-      girlandbrilliantcom: 2
-      buzzsproutcom: 2
-      fexingocom: 2
-      storyflocom: 2
-      fastcastai: 2
-      transistorfm: 2
-    Hijack:
-      spreakercom: 362
-      amazonawscom: 1440
-      rsscom: 4
-  '2026-07-14':
-    Total: 2718
-    Spam:
-      anchorfm: 46
-      hubhoppercom: 26
-      jellypodcom: 2
-      riversidecom: 6
-      spreakercom: 42
-      buzzsproutcom: 6
-      rsscom: 14
-      turbogeneratecom: 2
-      supabaseco: 2
-      mavedigital: 2
-      libsyncom: 4
-      firstoryme: 360
-      transistorfm: 2
-      soundonfm: 2
-      substackcom: 2
-      pinecastcom: 4
-      beamlycom: 2
-      lucky-lady-charmonline: 2
-    Hijack:
-      spreakercom: 936
-      amazonawscom: 868
-      gsmccloud: 2
-      podbeancom: 2
-      rsscom: 170
-      fastcastai: 2
-      anchorfm: 6
-    AI Slop:
-      spreakercom: 92
-      anchorfm: 14
-      buzzsproutcom: 14
-      rsscom: 14
-      podbeancom: 4
-      acastcom: 2
-      supabaseco: 2
-      amperwavenet: 2
-      workflows-of-aicom: 2
-      fastcastai: 6
-      sundaysnews: 6
-      megaphonefm: 32
-      simplecastcom: 14
-      transistorfm: 2
-  '2026-07-13':
-    Total: 2244
-    AI Slop:
-      simplecastcom: 78
-      megaphonefm: 42
-      buzzsproutcom: 8
-      rsscom: 44
-      clientcabincom: 2
-      supabaseco: 52
-      audiobookgratiscombr: 2
-      miauraai: 2
-      fastcastai: 4
-      spreakercom: 26
-      jellypodcom: 6
-      redcirclecom: 2
-    Hijack:
-      amazonawscom: 240
-      spreakercom: 1154
-      transistorfm: 6
-      rsscom: 166
-    Spam:
-      firstoryme: 264
-      spreakercom: 38
-      rsscom: 26
-      libsyncom: 2
-      riversidecom: 2
-      anchorfm: 32
-      buzzsproutcom: 8
-      hubhoppercom: 12
-      githubio: 2
-      substackcom: 2
-      medspamyrtlebeachcom: 2
-      pinecastcom: 14
-      redcirclecom: 2
-      podcastmachinecom: 2
-    Illegal:
-      podcasts-publisherclick: 2
-  '2026-07-12':
-    Total: 678
-    Hijack:
-      spreakercom: 104
-      rsscom: 68
-      podservefm: 2
-    AI Slop:
-      spreakercom: 212
-      captivatefm: 2
-      storyflocom: 14
-      rsscom: 52
-      poddyhostcom: 54
-    Spam:
-      podigeeio: 2
-      spreakercom: 6
-      tieudaocaccom: 2
-      firstoryme: 118
-      buzzsproutcom: 2
-      podservefm: 2
-      aushaco: 2
-      anchorfm: 10
-      poddyhostcom: 26
-  '2026-07-11':
-    Total: 942
-    Hijack:
-      spreakercom: 480
-      rsscom: 2
-    AI Slop:
-      spreakercom: 352
-      rsscom: 8
-      ecom-storepro: 2
-    Illegal:
-      spreakercom: 6
-    Spam:
-      spreakercom: 16
-      anchorfm: 12
-      firstoryme: 50
-      podigeeio: 4
-      podcastmachinecom: 2
-      buzzsproutcom: 2
-      beamlycom: 2
-      rsscom: 4
-  '2026-07-09':
-    Total: 2160
-    Hijack:
-      amazonawscom: 600
-      spreakercom: 1086
-    Spam:
-      buzzsproutcom: 10
-      rsscom: 22
-      anchorfm: 52
-      hubhoppercom: 30
-      firstoryme: 96
-      ivooxcom: 4
-      spreakercom: 30
-      libsyncom: 20
-      riversidecom: 2
-      redcirclecom: 6
-      captivatefm: 4
-      acastcom: 4
-      supertopelectroniconlinecom: 2
-      xyzfmspace: 2
-      vprbenefitscom: 2
-      podservefm: 4
-      transistorfm: 2
-      podbeancom: 2
-      pinecastcom: 4
-      ngocbaomediacom: 2
-      mavedigital: 2
-      podcastmachinecom: 2
-      aushaco: 2
-      podigeeio: 2
-    AI Slop:
-      spreakercom: 160
-      anchorfm: 2
-      supabaseco: 4
-  '2026-07-08':
-    Total: 2852
-    AI Slop:
-      spreakercom: 194
-      anchorfm: 14
-      transistorfm: 2
-      noxmagcom: 8
-      rabbitholebriefcom: 4
-    Hijack:
-      amazonawscom: 720
-      spreakercom: 1594
-    Spam:
-      anchorfm: 40
-      spreakercom: 60
-      firstoryme: 52
-      hubhoppercom: 36
-      firesidefm: 2
-      acastcom: 4
-      riversidecom: 4
-      podomaticcom: 2
-      buzzsproutcom: 24
-      megaphonefm: 2
-      rsscom: 26
-      libsyncom: 2
-      disctopiacom: 2
-      podigeeio: 10
-      transistorfm: 2
-      aushaco: 4
-      pinecastcom: 6
-      redcirclecom: 2
-      podbeancom: 2
-      mavedigital: 2
-      truestkindofcrimecom: 24
-      podservefm: 2
-      hipagency: 4
-      justcastcom: 2
-  '2026-07-07':
-    Total: 1510
-    Spam:
-      riversidecom: 6
-      hubhoppercom: 8
-      rsscom: 24
-      anchorfm: 36
-      buzzsproutcom: 10
-      redcirclecom: 2
-      firstoryme: 28
-      podbeancom: 2
-      spreakercom: 36
-      captivatefm: 4
-      podservefm: 2
-      podigeeio: 6
-      podcastmachinecom: 2
-      transistorfm: 6
-      fastcastai: 2
-      aushaco: 2
-      omnycontentcom: 2
-      audiorellacom: 2
-    AI Slop:
-      spreakercom: 34
-      megaphonefm: 10
-      simplecastcom: 6
-      fastcastai: 2
-      rsscom: 20
-      anchorfm: 8
-      transistorfm: 12
-    Hijack:
-      amazonawscom: 240
-      spreakercom: 998
-  '2026-07-06':
-    Total: 2054
-    Spam:
-      firstoryme: 28
-      buzzsproutcom: 12
-      rsscom: 24
-      anchorfm: 52
-      spreakercom: 54
-      ngocbaomediacom: 8
-      audiomeansfr: 2
-      podomaticcom: 4
-      transistorfm: 4
-      pinecastcom: 14
-      beamlycom: 2
-      castoscom: 12
-      podcastmachinecom: 2
-      riversidecom: 4
-      theranklancecom: 2
-      hubhoppercom: 14
-      aushaco: 2
-      fastcastai: 2
-      captivatefm: 2
-    AI Slop:
-      spreakercom: 488
-      anchorfm: 8
-      rsscom: 14
-      jellypodcom: 2
-      buzzsproutcom: 4
-      fastcastai: 8
-      booksreaderspace: 2
-    Hijack:
-      spreakercom: 800
-      amazonawscom: 482
-      rsscom: 2
-  '2026-07-05':
-    Total: 822
-    AI Slop:
-      spreakercom: 42
-      podbeancom: 2
-      jellypodcom: 2
-      buzzsproutcom: 2
-      ivooxcom: 2
-      anchorfm: 2
-      booksreaderspace: 2
-    Hijack:
-      amazonawscom: 240
-      spreakercom: 334
-      buzzsproutcom: 2
-      podbeancom: 2
-    Spam:
-      spreakercom: 14
-      anchorfm: 40
-      cloudfrontnet: 10
-      rsscom: 6
-      riversidecom: 4
-      firstoryme: 76
-      podomaticcom: 2
-      pinecastcom: 10
-      polylexapp: 2
-      podigeeio: 2
-      ivooxcom: 4
-      substackcom: 2
-      booksreaderspace: 2
-      buzzsproutcom: 6
-      supabaseco: 4
-      hubhoppercom: 4
-      acastcom: 2
-  '2026-07-04':
-    Total: 2460
-    Spam:
-      rsscom: 12
-      podcastmachinecom: 2
-      firstoryme: 56
-      fastcastai: 2
-      anchorfm: 10
-      hubhoppercom: 4
-      buzzsproutcom: 2
-      pinecastcom: 28
-      transistorfm: 2
-      podbeancom: 2
-      spreakercom: 8
-      mavedigital: 2
-      booksreaderspace: 2
-    Hijack:
-      spreakercom: 1780
-      feedburnercom: 2
-      amazonawscom: 360
-      redcirclecom: 2
-      loyalbookscom: 2
-    AI Slop:
-      booksreaderspace: 18
-      spreakercom: 48
-      transistorfm: 110
-      redcirclecom: 2
-      libsyncom: 2
+      buzzsproutcom: 5
+      firstoryme: 11
+      lepodcastfr: 2
+      redcirclecom: 1
+      rsscom: 1
+      spreakercom: 7
     Malicious:
-      transistorfm: 2
-  '2026-07-03':
-    Total: 448
+      spreakercom: 1
+  '2026-04-14':
+    Total: 891
     AI Slop:
-      spreakercom: 64
-      rsscom: 32
-      podservefm: 4
-      captivatefm: 2
-      3dscastcom: 6
-      anchorfm: 2
-      botsellerai: 4
-      transistorfm: 2
-    Spam:
-      spreakercom: 36
-      buzzsproutcom: 14
-      anchorfm: 24
-      hubhoppercom: 20
+      buddhaico: 434
+      redcirclecom: 1
       rsscom: 16
-      firstoryme: 72
-      pinecastcom: 16
-      podservefm: 2
-      asiaproco: 2
-      podigeeio: 4
-      booksreaderspace: 4
-      storyflocom: 2
-    Hijack:
-      rsscom: 4
-      spreakercom: 116
-  '2026-07-02':
-    Total: 2384
-    Hijack:
-      spreakercom: 1730
-      amazonawscom: 240
-    AI Slop:
-      transistorfm: 128
-      rsscom: 18
-      rsspodcastingcom: 2
-      endlessnoircom: 2
-      spreakercom: 98
-      beamlycom: 2
-      jellypodcom: 2
+      spreakercom: 385
     Spam:
-      transistorfm: 2
-      anchorfm: 28
-      substackcom: 2
-      buzzsproutcom: 6
-      podbeancom: 2
-      castoscom: 2
-      redcirclecom: 2
-      firstoryme: 20
-      pinecastcom: 26
-      spreakercom: 54
-      rsscom: 8
-      flashblackradiocom: 2
-      ivooxcom: 2
-      podservefm: 2
-      podcastmachinecom: 2
-      radiotalkjp: 2
-  '2026-07-01':
-    Total: 1780
-    Hijack:
-      spreakercom: 1370
-      amazonawscom: 120
+      anchorfm: 1
+      aushaco: 1
       buzzsproutcom: 2
-      anchorfm: 2
-    Spam:
-      rsscom: 12
-      spreakercom: 46
-      jellypodcom: 4
-      daphongthuy68vn: 2
-      buzzsproutcom: 6
-      ngocbaomediacom: 2
-      anchorfm: 26
-      transistorfm: 4
-      redcirclecom: 4
-      firstoryme: 44
-      pinecastcom: 18
-      githubio: 2
-      applecom: 2
-    AI Slop:
-      supabaseco: 2
-      spreakercom: 86
-      jellypodcom: 2
-      rsscom: 20
-      buzzsproutcom: 2
-      wavlakecom: 2
-  '2026-06-30':
-    Total: 2766
-    Hijack:
-      spreakercom: 2014
-      rsscom: 2
-      podigeeio: 2
-      amazonawscom: 358
-      firstoryme: 2
-    Spam:
-      firstoryme: 150
-      pinecastcom: 4
-      spreakercom: 76
-      anchorfm: 28
-      rsscom: 12
-      redcirclecom: 4
-      buzzsproutcom: 10
-      acastcom: 2
-      podservefm: 2
-      best-ainews: 2
-      podigeeio: 2
-      compl: 2
-      beamlycom: 2
-    AI Slop:
-      spreakercom: 46
-      captivatefm: 4
-      rsscom: 20
-      githubio: 12
-      buzzsproutcom: 2
-      podbeancom: 2
-      anchorfm: 2
-      hubhoppercom: 2
-      booksreaderspace: 2
-  '2026-06-29':
-    Total: 2144
-    Spam:
-      disctopiacom: 2
-      rsscom: 22
-      firstoryme: 130
-      mavedigital: 2
-      anchorfm: 20
-      buzzsproutcom: 6
+      firstoryme: 4
+      lepodcastfr: 16
+      redcirclecom: 1
+      rsscom: 7
       spreakercom: 22
-      substackcom: 2
-      redcirclecom: 2
-      booksreaderspace: 8
-      drdk: 4
-      aushaco: 2
-      pinecastcom: 6
-      podbeancom: 2
-      applecom: 2
     Hijack:
-      spreakercom: 1644
-      firstoryme: 2
-      amazonawscom: 240
+      spreakercom: 1
+  '2026-04-15':
+    Total: 400
     AI Slop:
-      booksreaderspace: 26
-  '2026-06-28':
-    Total: 3798
-    Hijack:
-      spreakercom: 2846
-      amazonawscom: 720
-    AI Slop:
-      booksreaderspace: 12
-      spreakercom: 2
-      anchorfm: 2
+      anchorfm: 1
+      buzzsproutcom: 1
+      hostingersitecom: 1
+      podspace: 3
+      quiesai: 1
+      rsscom: 15
+      spreakercom: 277
     Spam:
-      anchorfm: 20
-      spreakercom: 8
-      firstoryme: 112
-      hostaudiospace: 2
-      transistorfm: 68
-      rsscom: 2
-      pinecastcom: 4
-  '2026-06-27':
-    Total: 1816
-    Hijack:
-      spreakercom: 1548
-    Spam:
-      spreakercom: 58
-      firstoryme: 150
-      anchorfm: 24
-      pinecastcom: 12
-      rsscom: 6
-      acastcom: 2
-      buzzsproutcom: 6
-      podcastmachinecom: 2
-    AI Slop:
-      spreakercom: 2
-      transistorfm: 2
-      buzzsproutcom: 2
-      booksreaderspace: 2
-  '2026-06-26':
-    Total: 2734
-    Spam:
-      pinecastcom: 14
-      anchorfm: 54
-      hubhoppercom: 6
-      podbeancom: 2
-      firstoryme: 300
-      spreakercom: 60
-      rsscom: 16
-      zencastrcom: 2
-      captivatefm: 2
-      redcirclecom: 2
-      merkamascom: 2
-      midwestmonicacom: 2
-      buzzsproutcom: 2
-      podigeeio: 2
-      podservefm: 4
-    Hijack:
-      spreakercom: 2172
-    AI Slop:
-      spreakercom: 68
-      captivatefm: 2
-      rsscom: 16
-      jellypodcom: 2
-      buzzsproutcom: 2
-      anchorfm: 2
-  '2026-06-25':
-    Total: 1998
-    Hijack:
-      spreakercom: 1526
-    Spam:
-      pinecastcom: 42
-      firstoryme: 222
-      rsscom: 12
-      captivatefm: 2
-      spreakercom: 34
-      anchorfm: 40
-      hubhoppercom: 4
-      podcastmachinecom: 6
-      podigeeio: 6
-      buzzsproutcom: 4
-      podbeancom: 4
-      castboxfm: 6
-      redcirclecom: 2
-      mentallychargedcom: 2
-      storyflocom: 2
-    AI Slop:
-      spreakercom: 56
-      rsscom: 22
-      transistorfm: 2
-      anchorfm: 2
-      jellypodcom: 2
-  '2026-06-24':
-    Total: 3772
-    Hijack:
-      spreakercom: 2776
-    Spam:
-      captivatefm: 56
+      anchorfm: 7
       buzzsproutcom: 44
-      rsscom: 232
-      spreakercom: 36
-      anchorfm: 112
-      treeservicesbatonrougecom: 2
-      pinecastcom: 8
-      hubhoppercom: 4
-      wavlakecom: 2
-      firstoryme: 376
-      latertuliacommx: 2
-      transistorfm: 2
-      redcirclecom: 2
-      hostingersitecom: 2
-    Malicious:
-      captivatefm: 2
-      spreakercom: 2
-    AI Slop:
-      spreakercom: 80
-      rsscom: 22
-      anchorfm: 2
-      terumimoritacom: 2
-      captivatefm: 6
-  '2026-06-23':
-    Total: 1478
+      hostingersitecom: 1
+      podbeancom: 2
+      podigeeio: 2
+      podservefm: 1
+      redcirclecom: 1
+      rsscom: 11
+      spreakercom: 31
     Hijack:
-      spreakercom: 824
-      amazonawscom: 12
-      anchorfm: 2
-      rsscom: 8
+      spreakercom: 1
+  '2026-04-16':
+    Total: 524
+    AI Slop:
+      jellypodcom: 2
+      podigeeio: 1
+      rsscom: 48
+      spreakercom: 415
     Spam:
-      pinecastcom: 12
-      firstoryme: 366
-      anchorfm: 54
+      anchorfm: 10
+      buzzsproutcom: 3
+      podbeancom: 1
+      rsscom: 13
+      spreakercom: 30
+    Illegal:
+      rsscom: 1
+  '2026-04-17':
+    Total: 403
+    Spam:
+      anchorfm: 14
+      buzzsproutcom: 77
+      podservefm: 1
+      rsscom: 11
+      spreakercom: 29
+    AI Slop:
+      anchorfm: 1
+      buzzsproutcom: 1
+      hashbrownconversationscoin: 1
+      redcirclecom: 1
+      rsscom: 7
+      spreakercom: 257
+      transistorfm: 1
+    Hijack:
       spreakercom: 2
-      rsscom: 188
-      castoscom: 2
+  '2026-04-18':
+    Total: 138
+    Spam:
+      acastcom: 1
+      anchorfm: 18
       buzzsproutcom: 2
-      podtardscom: 2
-      musicsideprojectcom: 2
-      hubhoppercom: 2
-  '2026-06-22':
-    Total: 1690
-    Hijack:
-      spreakercom: 1060
-    Spam:
-      firstoryme: 266
-      anchorfm: 20
-      pinecastcom: 210
-      riversidecom: 2
-      spreakercom: 6
-      buzzsproutcom: 18
-      rsscom: 18
-      hubhoppercom: 8
-      feedburnercom: 8
-      justcastcom: 2
-      substackcom: 14
-      captivatefm: 2
-      redcirclecom: 54
-    AI Slop:
-      anchorfm: 2
-  '2026-06-21':
-    Total: 3632
-    Spam:
-      buzzsproutcom: 4
-      afrnet: 2
-      hubhoppercom: 4
-      spreakercom: 4
+      podcastmachinecom: 2
+      podigeeio: 1
       podservefm: 2
-      podbeancom: 4
-      redcirclecom: 28
-      anchorfm: 44
-      rsscom: 4
-      pinecastcom: 100
-      aushaco: 2
-      firstoryme: 120
-      riversidecom: 2
-    Hijack:
-      spreakercom: 3306
+      rsscom: 5
+      spreakercom: 17
+      transistorfm: 1
     AI Slop:
-      spreakercom: 2
-      rsscom: 2
-      megaphonefm: 2
-  '2026-06-20':
-    Total: 4438
-    AI Slop:
-      megaphonefm: 2926
-      spreakercom: 118
-      anchorfm: 2
-      jellypodcom: 4
-      rsscom: 34
-      harrismediacom: 2
-      transistorfm: 10
+      buzzsproutcom: 3
+      podcastmachinecom: 1
+      rsscom: 10
+      spreakercom: 70
     Hijack:
-      spreakercom: 1092
+      spreakercom: 5
+  '2026-04-19':
+    Total: 453
     Spam:
-      pinecastcom: 76
-      afrnet: 2
-      podcastmachinecom: 8
-      talkshoecom: 2
-      anchorfm: 34
-      hubhoppercom: 4
-      spreakercom: 26
+      anchorfm: 24
+      buzzsproutcom: 119
+      githubio: 1
+      prestocastcom: 1
       rsscom: 4
-      transistorfm: 8
-      firstoryme: 64
-      fountainfm: 2
-      beamlycom: 2
-      captivatefm: 2
-      aushaco: 2
-      podservefm: 2
-      podigeeio: 4
+      spreakercom: 11
+    Hijack:
+      spreakercom: 3
+    Illegal:
+      rsscom: 1
+      spreakercom: 19
+    AI Slop:
+      comau: 1
+      rsscom: 9
+      spreakercom: 260
+  '2026-04-20':
+    Total: 363
+    Spam:
+      3speaktv: 1
+      acastcom: 1
+      alitucom: 1
+      anchorfm: 13
+      aushaco: 1
+      buzzsproutcom: 76
+      huijzerxyz: 1
+      podcastmachinecom: 1
+      podigeeio: 1
+      rsscom: 3
+      selfdefensewomenonline: 2
+      spreakercom: 25
+      transistorfm: 1
+      vrkratomcom: 1
+    AI Slop:
+      jellypodcom: 2
+      rsscom: 11
+      spreakercom: 216
+    Illegal:
+      rsscom: 1
+      spreakercom: 5
+  '2026-04-21':
+    Total: 400
+    Spam:
+      anchorfm: 7
       buzzsproutcom: 6
-      hdlikevn: 2
-  '2026-06-19':
+      odyseecom: 1
+      podcastmachinecom: 2
+      podservefm: 2
+      redcirclecom: 3
+      rsscom: 5
+      spreakercom: 35
+    Illegal:
+      rsscom: 1
+      spreakercom: 41
+    AI Slop:
+      buddhaico: 1
+      buzzsproutcom: 1
+      jellypodcom: 1
+      rsscom: 15
+      spreakercom: 279
+  '2026-04-22':
+    Total: 679
+    Spam:
+      anchorfm: 19
+      aushaco: 1
+      buzzsproutcom: 5
+      firstoryme: 34
+      flightcastcom: 1
+      kinstacloud: 1
+      podcastmachinecom: 1
+      rsscom: 5
+      simplecastcom: 1
+      spreakercom: 93
+      transistorfm: 1
+    Hijack:
+      spreakercom: 2
+    AI Slop:
+      acastcom: 1
+      buzzsproutcom: 1
+      hostingersitecom: 3
+      rsscom: 12
+      spreakercom: 334
+      steelergentsiacom: 1
+      wavlakecom: 1
+    Illegal:
+      rsscom: 4
+      spreakercom: 158
+  '2026-04-23':
+    Total: 657
+    Spam:
+      acastcom: 1
+      anchorfm: 21
+      buzzsproutcom: 7
+      firstoryme: 52
+      podbeancom: 1
+      redcirclecom: 3
+      rsscom: 17
+      spreakercom: 29
+      transistorfm: 1
+    AI Slop:
+      devmail-styonline: 1
+      rsscom: 10
+      spreakercom: 514
+  '2026-04-24':
+    Total: 509
+    AI Slop:
+      rsscom: 17
+      spreakercom: 422
+    Spam:
+      anchorfm: 18
+      buzzsproutcom: 7
+      flightcastcom: 1
+      podbeancom: 1
+      podigeeio: 1
+      podservefm: 1
+      rsscom: 9
+      sekhemunionpathcom: 1
+      spreakercom: 26
+      transistorfm: 3
+    Illegal:
+      rsscom: 1
+      spreakercom: 1
+  '2026-04-25':
+    Total: 500
+    AI Slop:
+      buzzsproutcom: 1
+      rsscom: 5
+      spreakercom: 363
+    Illegal:
+      rsscom: 1
+    Spam:
+      acastcom: 1
+      anchorfm: 14
+      buzzsproutcom: 2
+      captivatefm: 1
+      pilonidalpodcastcom: 1
+      podbeancom: 1
+      podcastmachinecom: 1
+      rsscom: 6
+      spreakercom: 10
+    Hijack:
+      spreakercom: 93
+  '2026-04-26':
+    Total: 258
+    Spam:
+      acastcom: 2
+      anchorfm: 6
+      buzzsproutcom: 7
+      captivatefm: 1
+      podigeeio: 1
+      podservefm: 2
+      redcirclecom: 1
+      reformykz: 1
+      rsscom: 14
+      spreakercom: 10
+      triangleclickcom: 3
+      vixshieldcom: 1
+      wavlakecom: 1
+    AI Slop:
+      buzzsproutcom: 10
+      captivatefm: 1
+      githubusercontentcom: 2
+      prestocastcom: 1
+      rsscom: 32
+      spreakercom: 152
+      transistorfm: 6
+      triangleclickcom: 1
+      vodiofr: 1
+      wavlakecom: 1
+    Illegal:
+      spreakercom: 1
+  '2026-04-27':
+    Total: 962
+    Spam:
+      acastcom: 1
+      anchorfm: 35
+      blubrrynet: 1
+      buzzsproutcom: 55
+      civicmediaus: 1
+      comau: 1
+      firstoryme: 83
+      gitlabio: 1
+      nxcliio: 1
+      podigeeio: 2
+      prestocastcom: 1
+      redcirclecom: 2
+      rsscom: 22
+      sekhemunionpathcom: 1
+      spreakercom: 35
+      theenmcoachcom: 2
+      transistorfm: 1
+      wavlakecom: 1
+    AI Slop:
+      alitucom: 1
+      buzzsproutcom: 1
+      flightjournalcom: 1
+      nexusnexcastcom: 1
+      podigeeio: 1
+      podservefm: 1
+      rsscom: 37
+      santaanitachurchorg: 1
+      spreakercom: 654
+      theenmcoachcom: 1
+      transistorfm: 3
+      wavlakecom: 3
+    Illegal:
+      spreakercom: 11
+  '2026-04-28':
+    Total: 847
+    AI Slop:
+      acastcom: 5
+      adnkronoscom: 1
+      alban-llccom: 1
+      alitucom: 2
+      anchorfm: 2
+      bbsradiocom: 2
+      buzzsproutcom: 14
+      camacuk: 1
+      captivatefm: 2
+      jaggededgeartscom: 6
+      jellypodcom: 2
+      podigeeio: 7
+      podspace: 1
+      radioladiniacom: 1
+      redcirclecom: 2
+      rsscom: 55
+      spreakercom: 570
+      transistorfm: 1
+      vodiofr: 1
+      wavlakecom: 1
+    Spam:
+      acastcom: 1
+      anchorfm: 10
+      buzzsproutcom: 9
+      dreamhosterscom: 1
+      esunablecom: 1
+      firstoryme: 34
+      gheantoantreemcom: 1
+      hostingersitecom: 1
+      justcastcom: 1
+      podbeancom: 1
+      podcastmachinecom: 1
+      podcastscom: 1
+      podigeeio: 5
+      podservefm: 4
+      podspace: 1
+      redcirclecom: 1
+      rsscom: 37
+      spreakercom: 43
+      thegamercouchcom: 1
+      transistorfm: 11
+      wavlakecom: 2
+    Illegal:
+      spreakercom: 2
+    Hijack:
+      rsscom: 1
+  '2026-04-29':
+    Total: 555
+    Spam:
+      anchorfm: 29
+      aushaco: 1
+      buzzsproutcom: 3
+      captivatefm: 1
+      firstoryme: 57
+      podbeancom: 2
+      podcastmachinecom: 1
+      podigeeio: 3
+      podservefm: 2
+      redcirclecom: 2
+      rsscom: 4
+      sheikhjabatacom: 1
+      spreakercom: 30
+    AI Slop:
+      buzzsproutcom: 5
+      captivatefm: 1
+      jellypodcom: 3
+      rsscom: 13
+      spreakercom: 392
+      transistorfm: 1
+      vodiofr: 1
+    Illegal:
+      spreakercom: 2
+    Hijack:
+      spreakercom: 1
+  '2026-04-30':
+    Total: 480
+    AI Slop:
+      anchorfm: 2
+      aushaco: 1
+      bhitmagazinecom: 1
+      buzzsproutcom: 13
+      captivatefm: 1
+      firesidefm: 1
+      jaggededgeartscom: 12
+      jellypodcom: 1
+      mybluehostme: 1
+      patreoncom: 1
+      podigeeio: 4
+      podservefm: 1
+      redcirclecom: 1
+      rsscom: 70
+      spreakercom: 227
+      transistorfm: 3
+      vaguelygenericwebsite: 1
+      wavlakecom: 4
+    Spam:
+      3speaktv: 1
+      anchorfm: 9
+      buzzsproutcom: 8
+      doggozilacom: 1
+      firstoryme: 42
+      flightcastcom: 1
+      hubhoppercom: 1
+      mybluehostme: 1
+      pilonidalpodcastcom: 1
+      podbeancom: 2
+      podcastmachinecom: 1
+      redcirclecom: 3
+      rsscom: 36
+      soundonfm: 1
+      spreakercom: 21
+    Hijack:
+      spreakercom: 4
+    Illegal:
+      buzzsproutcom: 1
+      spreakercom: 1
+  '2026-05-01':
+    Total: 887
+    Spam:
+      anchorfm: 8
+      aushaco: 1
+      buzzsproutcom: 8
+      captivatefm: 2
+      frequency18com: 1
+      hubhoppercom: 1
+      podbeancom: 1
+      podigeeio: 2
+      podservefm: 1
+      prestocastcom: 1
+      redcirclecom: 2
+      rsscom: 23
+      sabirprocom: 1
+      spreakercom: 24
+      transistorfm: 1
+    AI Slop:
+      acastcom: 1
+      buzzsproutcom: 9
+      captivatefm: 1
+      chillarin39com: 1
+      everythingyouknowaboutjesusiswrongcom: 1
+      fountainfm: 1
+      frequency18com: 12
+      jellypodcom: 4
+      patreoncom: 1
+      podhomefm: 1
+      podservefm: 1
+      prestocastcom: 2
+      rsscom: 57
+      spreakercom: 712
+      transistorfm: 1
+      travelholicsmedia: 1
+      vodiofr: 2
+      wavlakecom: 1
+    Illegal:
+      spreakercom: 1
+  '2026-05-02':
+    Total: 401
+    AI Slop:
+      buzzsproutcom: 2
+      captivatefm: 1
+      podigeeio: 3
+      prestocastcom: 1
+      rsscom: 19
+      spreakercom: 343
+      transistorfm: 3
+      tranthanhngacom: 1
+    Spam:
+      acastcom: 1
+      anchorfm: 1
+      aushaco: 1
+      buzzsproutcom: 3
+      podigeeio: 1
+      redcirclecom: 1
+      rsscom: 14
+      spreakercom: 6
+  '2026-05-03':
+    Total: 319
+    AI Slop:
+      acastcom: 2
+      anchorfm: 1
+      buzzsproutcom: 5
+      captivatefm: 1
+      jellypodcom: 3
+      podigeeio: 2
+      prestocastcom: 1
+      r2dev: 1
+      redcirclecom: 1
+      rsscom: 18
+      spreakercom: 174
+      transistorfm: 6
+      wavlakecom: 6
+      youngcomputer: 1
+    Spam:
+      anchorfm: 9
+      audiobookzapcom: 1
+      buzzsproutcom: 5
+      derryvolgiecom: 1
+      firstoryme: 10
+      jellypodcom: 1
+      pangformse: 1
+      podcastmachinecom: 1
+      podigeeio: 1
+      rsscom: 25
+      spreakercom: 6
+      support-local-businessescom: 1
+      transistorfm: 30
+      wavlakecom: 2
+    Illegal:
+      rsscom: 3
+  '2026-05-04':
+    Total: 253
+    Spam:
+      anchorfm: 21
+      buzzsproutcom: 2
+      hubhoppercom: 1
+      podigeeio: 1
+      podservefm: 1
+      primetelcloud: 1
+      rnrtechvibesdemocom: 1
+      rsscom: 26
+      shillongteergroundonline: 1
+      spreakercom: 14
+      transistorfm: 1
+      wavlakecom: 1
+    AI Slop:
+      anchorfm: 1
+      buzzsproutcom: 9
+      cloudfrontnet: 2
+      fountainfm: 1
+      jellypodcom: 1
+      podigeeio: 1
+      rsscom: 41
+      spreakercom: 124
+      strangerspookscom: 1
+      wavlakecom: 1
+  '2026-05-05':
+    Total: 362
+    AI Slop:
+      anchorfm: 1
+      buzzsproutcom: 4
+      castoscom: 1
+      jellypodcom: 1
+      podcastmachinecom: 1
+      podigeeio: 2
+      rsscom: 39
+      spreakercom: 215
+      wavlakecom: 1
+      yetucoop: 2
+    Spam:
+      anchorfm: 14
+      aushaco: 1
+      blubrrycom: 1
+      buzzsproutcom: 6
+      castoscom: 1
+      cellhomevn: 1
+      connectedsecuritycouk: 1
+      firstoryme: 22
+      kinstacloud: 1
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 4
+      podservefm: 1
+      redcirclecom: 7
+      rsscom: 7
+      spreakercom: 24
+      wppluginsatozcom: 1
+    Illegal:
+      spreakercom: 1
+  '2026-05-06':
+    Total: 255
+    Spam:
+      anchorfm: 3
+      aushaco: 1
+      blubrrynet: 1
+      buzzsproutcom: 5
+      equitalitynl: 1
+      firstoryme: 17
+      huijzernet: 1
+      podbeancom: 2
+      podcastmachinecom: 2
+      podigeeio: 3
+      podservefm: 1
+      redcirclecom: 18
+      rsscom: 11
+      soundcloudcom: 1
+      spreakercom: 15
+      transistorfm: 2
+    AI Slop:
+      acastcom: 2
+      aushaco: 1
+      autismparentsunitedorg: 1
+      buzzsproutcom: 3
+      captivatefm: 1
+      cloudfrontnet: 1
+      githubio: 1
+      jellypodcom: 2
+      podigeeio: 1
+      redcirclecom: 2
+      rsscom: 60
+      spreakercom: 93
+      transistorfm: 1
+      wavlakecom: 1
+    Illegal:
+      spreakercom: 1
+  '2026-05-07':
+    Total: 20
+    Hijack:
+      buzzsproutcom: 2
+    AI Slop:
+      jellypodcom: 1
+      podigeeio: 1
+      spreakercom: 3
+    Spam:
+      buzzsproutcom: 1
+      redcirclecom: 7
+      rsscom: 2
+      spreakercom: 3
+  '2026-05-08':
+    Total: 1193
+    Hijack:
+      buzzsproutcom: 1
+      spreakercom: 529
+    AI Slop:
+      acastcom: 1
+      anchorfm: 1
+      buzzsproutcom: 2
+      fastcastai: 1
+      firstoryme: 2
+      getrealgirlpodcastcom: 3
+      jellypodcom: 1
+      podigeeio: 1
+      rsscom: 50
+      spreakercom: 374
+      transistorfm: 2
+    Spam:
+      anchorfm: 14
+      asynccom: 1
+      aulaedupe: 1
+      aushaco: 1
+      buzzsproutcom: 5
+      feedburnercom: 1
+      firstoryme: 26
+      pinecastcom: 1
+      podbeancom: 1
+      podcastmachinecom: 2
+      podigeeio: 3
+      podservefm: 5
+      qfeelro: 1
+      redcirclecom: 12
+      rsscom: 31
+      spreakercom: 120
+  '2026-05-09':
+    Total: 167
+    Hijack:
+      spreakercom: 2
+      transistorfm: 1
+    AI Slop:
+      r2dev: 1
+      redcirclecom: 1
+      rsscom: 20
+      spreakercom: 26
+    Spam:
+      anchorfm: 22
+      aushaco: 1
+      buzzsproutcom: 1
+      firstoryme: 44
+      podbeancom: 3
+      podcastmachinecom: 2
+      podservefm: 2
+      redcirclecom: 1
+      rsscom: 30
+      spreakercom: 9
+      transistorfm: 1
+  '2026-05-10':
+    Total: 167
+    AI Slop:
+      buzzsproutcom: 3
+      podigeeio: 1
+      redcirclecom: 1
+      rsscom: 14
+      spreakercom: 36
+      transistorfm: 1
+      voiceclimaxcom: 27
+    Spam:
+      anchorfm: 10
+      buzzsproutcom: 6
+      captivatefm: 1
+      castoscom: 1
+      firstoryme: 3
+      hubhoppercom: 3
+      podbeancom: 1
+      podservefm: 3
+      rsscom: 38
+      spreakercom: 5
+      voiceclimaxcom: 5
+      webradioai: 1
+    Hijack:
+      spreakercom: 6
+    Illegal:
+      rsscom: 1
+  '2026-05-11':
+    Total: 223
+    Spam:
+      anchorfm: 19
+      buzzsproutcom: 5
+      firstoryme: 40
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 1
+      redcirclecom: 2
+      rssapp: 1
+      rsscom: 47
+      spreakercom: 23
+    AI Slop:
+      rsscom: 22
+      spreakercom: 60
+    Hijack:
+      rsscom: 1
+  '2026-05-12':
+    Total: 233
+    Spam:
+      alitucom: 1
+      anchorfm: 30
+      blubrrycom: 1
+      buzzsproutcom: 12
+      firstoryme: 25
+      jellypodcom: 1
+      podcastmachinecom: 3
+      podigeeio: 2
+      podservefm: 2
+      redcirclecom: 2
+      rsscom: 45
+      spreakercom: 31
+    AI Slop:
+      anchorfm: 1
+      buzzsproutcom: 1
+      cloudfrontnet: 2
+      girlgetrealpodcastcom: 2
+      podservefm: 1
+      podspace: 1
+      rsscom: 22
+      spreakercom: 46
+    Hijack:
+      demoavatartop: 1
+      spreakercom: 1
+  '2026-05-13':
     Total: 268
     AI Slop:
-      spreakercom: 30
-      rsscom: 14
-    Hijack:
-      spreakercom: 14
-    Spam:
-      spreakercom: 40
-      amiekospace: 2
-      firstoryme: 140
-      buzzsproutcom: 10
-      podcastmachinecom: 2
-      rsscom: 6
-      anchorfm: 10
-  '2026-06-18':
-    Total: 3508
-    AI Slop:
-      spreakercom: 20
-      megaphonefm: 784
-      firstoryme: 2
-      jellypodcom: 2
-    Hijack:
-      spreakercom: 2260
-    Spam:
-      pinecastcom: 16
-      firstoryme: 352
-      spreakercom: 2
-      aushaco: 2
-      anchorfm: 6
-      hubhoppercom: 4
-      transistorfm: 54
-      fontgeneratorworldcom: 2
-    Malicious:
-      spreakercom: 2
-  '2026-06-17':
-    Total: 2464
-    AI Slop:
-      megaphonefm: 614
-      spreakercom: 6
-    Spam:
-      podbeancom: 6
-      buzzsproutcom: 18
-      castboxfm: 22
-      podomaticcom: 12
-      acastcom: 2
-      rsscom: 28
-      podservefm: 6
-      anchorfm: 82
-      hubhoppercom: 78
-      ngocbaomediacom: 44
-      podigeeio: 4
-      podcastmachinecom: 6
-      megaphonefm: 2
-      spreakercom: 32
-      feedburnercom: 2
-      redcirclecom: 88
-      jozzfun: 4
-      audiomackcom: 2
-      podvinecom: 4
-      simplecastcom: 2
-      vodiofr: 2
-      firstoryme: 288
-      pinecastcom: 50
-      riversidefm: 64
-      riversidecom: 16
-      flightcastcom: 2
-      booksreaderspace: 4
-    Hijack:
-      spreakercom: 972
-    Malicious:
-      spreakercom: 2
-  '2026-06-16':
-    Total: 2074
-    Spam:
-      pinecastcom: 30
-      firstoryme: 206
-      anchorfm: 24
-      buzzsproutcom: 14
-      transistorfm: 4
-      laptop678vn: 2
-      spreakercom: 24
-      rsscom: 10
-      hubhoppercom: 2
-      redcirclecom: 42
-      podcastmachinecom: 2
-      ghcfirmcom: 2
-      podservefm: 2
-    Hijack:
-      spreakercom: 972
-      megaphonefm: 2
-    AI Slop:
-      spreakercom: 136
-      megaphonefm: 548
-      rsscom: 42
-      jellypodcom: 4
-      transistorfm: 4
       buzzsproutcom: 2
-  '2026-06-15':
-    Total: 1026
-    Spam:
-      firstoryme: 156
-      anchorfm: 6
-      githubusercontentcom: 2
-      spreakercom: 2
-    Hijack:
-      spreakercom: 258
-    AI Slop:
-      megaphonefm: 596
-      spreakercom: 4
-      anchorfm: 2
-  '2026-06-14':
-    Total: 2464
-    Spam:
-      rsscom: 4
-      redcirclecom: 6
-      captivatefm: 2
-      pinecastcom: 12
-      hubhoppercom: 2
-      firstoryme: 142
-      anchorfm: 18
-      spreakercom: 4
-      anuphoncom: 2
-      ivooxcom: 2
-      castboxfm: 2
-    AI Slop:
-      spreakercom: 112
-      megaphonefm: 726
       jellypodcom: 2
-      buzzsproutcom: 2
-      rsscom: 16
-    Hijack:
-      spreakercom: 1408
-    Illegal:
-      spreakercom: 2
-  '2026-06-13':
-    Total: 2074
-    AI Slop:
-      megaphonefm: 596
-      spreakercom: 4
+      podservefm: 1
+      rsscom: 12
+      spreakercom: 35
+      transistorfm: 1
     Spam:
-      pinecastcom: 192
-      redcirclecom: 30
-      podbeancom: 12
-      spreakercom: 8
-      rsscom: 16
-      firstoryme: 48
-      hubhoppercom: 6
-      podservefm: 2
-      podomaticcom: 4
-      podcastmachinecom: 6
+      anchorfm: 35
+      aushaco: 1
       buzzsproutcom: 8
-      castboxfm: 2
-      shakilmehrazcom: 2
-    Hijack:
-      spreakercom: 1136
-    Malicious:
-      spreakercom: 2
-  '2026-06-12':
-    Total: 928
-    Hijack:
-      spreakercom: 538
-    AI Slop:
-      spreakercom: 68
-      rsscom: 6
-      redcirclecom: 2
-      captivatefm: 2
-    Spam:
-      redcirclecom: 68
-      rsscom: 16
-      buzzsproutcom: 4
-      podservefm: 4
-      firstoryme: 164
-      spreakercom: 26
-      farfrombasyccom: 2
-      prestocastcom: 4
-      anchorfm: 22
-      podigeeio: 2
-  '2026-06-11':
-    Total: 4246
-    Hijack:
-      spreakercom: 2532
-      amazonawscom: 12
-    AI Slop:
-      spreakercom: 592
-      megaphonefm: 542
-      rsscom: 24
-      jellypodcom: 2
-      redcirclecom: 2
-      llifetv: 4
-    Spam:
-      firstoryme: 108
-      anchorfm: 20
-      spreakercom: 36
-      pinecastcom: 262
-      redcirclecom: 82
-      hubhoppercom: 2
-      podcastmachinecom: 2
-      buzzsproutcom: 6
-      rsscom: 16
-      feedburnercom: 2
-  '2026-06-10':
-    Total: 2418
-    Hijack:
-      spreakercom: 1100
-    AI Slop:
-      spreakercom: 674
-      rsscom: 22
-      jellypodcom: 2
-      megaphonefm: 354
-      redcirclecom: 2
-      nora-finncom: 2
-    Spam:
-      redcirclecom: 24
-      spreakercom: 32
-      firstoryme: 148
-      rsscom: 22
-      anchorfm: 2
+      captivatefm: 1
+      firstoryme: 54
+      podcastmachinecom: 1
+      podigeeio: 1
       podservefm: 2
-      podcastmachinecom: 2
-      podbeancom: 2
-      audionfm: 4
-      pinecastcom: 22
-    Malicious:
-      rsscom: 2
-  '2026-06-09':
-    Total: 3744
-    Hijack:
-      spreakercom: 2264
-      rsscom: 74
-      buzzsproutcom: 4
-      podscribeai: 2
-      anchorfm: 46
-      podbeancom: 2
+      redcirclecom: 22
+      rsscom: 64
+      soundcloudcom: 1
+      spreakercom: 23
+      stoneflycom: 1
+      transistorfm: 1
+  '2026-05-14':
+    Total: 592
     AI Slop:
-      spreakercom: 246
-      megaphonefm: 900
-      anchorfm: 2
-      rsscom: 22
-      podpilotorg: 2
-      transistorfm: 2
+      buzzsproutcom: 1
+      captivatefm: 1
+      rsscom: 9
+      spreakercom: 69
+    Hijack:
+      spreakercom: 392
     Spam:
-      firstoryme: 94
       anchorfm: 24
-      rsscom: 18
-      spreakercom: 18
-      ngocbaomediacom: 4
-      acastcom: 2
-      buzzsproutcom: 6
-      hubhoppercom: 6
-      pinecastcom: 2
-      redcirclecom: 2
-      like88vn: 2
-  '2026-06-08':
-    Total: 1936
+      aushaco: 1
+      buzzsproutcom: 2
+      firstoryme: 40
+      podcastmachinecom: 1
+      rsscom: 39
+      soundcloudcom: 2
+      spreakercom: 11
+  '2026-05-15':
+    Total: 3
     AI Slop:
-      rsscom: 30
-      megaphonefm: 504
-      spreakercom: 132
-      jellypodcom: 4
-      transistorfm: 2
-      redcirclecom: 2
-      buzzsproutcom: 4
-    Hijack:
       megaphonefm: 2
-      spreakercom: 1096
-      rsscom: 2
-    Spam:
-      spreakercom: 32
-      buzzsproutcom: 8
-      rsscom: 72
-      wavlakecom: 2
-      hubhoppercom: 4
-      firstoryme: 32
-      podigeeio: 2
-      podcastmachinecom: 2
-      anchorfm: 2
-      podbeancom: 2
-  '2026-06-07':
-    Total: 2928
+      spreakercom: 1
+  '2026-05-18':
+    Total: 404
     AI Slop:
-      spreakercom: 926
-      megaphonefm: 480
-      anchorfm: 8
-      libsyncom: 2
-      rsscom: 42
-      aiautoblogcc: 2
-      jellypodcom: 2
+      buzzsproutcom: 3
+      jellypodcom: 3
+      rsscom: 11
+      spreakercom: 119
+      wavlakecom: 1
     Hijack:
-      spreakercom: 1356
+      rsscom: 1
+      spreakercom: 161
     Spam:
-      hubhoppercom: 6
-      mediabooksspace: 2
-      rsscom: 14
-      spreakercom: 38
-      transistorfm: 2
-      buzzsproutcom: 6
-      firstoryme: 16
-      anchorfm: 18
-      podigeeio: 2
+      anchorfm: 6
+      buzzsproutcom: 3
+      firstoryme: 41
       podbeancom: 2
-      r2dev: 2
-    Malicious:
-      megaphonefm: 2
-  '2026-06-06':
-    Total: 566
-    Hijack:
-      spreakercom: 120
-    AI Slop:
-      spreakercom: 244
-      rsscom: 36
-      jellypodcom: 2
-      denkschachtde: 2
-      podbeancom: 2
-    Spam:
-      rsscom: 98
-      podservefm: 4
+      podcastmachinecom: 1
+      rsscom: 35
       spreakercom: 16
-      anchorfm: 10
-      buzzsproutcom: 6
-      simplecastcom: 2
-      podcastmachinecom: 2
-      podigeeio: 14
-      firstoryme: 8
-  '2026-06-05':
-    Total: 3004
-    AI Slop:
-      megaphonefm: 1802
-      spreakercom: 810
-      rsscom: 14
-      lightpollutionnewscom: 8
-      anchorfm: 4
-      podcastmachinecom: 2
-      jellypodcom: 2
-      transistorfm: 2
-      buzzsproutcom: 2
-    Hijack:
-      spreakercom: 96
+      transistorfm: 1
+  '2026-05-19':
+    Total: 642
     Spam:
-      buzzsproutcom: 14
-      podigeeio: 6
-      spreakercom: 42
-      firstoryme: 62
-      rsscom: 82
-      anchorfm: 26
-      nhuakythuatvietphatcom: 2
-      transistorfm: 2
-      podbeancom: 2
-      podcastmachinecom: 2
-      hubhoppercom: 8
-      castboxfm: 10
-      podservefm: 2
-      feedburnercom: 2
-  '2026-06-04':
-    Total: 620
-    Hijack:
-      spreakercom: 162
-    AI Slop:
-      spreakercom: 238
-      transistorfm: 2
-      rsscom: 26
-      redcirclecom: 2
-      jellypodcom: 6
-      remotemagecom: 2
-    Spam:
-      spreakercom: 36
+      aiimucom: 2
       anchorfm: 18
-      rsscom: 76
-      firstoryme: 28
-      acastcom: 2
-      buzzsproutcom: 4
-      hubhoppercom: 6
-      podcastmachinecom: 4
-      podigeeio: 2
-      aushaco: 2
-      summersagamodscom: 2
-    Illegal:
-      spreakercom: 2
-  '2026-06-02':
-    Total: 694
-    Hijack:
-      spreakercom: 250
-    AI Slop:
-      spreakercom: 126
-      rsscom: 26
-      wavlakecom: 2
-      buzzsproutcom: 4
-      jellypodcom: 2
-      redcirclecom: 2
-    Spam:
-      brainrotsdigitalcom: 2
-      spreakercom: 38
-      rsscom: 76
-      firstoryme: 144
-      ecommerceagscom: 2
-      buzzsproutcom: 8
-      anchorfm: 10
-      pinecastcom: 2
-  '2026-06-01':
-    Total: 540
-    Spam:
-      firstoryme: 128
-      spreakercom: 34
-      buzzsproutcom: 8
-      hubhoppercom: 8
-      rsscom: 56
-      podcastmachinecom: 2
-      anchorfm: 12
-    AI Slop:
-      rsscom: 18
-      spreakercom: 208
-      buzzsproutcom: 2
-      jellypodcom: 2
-      githubusercontentcom: 2
-      catchmeuporg: 2
-    Hijack:
-      spreakercom: 58
-  '2026-05-31':
-    Total: 926
-    Hijack:
-      spreakercom: 630
-    AI Slop:
-      spreakercom: 116
-      rsscom: 10
-      buzzsproutcom: 2
-      jellypodcom: 4
-      castoscom: 2
-      acastcom: 4
-    Spam:
-      rsscom: 54
-      transistorfm: 2
-      firstoryme: 70
-      hubhoppercom: 6
-      podcasts-publisherclick: 2
-      spreakercom: 10
-      feedburnercom: 8
-      buzzsproutcom: 4
-    Illegal:
-      spreakercom: 2
-  '2026-05-30':
-    Total: 858
-    AI Slop:
-      spreakercom: 232
-      rsscom: 22
-      buzzsproutcom: 2
-      captivatefm: 2
-      transistorfm: 2
-    Hijack:
-      spreakercom: 332
-      rsscom: 2
-    Spam:
-      anchorfm: 32
-      redcirclecom: 10
-      podservefm: 14
-      podigeeio: 14
-      spreakercom: 34
-      rsscom: 68
-      firstoryme: 80
+      buzzsproutcom: 5
+      firstoryme: 32
       hubhoppercom: 2
-      podcastmachinecom: 2
-      zencastfm: 2
+      nerdylabtech: 1
+      podcastmirrorcom: 1
+      podigeeio: 1
+      redcirclecom: 1
+      rsscom: 37
+      spreakercom: 26
+      transistorfm: 3
+    AI Slop:
+      buzzsproutcom: 1
+      jellypodcom: 2
+      pharwizcom: 1
+      rsscom: 25
+      spreakercom: 101
+      transistorfm: 1
+    Hijack:
       buzzsproutcom: 2
-      voiceshopjp: 2
+      spreakercom: 379
     Illegal:
-      spreakercom: 2
-  '2026-05-29':
-    Total: 1180
+      spreakercom: 1
+  '2026-05-20':
+    Total: 596
     Spam:
-      rsscom: 32
-      feedburnercom: 4
-      buzzsproutcom: 10
-      anchorfm: 16
-      firstoryme: 100
-      spreakercom: 22
-      redcirclecom: 2
-    AI Slop:
-      spreakercom: 226
-      happypodcastfr: 4
-      anchorfm: 2
-      rsscom: 2
-    Hijack:
-      spreakercom: 760
-  '2026-05-28':
-    Total: 922
-    Hijack:
-      spreakercom: 522
-    AI Slop:
-      spreakercom: 76
-      rsscom: 36
-      buzzsproutcom: 2
-      jellypodcom: 2
-    Spam:
-      rsscom: 70
-      spreakercom: 48
-      firstoryme: 154
-      anchorfm: 8
-      aushaco: 2
-      podigeeio: 2
-  '2026-05-27':
-    Total: 608
-    Hijack:
-      spreakercom: 182
-    AI Slop:
-      spreakercom: 98
-      onrendercom: 2
-      rsscom: 16
-      buzzsproutcom: 2
-      castoscom: 2
-      captivatefm: 2
-      lostswordfishcom: 2
-    Spam:
-      buzzsproutcom: 4
-      spreakercom: 32
-      firstoryme: 144
-      3speaktv: 2
-      jellypodcom: 2
-      rsscom: 84
-      anchorfm: 24
-      podcastmachinecom: 6
-      feedburnercom: 4
-  '2026-05-25':
-    Total: 116
-    AI Slop:
-      spreakercom: 52
-      rsscom: 14
-      jellypodcom: 2
-      redcirclecom: 2
-    Spam:
-      spreakercom: 10
-      buzzsproutcom: 8
-      rsscom: 4
-      anchorfm: 12
-      redcirclecom: 2
-      podservefm: 4
-      aushaco: 2
-    Hijack:
-      spreakercom: 2
-      rsscom: 2
-  '2026-05-24':
-    Total: 156
-    Spam:
-      spreakercom: 18
-      firstoryme: 18
-      rsscom: 8
-      anchorfm: 18
-      transistorfm: 2
-      podigeeio: 8
+      alldayieatcom: 1
+      anchorfm: 9
+      buzzsproutcom: 1
+      firstoryme: 2
       podservefm: 2
-      hubhoppercom: 4
-    AI Slop:
-      rsscom: 24
-      spreakercom: 34
-      transistorfm: 4
-      buzzsproutcom: 4
-      podpilotorg: 2
-      podigeeio: 2
-      jellypodcom: 2
-      anchorfm: 2
-    Illegal:
-      spreakercom: 2
+      rsscom: 5
+      simplecastcom: 1
+      spreakercom: 3
     Hijack:
-      spreakercom: 2
-  '2026-05-23':
-    Total: 744
+      buzzsproutcom: 1
+      spreakercom: 428
+    AI Slop:
+      castoscom: 1
+      jellypodcom: 1
+      rsscom: 96
+      spreakercom: 45
+  '2026-05-21':
+    Total: 282
+    Hijack:
+      spreakercom: 76
+    AI Slop:
+      acastcom: 1
+      blerdlinespodcom: 12
+      buzzsproutcom: 2
+      jellypodcom: 1
+      podbrewercom: 2
+      rsscom: 16
+      spreakercom: 26
+    Spam:
+      acastcom: 1
+      anchorfm: 12
+      buzzsproutcom: 3
+      firstoryme: 72
+      podbeancom: 1
+      podigeeio: 7
+      podservefm: 1
+      prestocastcom: 1
+      rsscom: 29
+      spreakercom: 19
+  '2026-05-22':
+    Total: 673
     Hijack:
       spreakercom: 414
-    AI Slop:
-      spreakercom: 96
-      transistorfm: 6
-      rsscom: 30
-      buzzsproutcom: 2
-      podigeeio: 2
     Spam:
-      transistorfm: 50
-      buzzsproutcom: 6
-      firstoryme: 42
-      rsscom: 58
-      podigeeio: 6
-      anchorfm: 14
-      podcastmachinecom: 2
-      spreakercom: 14
-      podbeancom: 2
-  '2026-05-22':
-    Total: 1346
-    Hijack:
-      spreakercom: 828
-    Spam:
-      firstoryme: 120
-      spreakercom: 38
-      musicsideprojectcom: 2
-      captivatefm: 2
-      buzzsproutcom: 6
-      hubhoppercom: 2
-      anchorfm: 60
-      rsscom: 40
-      frontstretchcom: 2
-      podcasts-publisherclick: 6
-      podbeancom: 2
-      podservefm: 2
-      podcastmachinecom: 2
-      podigeeio: 2
-      brothers-in-christorg: 2
-      transistorfm: 2
-    AI Slop:
-      spreakercom: 192
-      jellypodcom: 2
-      rsscom: 32
-      podcasts-publisherclick: 2
-  '2026-05-21':
-    Total: 564
-    Hijack:
-      spreakercom: 152
-    AI Slop:
-      spreakercom: 52
-      rsscom: 32
-      blerdlinespodcom: 24
-      acastcom: 2
-      jellypodcom: 2
-      buzzsproutcom: 4
-      podbrewercom: 4
-    Spam:
-      podservefm: 2
-      spreakercom: 38
-      firstoryme: 144
-      rsscom: 58
-      anchorfm: 24
-      acastcom: 2
-      prestocastcom: 2
-      podigeeio: 14
-      buzzsproutcom: 6
-      podbeancom: 2
-  '2026-05-20':
-    Total: 1192
-    Spam:
-      firstoryme: 4
-      rsscom: 10
-      spreakercom: 6
-      anchorfm: 18
-      podservefm: 4
-      buzzsproutcom: 2
-      simplecastcom: 2
-      alldayieatcom: 2
-    Hijack:
-      spreakercom: 856
-      buzzsproutcom: 2
-    AI Slop:
-      spreakercom: 90
-      rsscom: 192
-      castoscom: 2
-      jellypodcom: 2
-  '2026-05-19':
-    Total: 1284
-    Spam:
-      rsscom: 74
-      anchorfm: 36
-      transistorfm: 6
-      buzzsproutcom: 10
-      firstoryme: 64
-      spreakercom: 52
-      podigeeio: 2
-      hubhoppercom: 4
-      aiimucom: 4
-      nerdylabtech: 2
-      podcastmirrorcom: 2
-      redcirclecom: 2
-    AI Slop:
-      rsscom: 50
-      spreakercom: 202
-      buzzsproutcom: 2
-      pharwizcom: 2
-      jellypodcom: 4
-      transistorfm: 2
-    Hijack:
-      spreakercom: 758
-      buzzsproutcom: 4
-    Illegal:
-      spreakercom: 2
-  '2026-05-18':
-    Total: 808
-    AI Slop:
-      wavlakecom: 2
-      spreakercom: 238
-      rsscom: 22
-      jellypodcom: 6
-      buzzsproutcom: 6
-    Hijack:
-      spreakercom: 322
-      rsscom: 2
-    Spam:
-      rsscom: 70
-      firstoryme: 82
-      buzzsproutcom: 6
-      transistorfm: 2
-      podcastmachinecom: 2
-      spreakercom: 32
-      podbeancom: 4
-      anchorfm: 12
-  '2026-05-15':
-    Total: 6
-    AI Slop:
-      megaphonefm: 4
-      spreakercom: 2
-  '2026-05-14':
-    Total: 1184
-    AI Slop:
-      spreakercom: 138
-      captivatefm: 2
-      buzzsproutcom: 2
-      rsscom: 18
-    Hijack:
-      spreakercom: 784
-    Spam:
-      spreakercom: 22
-      rsscom: 78
-      firstoryme: 80
-      anchorfm: 48
-      podcastmachinecom: 2
-      soundcloudcom: 4
-      aushaco: 2
-      buzzsproutcom: 4
-  '2026-05-13':
-    Total: 536
-    AI Slop:
-      spreakercom: 70
-      rsscom: 24
-      jellypodcom: 4
-      podservefm: 2
-      buzzsproutcom: 4
-      transistorfm: 2
-    Spam:
-      firstoryme: 108
-      rsscom: 128
-      anchorfm: 70
-      buzzsproutcom: 16
-      spreakercom: 46
-      podcastmachinecom: 2
-      stoneflycom: 2
-      soundcloudcom: 2
-      podservefm: 4
-      aushaco: 2
-      captivatefm: 2
-      redcirclecom: 44
-      podigeeio: 2
-      transistorfm: 2
-  '2026-05-12':
-    Total: 466
-    Spam:
-      rsscom: 90
-      anchorfm: 60
-      firstoryme: 50
-      podcastmachinecom: 6
-      spreakercom: 62
-      podservefm: 4
-      buzzsproutcom: 24
-      alitucom: 2
-      redcirclecom: 4
-      blubrrycom: 2
-      podigeeio: 4
-      jellypodcom: 2
-    AI Slop:
-      spreakercom: 92
-      rsscom: 44
-      podservefm: 2
-      cloudfrontnet: 4
-      girlgetrealpodcastcom: 4
-      buzzsproutcom: 2
-      podspace: 2
-      anchorfm: 2
-    Hijack:
-      spreakercom: 2
-      demoavatartop: 2
-  '2026-05-11':
-    Total: 446
-    Spam:
-      rsscom: 94
-      spreakercom: 46
-      podigeeio: 2
-      buzzsproutcom: 10
-      redcirclecom: 4
-      firstoryme: 80
-      anchorfm: 38
-      podcastmachinecom: 2
-      podbeancom: 2
-      rssapp: 2
-    AI Slop:
-      spreakercom: 120
-      rsscom: 44
-    Hijack:
-      rsscom: 2
-  '2026-05-10':
-    Total: 334
-    AI Slop:
-      buzzsproutcom: 6
-      spreakercom: 72
-      rsscom: 28
-      redcirclecom: 2
-      voiceclimaxcom: 54
-      transistorfm: 2
-      podigeeio: 2
-    Spam:
-      castoscom: 2
-      rsscom: 76
-      firstoryme: 6
-      hubhoppercom: 6
-      voiceclimaxcom: 10
-      anchorfm: 20
-      spreakercom: 10
-      buzzsproutcom: 12
-      captivatefm: 2
-      podbeancom: 2
-      podservefm: 6
-      webradioai: 2
-    Hijack:
-      spreakercom: 12
-    Illegal:
-      rsscom: 2
-  '2026-05-09':
-    Total: 334
-    Hijack:
-      transistorfm: 2
-      spreakercom: 4
-    AI Slop:
-      spreakercom: 52
-      rsscom: 40
-      r2dev: 2
-      redcirclecom: 2
-    Spam:
-      anchorfm: 44
-      transistorfm: 2
-      spreakercom: 18
-      firstoryme: 88
-      rsscom: 60
-      podcastmachinecom: 4
-      redcirclecom: 2
-      podbeancom: 6
-      aushaco: 2
-      buzzsproutcom: 2
-      podservefm: 4
-  '2026-05-08':
-    Total: 2386
-    Hijack:
-      spreakercom: 1058
-      buzzsproutcom: 2
-    AI Slop:
-      spreakercom: 748
-      rsscom: 100
-      getrealgirlpodcastcom: 6
-      acastcom: 2
-      anchorfm: 2
-      buzzsproutcom: 4
-      podigeeio: 2
-      transistorfm: 4
-      firstoryme: 4
-      jellypodcom: 2
-      fastcastai: 2
-    Spam:
-      podservefm: 10
-      spreakercom: 240
-      feedburnercom: 2
-      rsscom: 62
-      aulaedupe: 2
-      anchorfm: 28
-      podcastmachinecom: 4
-      podigeeio: 6
-      redcirclecom: 24
-      podbeancom: 2
-      asynccom: 2
-      aushaco: 2
-      buzzsproutcom: 10
-      qfeelro: 2
-      firstoryme: 52
-      pinecastcom: 2
-  '2026-05-07':
-    Total: 40
-    Hijack:
-      buzzsproutcom: 4
-    AI Slop:
-      spreakercom: 6
-      podigeeio: 2
-      jellypodcom: 2
-    Spam:
-      rsscom: 4
-      redcirclecom: 14
-      spreakercom: 6
-      buzzsproutcom: 2
-  '2026-05-06':
-    Total: 510
-    Spam:
-      spreakercom: 30
-      transistorfm: 4
-      huijzernet: 2
-      buzzsproutcom: 10
-      blubrrynet: 2
-      equitalitynl: 2
-      rsscom: 22
-      aushaco: 2
-      anchorfm: 6
-      redcirclecom: 36
-      firstoryme: 34
-      podservefm: 2
-      podigeeio: 6
-      podbeancom: 4
-      podcastmachinecom: 4
-      soundcloudcom: 2
-    AI Slop:
-      spreakercom: 186
-      aushaco: 2
-      rsscom: 120
-      buzzsproutcom: 6
-      redcirclecom: 4
-      acastcom: 4
-      jellypodcom: 4
-      transistorfm: 2
-      githubio: 2
-      captivatefm: 2
-      cloudfrontnet: 2
-      podigeeio: 2
-      wavlakecom: 2
-      autismparentsunitedorg: 2
-    Illegal:
-      spreakercom: 2
-  '2026-05-05':
-    Total: 724
-    AI Slop:
-      podigeeio: 4
-      wavlakecom: 2
-      spreakercom: 430
-      rsscom: 78
-      anchorfm: 2
-      yetucoop: 4
-      castoscom: 2
-      jellypodcom: 2
-      buzzsproutcom: 8
-      podcastmachinecom: 2
-    Spam:
-      firstoryme: 44
-      rsscom: 14
-      spreakercom: 48
-      castoscom: 2
-      podigeeio: 8
-      kinstacloud: 2
-      buzzsproutcom: 12
-      anchorfm: 28
-      blubrrycom: 2
-      redcirclecom: 14
-      wppluginsatozcom: 2
-      cellhomevn: 2
-      aushaco: 2
-      podbeancom: 2
-      podservefm: 2
-      connectedsecuritycouk: 2
-      podcastmachinecom: 2
-    Illegal:
-      spreakercom: 2
-  '2026-05-04':
-    Total: 506
-    Spam:
-      rsscom: 52
-      spreakercom: 28
-      anchorfm: 42
-      shillongteergroundonline: 2
-      buzzsproutcom: 4
-      wavlakecom: 2
-      podigeeio: 2
-      rnrtechvibesdemocom: 2
-      transistorfm: 2
-      podservefm: 2
-      hubhoppercom: 2
-      primetelcloud: 2
-    AI Slop:
-      spreakercom: 248
-      buzzsproutcom: 18
-      rsscom: 82
-      strangerspookscom: 2
-      fountainfm: 2
-      jellypodcom: 2
-      anchorfm: 2
-      cloudfrontnet: 4
-      podigeeio: 2
-      wavlakecom: 2
-  '2026-05-03':
-    Total: 638
-    AI Slop:
-      wavlakecom: 12
-      spreakercom: 348
-      rsscom: 36
-      prestocastcom: 2
-      redcirclecom: 2
-      r2dev: 2
-      jellypodcom: 6
-      buzzsproutcom: 10
-      podigeeio: 4
-      youngcomputer: 2
-      captivatefm: 2
-      acastcom: 4
-      transistorfm: 12
-      anchorfm: 2
-    Spam:
-      rsscom: 50
-      wavlakecom: 4
-      buzzsproutcom: 10
-      spreakercom: 12
-      pangformse: 2
-      anchorfm: 18
-      firstoryme: 20
-      podcastmachinecom: 2
-      jellypodcom: 2
-      support-local-businessescom: 2
-      derryvolgiecom: 2
-      podigeeio: 2
-      transistorfm: 60
-      audiobookzapcom: 2
-    Illegal:
-      rsscom: 6
-  '2026-05-02':
-    Total: 802
-    AI Slop:
-      spreakercom: 686
-      tranthanhngacom: 2
-      rsscom: 38
-      podigeeio: 6
-      buzzsproutcom: 4
-      transistorfm: 6
-      captivatefm: 2
-      prestocastcom: 2
-    Spam:
-      acastcom: 2
-      spreakercom: 12
-      rsscom: 28
-      anchorfm: 2
-      buzzsproutcom: 6
-      podigeeio: 2
-      aushaco: 2
-      redcirclecom: 2
-  '2026-05-01':
-    Total: 1774
-    Spam:
-      podigeeio: 4
-      redcirclecom: 4
-      hubhoppercom: 2
-      rsscom: 46
-      buzzsproutcom: 16
-      spreakercom: 48
-      sabirprocom: 2
-      anchorfm: 16
-      prestocastcom: 2
-      frequency18com: 2
-      podservefm: 2
-      aushaco: 2
-      captivatefm: 4
-      podbeancom: 2
-      transistorfm: 2
-    AI Slop:
-      spreakercom: 1424
-      rsscom: 114
-      patreoncom: 2
-      buzzsproutcom: 18
-      podservefm: 2
-      acastcom: 2
-      vodiofr: 4
-      chillarin39com: 2
-      jellypodcom: 8
-      travelholicsmedia: 2
-      fountainfm: 2
-      wavlakecom: 2
-      frequency18com: 24
-      captivatefm: 2
-      everythingyouknowaboutjesusiswrongcom: 2
-      prestocastcom: 4
-      transistorfm: 2
-      podhomefm: 2
-    Illegal:
-      spreakercom: 2
-  '2026-04-30':
-    Total: 960
-    AI Slop:
-      spreakercom: 454
-      rsscom: 140
-      buzzsproutcom: 26
-      wavlakecom: 8
-      transistorfm: 6
-      anchorfm: 4
-      podigeeio: 8
-      bhitmagazinecom: 2
-      captivatefm: 2
-      mybluehostme: 2
-      aushaco: 2
-      jaggededgeartscom: 24
-      redcirclecom: 2
-      firesidefm: 2
-      vaguelygenericwebsite: 2
-      patreoncom: 2
-      podservefm: 2
-      jellypodcom: 2
-    Spam:
-      pilonidalpodcastcom: 2
-      anchorfm: 18
-      spreakercom: 42
-      rsscom: 72
-      doggozilacom: 2
-      firstoryme: 84
-      buzzsproutcom: 16
-      redcirclecom: 6
-      3speaktv: 2
-      flightcastcom: 2
-      podbeancom: 4
-      podcastmachinecom: 2
-      hubhoppercom: 2
-      soundonfm: 2
-      mybluehostme: 2
-    Hijack:
-      spreakercom: 8
-    Illegal:
-      spreakercom: 2
-      buzzsproutcom: 2
-  '2026-04-29':
-    Total: 1110
-    Spam:
-      firstoryme: 114
-      anchorfm: 58
-      rsscom: 8
-      spreakercom: 60
-      captivatefm: 2
-      sheikhjabatacom: 2
-      buzzsproutcom: 6
-      podservefm: 4
-      podigeeio: 6
-      aushaco: 2
-      redcirclecom: 4
-      podbeancom: 4
-      podcastmachinecom: 2
-    AI Slop:
-      rsscom: 26
-      spreakercom: 784
-      transistorfm: 2
-      jellypodcom: 6
-      captivatefm: 2
-      buzzsproutcom: 10
-      vodiofr: 2
-    Illegal:
-      spreakercom: 4
-    Hijack:
-      spreakercom: 2
-  '2026-04-28':
-    Total: 1694
-    AI Slop:
-      buzzsproutcom: 28
-      rsscom: 110
-      spreakercom: 1140
-      alitucom: 4
-      jaggededgeartscom: 12
-      redcirclecom: 4
-      bbsradiocom: 4
-      vodiofr: 2
-      jellypodcom: 4
-      wavlakecom: 2
-      podigeeio: 14
-      podspace: 2
-      camacuk: 2
-      acastcom: 10
-      captivatefm: 4
-      radioladiniacom: 2
-      adnkronoscom: 2
-      anchorfm: 4
-      alban-llccom: 2
-      transistorfm: 2
-    Spam:
-      rsscom: 74
-      podigeeio: 10
-      spreakercom: 86
-      podservefm: 8
-      dreamhosterscom: 2
-      hostingersitecom: 2
-      buzzsproutcom: 18
-      thegamercouchcom: 2
-      firstoryme: 68
-      podcastmachinecom: 2
-      podspace: 2
-      anchorfm: 20
-      wavlakecom: 4
-      transistorfm: 22
-      gheantoantreemcom: 2
-      podbeancom: 2
-      esunablecom: 2
-      justcastcom: 2
-      acastcom: 2
-      redcirclecom: 2
-      podcastscom: 2
-    Illegal:
-      spreakercom: 4
-    Hijack:
-      rsscom: 2
-  '2026-04-27':
-    Total: 1924
-    Spam:
-      firstoryme: 166
-      buzzsproutcom: 110
-      anchorfm: 70
-      spreakercom: 70
-      rsscom: 44
-      prestocastcom: 2
-      redcirclecom: 4
-      blubrrynet: 2
-      acastcom: 2
-      civicmediaus: 2
-      podigeeio: 4
-      sekhemunionpathcom: 2
-      gitlabio: 2
-      theenmcoachcom: 4
-      nxcliio: 2
-      comau: 2
-      transistorfm: 2
-      wavlakecom: 2
-    AI Slop:
-      spreakercom: 1308
-      rsscom: 74
-      transistorfm: 6
-      alitucom: 2
-      wavlakecom: 6
-      nexusnexcastcom: 2
-      theenmcoachcom: 2
-      buzzsproutcom: 2
-      flightjournalcom: 2
-      podigeeio: 2
-      podservefm: 2
-      santaanitachurchorg: 2
-    Illegal:
-      spreakercom: 22
-  '2026-04-26':
-    Total: 516
-    Spam:
-      spreakercom: 20
-      rsscom: 28
-      acastcom: 4
-      captivatefm: 2
-      podservefm: 4
-      buzzsproutcom: 14
-      wavlakecom: 2
-      triangleclickcom: 6
-      podigeeio: 2
-      vixshieldcom: 2
-      redcirclecom: 2
-      anchorfm: 12
-      reformykz: 2
-    AI Slop:
-      spreakercom: 304
-      transistorfm: 12
-      buzzsproutcom: 20
-      captivatefm: 2
-      rsscom: 64
-      prestocastcom: 2
-      triangleclickcom: 2
-      githubusercontentcom: 4
-      vodiofr: 2
-      wavlakecom: 2
-    Illegal:
-      spreakercom: 2
-  '2026-04-25':
-    Total: 1000
-    AI Slop:
-      spreakercom: 726
-      buzzsproutcom: 2
-      rsscom: 10
-    Illegal:
-      rsscom: 2
-    Spam:
-      spreakercom: 20
-      pilonidalpodcastcom: 2
-      anchorfm: 28
-      captivatefm: 2
-      podcastmachinecom: 2
-      rsscom: 12
-      podbeancom: 2
-      acastcom: 2
-      buzzsproutcom: 4
-    Hijack:
-      spreakercom: 186
-  '2026-04-24':
-    Total: 1018
-    AI Slop:
-      spreakercom: 844
-      rsscom: 34
-    Spam:
-      rsscom: 18
-      spreakercom: 52
-      buzzsproutcom: 14
-      anchorfm: 36
-      sekhemunionpathcom: 2
-      transistorfm: 6
-      podbeancom: 2
-      podigeeio: 2
-      podservefm: 2
-      flightcastcom: 2
-    Illegal:
-      spreakercom: 2
-      rsscom: 2
-  '2026-04-23':
-    Total: 1314
-    Spam:
-      redcirclecom: 6
-      spreakercom: 58
-      buzzsproutcom: 14
-      firstoryme: 104
-      anchorfm: 42
-      rsscom: 34
-      acastcom: 2
-      podbeancom: 2
-      transistorfm: 2
-    AI Slop:
-      spreakercom: 1028
-      rsscom: 20
-      devmail-styonline: 2
-  '2026-04-22':
-    Total: 1358
-    Spam:
-      spreakercom: 186
-      kinstacloud: 2
-      rsscom: 10
-      anchorfm: 38
-      flightcastcom: 2
-      firstoryme: 68
-      aushaco: 2
-      buzzsproutcom: 10
-      podcastmachinecom: 2
-      simplecastcom: 2
-      transistorfm: 2
-    Hijack:
-      spreakercom: 4
-    AI Slop:
-      spreakercom: 668
-      rsscom: 24
-      buzzsproutcom: 2
-      hostingersitecom: 6
-      wavlakecom: 2
-      steelergentsiacom: 2
-      acastcom: 2
-    Illegal:
-      rsscom: 8
-      spreakercom: 316
-  '2026-04-21':
-    Total: 800
-    Spam:
-      spreakercom: 70
-      buzzsproutcom: 12
-      redcirclecom: 6
-      rsscom: 10
-      odyseecom: 2
-      podservefm: 4
-      anchorfm: 14
-      podcastmachinecom: 4
-    Illegal:
-      spreakercom: 82
-      rsscom: 2
-    AI Slop:
-      spreakercom: 558
-      rsscom: 30
-      buzzsproutcom: 2
-      jellypodcom: 2
-      buddhaico: 2
-  '2026-04-20':
-    Total: 726
-    Spam:
-      aushaco: 2
-      anchorfm: 26
-      spreakercom: 50
-      buzzsproutcom: 152
-      acastcom: 2
-      vrkratomcom: 2
-      rsscom: 6
-      podigeeio: 2
-      alitucom: 2
-      huijzerxyz: 2
-      podcastmachinecom: 2
-      selfdefensewomenonline: 4
-      transistorfm: 2
-      3speaktv: 2
-    AI Slop:
-      rsscom: 22
-      spreakercom: 432
-      jellypodcom: 4
-    Illegal:
-      rsscom: 2
-      spreakercom: 10
-  '2026-04-19':
-    Total: 906
-    Spam:
-      spreakercom: 22
-      anchorfm: 48
-      buzzsproutcom: 238
-      prestocastcom: 2
-      rsscom: 8
-      githubio: 2
-    Hijack:
-      spreakercom: 6
-    Illegal:
-      spreakercom: 38
-      rsscom: 2
-    AI Slop:
-      spreakercom: 520
-      rsscom: 18
-      comau: 2
-  '2026-04-18':
-    Total: 276
-    Spam:
-      spreakercom: 34
-      acastcom: 2
-      podservefm: 4
-      anchorfm: 36
-      rsscom: 10
-      podigeeio: 2
-      transistorfm: 2
-      buzzsproutcom: 4
-      podcastmachinecom: 4
-    AI Slop:
-      spreakercom: 140
-      rsscom: 20
-      buzzsproutcom: 6
-      podcastmachinecom: 2
-    Hijack:
-      spreakercom: 10
-  '2026-04-17':
-    Total: 806
-    Spam:
-      rsscom: 22
-      buzzsproutcom: 154
-      spreakercom: 58
-      anchorfm: 28
-      podservefm: 2
-    AI Slop:
-      spreakercom: 514
-      hashbrownconversationscoin: 2
-      buzzsproutcom: 2
-      rsscom: 14
-      anchorfm: 2
-      redcirclecom: 2
-      transistorfm: 2
-    Hijack:
-      spreakercom: 4
-  '2026-04-16':
-    Total: 1048
-    AI Slop:
-      spreakercom: 830
-      rsscom: 96
-      jellypodcom: 4
-      podigeeio: 2
-    Spam:
-      spreakercom: 60
-      rsscom: 26
-      anchorfm: 20
-      buzzsproutcom: 6
-      podbeancom: 2
-    Illegal:
-      rsscom: 2
-  '2026-04-15':
-    Total: 800
-    AI Slop:
-      spreakercom: 554
-      rsscom: 30
-      buzzsproutcom: 2
-      anchorfm: 2
-      podspace: 6
-      hostingersitecom: 2
-      quiesai: 2
-    Spam:
-      spreakercom: 62
-      rsscom: 22
-      buzzsproutcom: 88
-      podigeeio: 4
-      anchorfm: 14
-      podbeancom: 4
-      hostingersitecom: 2
-      redcirclecom: 2
-      podservefm: 2
-    Hijack:
-      spreakercom: 2
-  '2026-04-14':
-    Total: 1782
-    AI Slop:
-      spreakercom: 770
-      rsscom: 32
-      buddhaico: 868
-      redcirclecom: 2
-    Spam:
-      spreakercom: 44
-      firstoryme: 8
-      rsscom: 14
-      anchorfm: 2
-      lepodcastfr: 32
-      buzzsproutcom: 4
-      redcirclecom: 2
-      aushaco: 2
-    Hijack:
-      spreakercom: 2
-  '2026-04-13':
-    Total: 378
-    AI Slop:
-      spreakercom: 322
-    Spam:
-      spreakercom: 14
-      buzzsproutcom: 10
-      firstoryme: 22
-      rsscom: 2
-      redcirclecom: 2
-      lepodcastfr: 4
-    Malicious:
-      spreakercom: 2
-  '2026-03-13':
-    Total: 2
-    Spam:
-      spreakercom: 2
-  '2026-02-25':
-    Total: 4
-    AI Slop:
-      buzzsproutcom: 4
-  '2026-01-31':
-    Total: 10
-    Spam:
-      firstoryme: 6
-    AI Slop:
-      rsscom: 2
-      titansofchangecom: 2
-  '2026-01-16':
-    Total: 8
-    Spam:
-      spreakercom: 6
-    unknown:
-      jellypodai: 2
-  '2026-01-15':
-    Total: 2
-    Spam:
-      spreakercom: 2
-  '2026-01-14':
-    Total: 14
-    AI Slop:
-      rsscom: 6
-      anchorfm: 4
-      spreakercom: 2
-    Spam:
-      transistorfm: 2
-  '2026-01-13':
-    Total: 4
-    AI Slop:
-      rsscom: 2
-      spreakercom: 2
-  '2026-01-11':
-    Total: 34
-    AI Slop:
-      jellypodai: 2
-      transistorfm: 2
-      rsscom: 2
-      redcirclecom: 2
-    Spam:
-      spreakercom: 6
-      anchorfm: 4
-      xyzfmspace: 6
-      soundonfm: 6
-      firstoryme: 2
-      ximalayacom: 2
-  '2026-01-10':
-    Total: 40
-    Spam:
-      spreakercom: 6
-      guillermorhyoscom: 2
-      rsscom: 26
-      anchorfm: 2
-    Hijack:
-      rsscom: 2
-      spreakercom: 2
-  '2026-01-09':
-    Total: 2
-    Hijack:
-      spreakercom: 2
-  '2026-07-29':
-    Total: 517
-    AI Slop:
-      hubhoppercom: 17
-      rsscom: 13
-      pinecastcom: 1
-      spreakercom: 32
-      anchorfm: 17
-      claytonledgercom: 1
-      megaphonefm: 2
-      podbeancom: 4
-      merchwiseaicom: 1
-      transistorfm: 1
-      buzzsproutcom: 12
-      substackcom: 1
-      podigeeio: 1
+      anchorfm: 30
+      brothers-in-christorg: 1
+      buzzsproutcom: 3
       captivatefm: 1
-      castcorefi: 1
+      firstoryme: 60
+      frontstretchcom: 1
+      hubhoppercom: 1
+      musicsideprojectcom: 1
+      podbeancom: 1
+      podcastmachinecom: 1
+      podcasts-publisherclick: 3
+      podigeeio: 1
+      podservefm: 1
+      rsscom: 20
+      spreakercom: 19
+      transistorfm: 1
+    AI Slop:
+      jellypodcom: 1
+      podcasts-publisherclick: 1
+      rsscom: 16
+      spreakercom: 96
+  '2026-05-23':
+    Total: 372
+    Hijack:
+      spreakercom: 207
+    AI Slop:
+      buzzsproutcom: 1
+      podigeeio: 1
+      rsscom: 15
+      spreakercom: 48
+      transistorfm: 3
+    Spam:
+      anchorfm: 7
+      buzzsproutcom: 3
+      firstoryme: 21
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 3
+      rsscom: 29
+      spreakercom: 7
+      transistorfm: 25
+  '2026-05-24':
+    Total: 78
+    Spam:
+      anchorfm: 9
+      firstoryme: 9
+      hubhoppercom: 2
+      podigeeio: 4
+      podservefm: 1
+      rsscom: 4
+      spreakercom: 9
+      transistorfm: 1
+    AI Slop:
+      anchorfm: 1
+      buzzsproutcom: 2
+      jellypodcom: 1
+      podigeeio: 1
+      podpilotorg: 1
+      rsscom: 12
+      spreakercom: 17
+      transistorfm: 2
+    Illegal:
+      spreakercom: 1
+    Hijack:
+      spreakercom: 1
+  '2026-05-25':
+    Total: 58
+    AI Slop:
+      jellypodcom: 1
+      redcirclecom: 1
+      rsscom: 7
+      spreakercom: 26
+    Spam:
+      anchorfm: 6
+      aushaco: 1
+      buzzsproutcom: 4
+      podservefm: 2
+      redcirclecom: 1
+      rsscom: 2
+      spreakercom: 5
+    Hijack:
+      rsscom: 1
+      spreakercom: 1
+  '2026-05-27':
+    Total: 304
+    Hijack:
+      spreakercom: 91
+    AI Slop:
+      buzzsproutcom: 1
+      captivatefm: 1
+      castoscom: 1
+      lostswordfishcom: 1
+      onrendercom: 1
+      rsscom: 8
+      spreakercom: 49
+    Spam:
+      3speaktv: 1
+      anchorfm: 12
+      buzzsproutcom: 2
+      feedburnercom: 2
+      firstoryme: 72
+      jellypodcom: 1
+      podcastmachinecom: 3
+      rsscom: 42
+      spreakercom: 16
+  '2026-05-28':
+    Total: 461
+    Hijack:
+      spreakercom: 261
+    AI Slop:
+      buzzsproutcom: 1
+      jellypodcom: 1
+      rsscom: 18
+      spreakercom: 38
+    Spam:
+      anchorfm: 4
+      aushaco: 1
+      firstoryme: 77
+      podigeeio: 1
+      rsscom: 35
+      spreakercom: 24
+  '2026-05-29':
+    Total: 590
+    Spam:
+      anchorfm: 8
+      buzzsproutcom: 5
+      feedburnercom: 2
+      firstoryme: 50
+      redcirclecom: 1
+      rsscom: 16
+      spreakercom: 11
+    AI Slop:
+      anchorfm: 1
+      happypodcastfr: 2
+      rsscom: 1
+      spreakercom: 113
+    Hijack:
+      spreakercom: 380
+  '2026-05-30':
+    Total: 429
+    AI Slop:
+      buzzsproutcom: 1
+      captivatefm: 1
+      rsscom: 11
+      spreakercom: 116
+      transistorfm: 1
+    Hijack:
+      rsscom: 1
+      spreakercom: 166
+    Spam:
+      anchorfm: 16
+      buzzsproutcom: 1
+      firstoryme: 40
+      hubhoppercom: 1
+      podcastmachinecom: 1
+      podigeeio: 7
+      podservefm: 7
+      redcirclecom: 5
+      rsscom: 34
+      spreakercom: 17
+      voiceshopjp: 1
+      zencastfm: 1
+    Illegal:
+      spreakercom: 1
+  '2026-05-31':
+    Total: 463
+    Hijack:
+      spreakercom: 315
+    AI Slop:
+      acastcom: 2
+      buzzsproutcom: 1
+      castoscom: 1
+      jellypodcom: 2
+      rsscom: 5
+      spreakercom: 58
+    Spam:
+      buzzsproutcom: 2
+      feedburnercom: 4
+      firstoryme: 35
+      hubhoppercom: 3
+      podcasts-publisherclick: 1
+      rsscom: 27
+      spreakercom: 5
+      transistorfm: 1
+    Illegal:
+      spreakercom: 1
+  '2026-06-01':
+    Total: 270
+    Spam:
+      anchorfm: 6
+      buzzsproutcom: 4
+      firstoryme: 64
+      hubhoppercom: 4
+      podcastmachinecom: 1
+      rsscom: 28
+      spreakercom: 17
+    AI Slop:
+      buzzsproutcom: 1
+      catchmeuporg: 1
+      githubusercontentcom: 1
+      jellypodcom: 1
+      rsscom: 9
+      spreakercom: 104
+    Hijack:
+      spreakercom: 29
+  '2026-06-02':
+    Total: 347
+    Hijack:
+      spreakercom: 125
+    AI Slop:
+      buzzsproutcom: 2
+      jellypodcom: 1
+      redcirclecom: 1
+      rsscom: 13
+      spreakercom: 63
+      wavlakecom: 1
+    Spam:
+      anchorfm: 5
+      brainrotsdigitalcom: 1
+      buzzsproutcom: 4
+      ecommerceagscom: 1
+      firstoryme: 72
+      pinecastcom: 1
+      rsscom: 38
+      spreakercom: 19
+  '2026-06-04':
+    Total: 310
+    Hijack:
+      spreakercom: 81
+    AI Slop:
+      jellypodcom: 3
+      redcirclecom: 1
+      remotemagecom: 1
+      rsscom: 13
+      spreakercom: 119
+      transistorfm: 1
+    Spam:
+      acastcom: 1
+      anchorfm: 9
+      aushaco: 1
+      buzzsproutcom: 2
+      firstoryme: 14
+      hubhoppercom: 3
+      podcastmachinecom: 2
+      podigeeio: 1
+      rsscom: 38
+      spreakercom: 18
+      summersagamodscom: 1
+    Illegal:
+      spreakercom: 1
+  '2026-06-05':
+    Total: 1502
+    AI Slop:
+      anchorfm: 2
+      buzzsproutcom: 1
+      jellypodcom: 1
+      lightpollutionnewscom: 4
+      megaphonefm: 901
+      podcastmachinecom: 1
+      rsscom: 7
+      spreakercom: 405
+      transistorfm: 1
+    Hijack:
+      spreakercom: 48
+    Spam:
+      anchorfm: 13
+      buzzsproutcom: 7
+      castboxfm: 5
+      feedburnercom: 1
+      firstoryme: 31
+      hubhoppercom: 4
+      nhuakythuatvietphatcom: 1
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 3
+      podservefm: 1
+      rsscom: 41
+      spreakercom: 21
+      transistorfm: 1
+  '2026-06-06':
+    Total: 283
+    Hijack:
+      spreakercom: 60
+    AI Slop:
+      denkschachtde: 1
+      jellypodcom: 1
+      podbeancom: 1
+      rsscom: 18
+      spreakercom: 122
+    Spam:
+      anchorfm: 5
+      buzzsproutcom: 3
+      firstoryme: 4
+      podcastmachinecom: 1
+      podigeeio: 7
+      podservefm: 2
+      rsscom: 49
+      simplecastcom: 1
+      spreakercom: 8
+  '2026-06-07':
+    Total: 1464
+    AI Slop:
+      aiautoblogcc: 1
+      anchorfm: 4
+      jellypodcom: 1
+      libsyncom: 1
+      megaphonefm: 240
+      rsscom: 21
+      spreakercom: 463
+    Hijack:
+      spreakercom: 678
+    Spam:
+      anchorfm: 9
+      buzzsproutcom: 3
+      firstoryme: 8
+      hubhoppercom: 3
+      mediabooksspace: 1
+      podbeancom: 1
+      podigeeio: 1
+      r2dev: 1
+      rsscom: 7
+      spreakercom: 19
+      transistorfm: 1
+    Malicious:
+      megaphonefm: 1
+  '2026-06-08':
+    Total: 968
+    AI Slop:
+      buzzsproutcom: 2
+      jellypodcom: 2
+      megaphonefm: 252
+      redcirclecom: 1
+      rsscom: 15
+      spreakercom: 66
+      transistorfm: 1
+    Hijack:
+      megaphonefm: 1
+      rsscom: 1
+      spreakercom: 548
+    Spam:
+      anchorfm: 1
+      buzzsproutcom: 4
+      firstoryme: 16
+      hubhoppercom: 2
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 1
+      rsscom: 36
+      spreakercom: 16
+      wavlakecom: 1
+  '2026-06-09':
+    Total: 1872
+    Hijack:
+      anchorfm: 23
+      buzzsproutcom: 2
+      podbeancom: 1
+      podscribeai: 1
+      rsscom: 37
+      spreakercom: 1132
+    AI Slop:
+      anchorfm: 1
+      megaphonefm: 450
+      podpilotorg: 1
+      rsscom: 11
+      spreakercom: 123
+      transistorfm: 1
+    Spam:
+      acastcom: 1
+      anchorfm: 12
+      buzzsproutcom: 3
+      firstoryme: 47
+      hubhoppercom: 3
+      like88vn: 1
+      ngocbaomediacom: 2
+      pinecastcom: 1
+      redcirclecom: 1
+      rsscom: 9
+      spreakercom: 9
+  '2026-06-10':
+    Total: 1209
+    Hijack:
+      spreakercom: 550
+    AI Slop:
+      jellypodcom: 1
+      megaphonefm: 177
+      nora-finncom: 1
+      redcirclecom: 1
+      rsscom: 11
+      spreakercom: 337
+    Spam:
+      anchorfm: 1
+      audionfm: 2
+      firstoryme: 74
+      pinecastcom: 11
+      podbeancom: 1
+      podcastmachinecom: 1
+      podservefm: 1
+      redcirclecom: 12
+      rsscom: 11
+      spreakercom: 16
+    Malicious:
+      rsscom: 1
+  '2026-06-11':
+    Total: 2123
+    Hijack:
+      amazonawscom: 6
+      spreakercom: 1266
+    AI Slop:
+      jellypodcom: 1
+      llifetv: 2
+      megaphonefm: 271
+      redcirclecom: 1
+      rsscom: 12
+      spreakercom: 296
+    Spam:
+      anchorfm: 10
+      buzzsproutcom: 3
+      feedburnercom: 1
+      firstoryme: 54
+      hubhoppercom: 1
+      pinecastcom: 131
+      podcastmachinecom: 1
+      redcirclecom: 41
+      rsscom: 8
+      spreakercom: 18
+  '2026-06-12':
+    Total: 464
+    Hijack:
+      spreakercom: 269
+    AI Slop:
+      captivatefm: 1
+      redcirclecom: 1
+      rsscom: 3
+      spreakercom: 34
+    Spam:
+      anchorfm: 11
+      buzzsproutcom: 2
+      farfrombasyccom: 1
+      firstoryme: 82
+      podigeeio: 1
+      podservefm: 2
+      prestocastcom: 2
+      redcirclecom: 34
+      rsscom: 8
+      spreakercom: 13
+  '2026-06-13':
+    Total: 1037
+    AI Slop:
+      megaphonefm: 298
+      spreakercom: 2
+    Spam:
+      buzzsproutcom: 4
+      castboxfm: 1
+      firstoryme: 24
+      hubhoppercom: 3
+      pinecastcom: 96
+      podbeancom: 6
+      podcastmachinecom: 3
+      podomaticcom: 2
+      podservefm: 1
+      redcirclecom: 15
+      rsscom: 8
+      shakilmehrazcom: 1
+      spreakercom: 4
+    Hijack:
+      spreakercom: 568
+    Malicious:
+      spreakercom: 1
+  '2026-06-14':
+    Total: 1232
+    Spam:
+      anchorfm: 9
+      anuphoncom: 1
+      captivatefm: 1
+      castboxfm: 1
+      firstoryme: 71
+      hubhoppercom: 1
+      ivooxcom: 1
+      pinecastcom: 6
+      redcirclecom: 3
+      rsscom: 2
+      spreakercom: 2
+    AI Slop:
+      buzzsproutcom: 1
+      jellypodcom: 1
+      megaphonefm: 363
+      rsscom: 8
+      spreakercom: 56
+    Hijack:
+      spreakercom: 704
+    Illegal:
+      spreakercom: 1
+  '2026-06-15':
+    Total: 513
+    Spam:
+      anchorfm: 3
+      firstoryme: 78
+      githubusercontentcom: 1
+      spreakercom: 1
+    Hijack:
+      spreakercom: 129
+    AI Slop:
+      anchorfm: 1
+      megaphonefm: 298
+      spreakercom: 2
+  '2026-06-16':
+    Total: 1037
+    Spam:
+      anchorfm: 12
+      buzzsproutcom: 7
+      firstoryme: 103
+      ghcfirmcom: 1
+      hubhoppercom: 1
+      laptop678vn: 1
+      pinecastcom: 15
+      podcastmachinecom: 1
+      podservefm: 1
+      redcirclecom: 21
+      rsscom: 5
+      spreakercom: 12
+      transistorfm: 2
+    Hijack:
+      megaphonefm: 1
+      spreakercom: 486
+    AI Slop:
+      buzzsproutcom: 1
+      jellypodcom: 2
+      megaphonefm: 274
+      rsscom: 21
+      spreakercom: 68
+      transistorfm: 2
+  '2026-06-17':
+    Total: 1232
+    AI Slop:
+      megaphonefm: 307
+      spreakercom: 3
+    Spam:
+      acastcom: 1
+      anchorfm: 41
+      audiomackcom: 1
+      booksreaderspace: 2
+      buzzsproutcom: 9
+      castboxfm: 11
+      feedburnercom: 1
+      firstoryme: 144
+      flightcastcom: 1
+      hubhoppercom: 39
+      jozzfun: 2
+      megaphonefm: 1
+      ngocbaomediacom: 22
+      pinecastcom: 25
+      podbeancom: 3
+      podcastmachinecom: 3
+      podigeeio: 2
+      podomaticcom: 6
+      podservefm: 3
+      podvinecom: 2
+      redcirclecom: 44
+      riversidecom: 8
+      riversidefm: 32
+      rsscom: 14
+      simplecastcom: 1
+      spreakercom: 16
+      vodiofr: 1
+    Hijack:
+      spreakercom: 486
+    Malicious:
+      spreakercom: 1
+  '2026-06-18':
+    Total: 1754
+    AI Slop:
+      firstoryme: 1
+      jellypodcom: 1
+      megaphonefm: 392
+      spreakercom: 10
+    Hijack:
+      spreakercom: 1130
+    Spam:
+      anchorfm: 3
+      aushaco: 1
+      firstoryme: 176
+      fontgeneratorworldcom: 1
+      hubhoppercom: 2
+      pinecastcom: 8
+      spreakercom: 1
+      transistorfm: 27
+    Malicious:
+      spreakercom: 1
+  '2026-06-19':
+    Total: 134
+    AI Slop:
+      rsscom: 7
+      spreakercom: 15
+    Hijack:
+      spreakercom: 7
+    Spam:
+      amiekospace: 1
+      anchorfm: 5
+      buzzsproutcom: 5
+      firstoryme: 70
+      podcastmachinecom: 1
+      rsscom: 3
+      spreakercom: 20
+  '2026-06-20':
+    Total: 2219
+    AI Slop:
+      anchorfm: 1
+      harrismediacom: 1
+      jellypodcom: 2
+      megaphonefm: 1463
+      rsscom: 17
+      spreakercom: 59
+      transistorfm: 5
+    Hijack:
+      spreakercom: 546
+    Spam:
+      afrnet: 1
+      anchorfm: 17
+      aushaco: 1
+      beamlycom: 1
+      buzzsproutcom: 3
+      captivatefm: 1
+      firstoryme: 32
+      fountainfm: 1
+      hdlikevn: 1
+      hubhoppercom: 2
+      pinecastcom: 38
+      podcastmachinecom: 4
+      podigeeio: 2
+      podservefm: 1
+      rsscom: 2
+      spreakercom: 13
+      talkshoecom: 1
+      transistorfm: 4
+  '2026-06-21':
+    Total: 1816
+    Spam:
+      afrnet: 1
+      anchorfm: 22
+      aushaco: 1
+      buzzsproutcom: 2
+      firstoryme: 60
+      hubhoppercom: 2
+      pinecastcom: 50
+      podbeancom: 2
+      podservefm: 1
+      redcirclecom: 14
+      riversidecom: 1
+      rsscom: 2
+      spreakercom: 2
+    Hijack:
+      spreakercom: 1653
+    AI Slop:
+      megaphonefm: 1
+      rsscom: 1
+      spreakercom: 1
+  '2026-06-22':
+    Total: 845
+    Hijack:
+      spreakercom: 530
+    Spam:
+      anchorfm: 10
+      buzzsproutcom: 9
+      captivatefm: 1
+      feedburnercom: 4
+      firstoryme: 133
+      hubhoppercom: 4
+      justcastcom: 1
+      pinecastcom: 105
+      redcirclecom: 27
+      riversidecom: 1
+      rsscom: 9
+      spreakercom: 3
+      substackcom: 7
+    AI Slop:
+      anchorfm: 1
+  '2026-06-23':
+    Total: 739
+    Hijack:
+      amazonawscom: 6
+      anchorfm: 1
+      rsscom: 4
+      spreakercom: 412
+    Spam:
+      anchorfm: 27
+      buzzsproutcom: 1
+      castoscom: 1
+      firstoryme: 183
+      hubhoppercom: 1
+      musicsideprojectcom: 1
+      pinecastcom: 6
+      podtardscom: 1
+      rsscom: 94
+      spreakercom: 1
+  '2026-06-24':
+    Total: 1886
+    Hijack:
+      spreakercom: 1388
+    Spam:
+      anchorfm: 56
+      buzzsproutcom: 22
+      captivatefm: 28
+      firstoryme: 188
+      hostingersitecom: 1
+      hubhoppercom: 2
+      latertuliacommx: 1
+      pinecastcom: 4
+      redcirclecom: 1
+      rsscom: 116
+      spreakercom: 18
+      transistorfm: 1
+      treeservicesbatonrougecom: 1
+      wavlakecom: 1
+    Malicious:
+      captivatefm: 1
+      spreakercom: 1
+    AI Slop:
+      anchorfm: 1
+      captivatefm: 3
+      rsscom: 11
+      spreakercom: 40
+      terumimoritacom: 1
+  '2026-06-25':
+    Total: 999
+    Hijack:
+      spreakercom: 763
+    Spam:
+      anchorfm: 20
+      buzzsproutcom: 2
+      captivatefm: 1
+      castboxfm: 3
+      firstoryme: 111
+      hubhoppercom: 2
+      mentallychargedcom: 1
+      pinecastcom: 21
+      podbeancom: 2
+      podcastmachinecom: 3
+      podigeeio: 3
+      redcirclecom: 1
+      rsscom: 6
+      spreakercom: 17
+      storyflocom: 1
+    AI Slop:
+      anchorfm: 1
+      jellypodcom: 1
+      rsscom: 11
+      spreakercom: 28
+      transistorfm: 1
+  '2026-06-26':
+    Total: 1367
+    Spam:
+      anchorfm: 27
+      buzzsproutcom: 1
+      captivatefm: 1
+      firstoryme: 150
+      hubhoppercom: 3
+      merkamascom: 1
+      midwestmonicacom: 1
+      pinecastcom: 7
+      podbeancom: 1
+      podigeeio: 1
+      podservefm: 2
+      redcirclecom: 1
+      rsscom: 8
+      spreakercom: 30
+      zencastrcom: 1
+    Hijack:
+      spreakercom: 1086
+    AI Slop:
+      anchorfm: 1
+      buzzsproutcom: 1
+      captivatefm: 1
+      jellypodcom: 1
+      rsscom: 8
+      spreakercom: 34
+  '2026-06-27':
+    Total: 908
+    Hijack:
+      spreakercom: 774
+    Spam:
+      acastcom: 1
+      anchorfm: 12
+      buzzsproutcom: 3
+      firstoryme: 75
+      pinecastcom: 6
+      podcastmachinecom: 1
+      rsscom: 3
+      spreakercom: 29
+    AI Slop:
+      booksreaderspace: 1
+      buzzsproutcom: 1
+      spreakercom: 1
+      transistorfm: 1
+  '2026-06-28':
+    Total: 1899
+    Hijack:
+      amazonawscom: 360
+      spreakercom: 1423
+    AI Slop:
+      anchorfm: 1
+      booksreaderspace: 6
+      spreakercom: 1
+    Spam:
+      anchorfm: 10
+      firstoryme: 56
+      hostaudiospace: 1
+      pinecastcom: 2
+      rsscom: 1
+      spreakercom: 4
+      transistorfm: 34
+  '2026-06-29':
+    Total: 1072
+    Spam:
+      anchorfm: 10
+      applecom: 1
+      aushaco: 1
+      booksreaderspace: 4
+      buzzsproutcom: 3
+      disctopiacom: 1
+      drdk: 2
+      firstoryme: 65
+      mavedigital: 1
+      pinecastcom: 3
+      podbeancom: 1
+      redcirclecom: 1
+      rsscom: 11
+      spreakercom: 11
+      substackcom: 1
+    Hijack:
+      amazonawscom: 120
+      firstoryme: 1
+      spreakercom: 822
+    AI Slop:
+      booksreaderspace: 13
+  '2026-06-30':
+    Total: 1383
+    Hijack:
+      amazonawscom: 179
+      firstoryme: 1
+      podigeeio: 1
+      rsscom: 1
+      spreakercom: 1007
+    Spam:
+      acastcom: 1
+      anchorfm: 14
+      beamlycom: 1
+      best-ainews: 1
+      buzzsproutcom: 5
+      compl: 1
+      firstoryme: 75
+      pinecastcom: 2
+      podigeeio: 1
+      podservefm: 1
+      redcirclecom: 2
+      rsscom: 6
+      spreakercom: 38
+    AI Slop:
+      anchorfm: 1
+      booksreaderspace: 1
+      buzzsproutcom: 1
+      captivatefm: 2
+      githubio: 6
+      hubhoppercom: 1
+      podbeancom: 1
+      rsscom: 10
+      spreakercom: 23
+  '2026-07-01':
+    Total: 890
+    Hijack:
+      amazonawscom: 60
+      anchorfm: 1
+      buzzsproutcom: 1
+      spreakercom: 685
+    Spam:
+      anchorfm: 13
+      applecom: 1
+      buzzsproutcom: 3
+      daphongthuy68vn: 1
+      firstoryme: 22
+      githubio: 1
+      jellypodcom: 2
+      ngocbaomediacom: 1
+      pinecastcom: 9
+      redcirclecom: 2
+      rsscom: 6
+      spreakercom: 23
+      transistorfm: 2
+    AI Slop:
+      buzzsproutcom: 1
+      jellypodcom: 1
+      rsscom: 10
+      spreakercom: 43
+      supabaseco: 1
+      wavlakecom: 1
+  '2026-07-02':
+    Total: 1192
+    Hijack:
+      amazonawscom: 120
+      spreakercom: 865
+    AI Slop:
+      beamlycom: 1
+      endlessnoircom: 1
+      jellypodcom: 1
+      rsscom: 9
+      rsspodcastingcom: 1
+      spreakercom: 49
+      transistorfm: 64
+    Spam:
+      anchorfm: 14
+      buzzsproutcom: 3
+      castoscom: 1
+      firstoryme: 10
+      flashblackradiocom: 1
+      ivooxcom: 1
+      pinecastcom: 13
+      podbeancom: 1
+      podcastmachinecom: 1
+      podservefm: 1
+      radiotalkjp: 1
+      redcirclecom: 1
+      rsscom: 4
+      spreakercom: 27
+      substackcom: 1
+      transistorfm: 1
+  '2026-07-03':
+    Total: 224
+    AI Slop:
+      3dscastcom: 3
+      anchorfm: 1
+      botsellerai: 2
+      captivatefm: 1
+      podservefm: 2
+      rsscom: 16
+      spreakercom: 32
+      transistorfm: 1
+    Spam:
+      anchorfm: 12
+      asiaproco: 1
+      booksreaderspace: 2
+      buzzsproutcom: 7
+      firstoryme: 36
+      hubhoppercom: 10
+      pinecastcom: 8
+      podigeeio: 2
+      podservefm: 1
+      rsscom: 8
+      spreakercom: 18
+      storyflocom: 1
+    Hijack:
+      rsscom: 2
+      spreakercom: 58
+  '2026-07-04':
+    Total: 1230
+    Spam:
+      anchorfm: 5
+      booksreaderspace: 1
+      buzzsproutcom: 1
+      fastcastai: 1
+      firstoryme: 28
+      hubhoppercom: 2
+      mavedigital: 1
+      pinecastcom: 14
+      podbeancom: 1
+      podcastmachinecom: 1
+      rsscom: 6
+      spreakercom: 4
+      transistorfm: 1
+    Hijack:
+      amazonawscom: 180
+      feedburnercom: 1
+      loyalbookscom: 1
+      redcirclecom: 1
+      spreakercom: 890
+    AI Slop:
+      booksreaderspace: 9
+      libsyncom: 1
+      redcirclecom: 1
+      spreakercom: 24
+      transistorfm: 55
+    Malicious:
+      transistorfm: 1
+  '2026-07-05':
+    Total: 411
+    AI Slop:
+      anchorfm: 1
+      booksreaderspace: 1
+      buzzsproutcom: 1
+      ivooxcom: 1
+      jellypodcom: 1
+      podbeancom: 1
+      spreakercom: 21
+    Hijack:
+      amazonawscom: 120
+      buzzsproutcom: 1
+      podbeancom: 1
+      spreakercom: 167
+    Spam:
+      acastcom: 1
+      anchorfm: 20
+      booksreaderspace: 1
+      buzzsproutcom: 3
+      cloudfrontnet: 5
+      firstoryme: 38
+      hubhoppercom: 2
+      ivooxcom: 2
+      pinecastcom: 5
+      podigeeio: 1
+      podomaticcom: 1
+      polylexapp: 1
+      riversidecom: 2
+      rsscom: 3
+      spreakercom: 7
+      substackcom: 1
+      supabaseco: 2
+  '2026-07-06':
+    Total: 1027
+    Spam:
+      anchorfm: 26
+      audiomeansfr: 1
+      aushaco: 1
+      beamlycom: 1
+      buzzsproutcom: 6
+      captivatefm: 1
+      castoscom: 6
+      fastcastai: 1
+      firstoryme: 14
+      hubhoppercom: 7
+      ngocbaomediacom: 4
+      pinecastcom: 7
+      podcastmachinecom: 1
+      podomaticcom: 2
+      riversidecom: 2
+      rsscom: 12
+      spreakercom: 27
+      theranklancecom: 1
+      transistorfm: 2
+    AI Slop:
+      anchorfm: 4
+      booksreaderspace: 1
+      buzzsproutcom: 2
+      fastcastai: 4
+      jellypodcom: 1
+      rsscom: 7
+      spreakercom: 244
+    Hijack:
+      amazonawscom: 241
+      rsscom: 1
+      spreakercom: 400
+  '2026-07-07':
+    Total: 755
+    Spam:
+      anchorfm: 18
+      audiorellacom: 1
+      aushaco: 1
+      buzzsproutcom: 5
+      captivatefm: 2
+      fastcastai: 1
+      firstoryme: 14
+      hubhoppercom: 4
+      omnycontentcom: 1
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 3
+      podservefm: 1
+      redcirclecom: 1
+      riversidecom: 3
+      rsscom: 12
+      spreakercom: 18
+      transistorfm: 3
+    AI Slop:
+      anchorfm: 4
+      fastcastai: 1
+      megaphonefm: 5
+      rsscom: 10
+      simplecastcom: 3
+      spreakercom: 17
+      transistorfm: 6
+    Hijack:
+      amazonawscom: 120
+      spreakercom: 499
+  '2026-07-08':
+    Total: 1426
+    AI Slop:
+      anchorfm: 7
+      noxmagcom: 4
+      rabbitholebriefcom: 2
+      spreakercom: 97
+      transistorfm: 1
+    Hijack:
+      amazonawscom: 360
+      spreakercom: 797
+    Spam:
+      acastcom: 2
+      anchorfm: 20
+      aushaco: 2
+      buzzsproutcom: 12
+      disctopiacom: 1
+      firesidefm: 1
+      firstoryme: 26
+      hipagency: 2
+      hubhoppercom: 18
+      justcastcom: 1
+      libsyncom: 1
+      mavedigital: 1
+      megaphonefm: 1
+      pinecastcom: 3
+      podbeancom: 1
+      podigeeio: 5
+      podomaticcom: 1
+      podservefm: 1
+      redcirclecom: 1
+      riversidecom: 2
+      rsscom: 13
+      spreakercom: 30
+      transistorfm: 1
+      truestkindofcrimecom: 12
+  '2026-07-09':
+    Total: 1080
+    Hijack:
+      amazonawscom: 300
+      spreakercom: 543
+    Spam:
+      acastcom: 2
+      anchorfm: 26
+      aushaco: 1
+      buzzsproutcom: 5
+      captivatefm: 2
+      firstoryme: 48
+      hubhoppercom: 15
+      ivooxcom: 2
+      libsyncom: 10
+      mavedigital: 1
+      ngocbaomediacom: 1
+      pinecastcom: 2
+      podbeancom: 1
+      podcastmachinecom: 1
+      podigeeio: 1
+      podservefm: 2
+      redcirclecom: 3
+      riversidecom: 1
+      rsscom: 11
+      spreakercom: 15
+      supertopelectroniconlinecom: 1
+      transistorfm: 1
+      vprbenefitscom: 1
+      xyzfmspace: 1
+    AI Slop:
+      anchorfm: 1
+      spreakercom: 80
+      supabaseco: 2
+  '2026-07-11':
+    Total: 471
+    Hijack:
+      rsscom: 1
+      spreakercom: 240
+    AI Slop:
+      ecom-storepro: 1
+      rsscom: 4
+      spreakercom: 176
+    Illegal:
+      spreakercom: 3
+    Spam:
+      anchorfm: 6
+      beamlycom: 1
+      buzzsproutcom: 1
+      firstoryme: 25
+      podcastmachinecom: 1
+      podigeeio: 2
+      rsscom: 2
+      spreakercom: 8
+  '2026-07-12':
+    Total: 339
+    Hijack:
+      podservefm: 1
+      rsscom: 34
+      spreakercom: 52
+    AI Slop:
+      captivatefm: 1
+      poddyhostcom: 27
+      rsscom: 26
+      spreakercom: 106
+      storyflocom: 7
+    Spam:
+      anchorfm: 5
+      aushaco: 1
+      buzzsproutcom: 1
+      firstoryme: 59
+      poddyhostcom: 13
+      podigeeio: 1
+      podservefm: 1
+      spreakercom: 3
+      tieudaocaccom: 1
+  '2026-07-13':
+    Total: 1122
+    AI Slop:
+      audiobookgratiscombr: 1
+      buzzsproutcom: 4
+      clientcabincom: 1
+      fastcastai: 2
+      jellypodcom: 3
+      megaphonefm: 21
+      miauraai: 1
+      redcirclecom: 1
+      rsscom: 22
+      simplecastcom: 39
+      spreakercom: 13
+      supabaseco: 26
+    Hijack:
+      amazonawscom: 120
+      rsscom: 83
+      spreakercom: 577
+      transistorfm: 3
+    Spam:
+      anchorfm: 16
+      buzzsproutcom: 4
+      firstoryme: 132
+      githubio: 1
+      hubhoppercom: 6
+      libsyncom: 1
+      medspamyrtlebeachcom: 1
+      pinecastcom: 7
+      podcastmachinecom: 1
+      redcirclecom: 1
+      riversidecom: 1
+      rsscom: 13
+      spreakercom: 19
+      substackcom: 1
+    Illegal:
+      podcasts-publisherclick: 1
+  '2026-07-14':
+    Total: 1359
+    Spam:
+      anchorfm: 23
+      beamlycom: 1
+      buzzsproutcom: 3
+      firstoryme: 180
+      hubhoppercom: 13
+      jellypodcom: 1
+      libsyncom: 2
+      lucky-lady-charmonline: 1
+      mavedigital: 1
+      pinecastcom: 2
+      riversidecom: 3
+      rsscom: 7
+      soundonfm: 1
+      spreakercom: 21
+      substackcom: 1
+      supabaseco: 1
+      transistorfm: 1
+      turbogeneratecom: 1
+    Hijack:
+      amazonawscom: 434
+      anchorfm: 3
+      fastcastai: 1
+      gsmccloud: 1
+      podbeancom: 1
+      rsscom: 85
+      spreakercom: 468
+    AI Slop:
+      acastcom: 1
+      amperwavenet: 1
+      anchorfm: 7
+      buzzsproutcom: 7
+      fastcastai: 3
+      megaphonefm: 16
+      podbeancom: 2
+      rsscom: 7
+      simplecastcom: 7
+      spreakercom: 46
+      sundaysnews: 3
+      supabaseco: 1
+      transistorfm: 1
+      workflows-of-aicom: 1
+  '2026-07-15':
+    Total: 1313
+    Spam:
+      anchorfm: 14
+      aushaco: 2
+      buzzsproutcom: 10
+      captivatefm: 4
+      firstoryme: 220
+      hubhoppercom: 7
+      podbeancom: 1
+      podcastmachinecom: 2
+      podigeeio: 1
+      podservefm: 1
+      riversidecom: 1
+      riversidefm: 1
+      rsscom: 9
+      soundcloudcom: 1
+      spreakercom: 86
+      springcastapp: 1
+    AI Slop:
+      beamlycom: 1
+      buzzsproutcom: 1
+      fastcastai: 1
+      fexingocom: 1
+      girlandbrilliantcom: 1
+      rsscom: 6
+      spreakercom: 36
+      storyflocom: 1
+      transistorfm: 1
+    Hijack:
+      amazonawscom: 720
+      rsscom: 2
+      spreakercom: 181
+  '2026-07-16':
+    Total: 1895
+    Hijack:
+      amazonawscom: 1029
+      firstoryme: 1
+      gsmccloud: 62
+      podbeancom: 2
+      spreakercom: 420
+      transistorfm: 1
+    Spam:
+      anchorfm: 18
+      aushaco: 1
+      beamlycom: 1
+      burnabyhousecom: 1
+      buzzsproutcom: 8
+      cloudinarycom: 1
+      firstoryme: 190
+      hubhoppercom: 8
+      jellypodcom: 1
+      pinecastcom: 8
+      podbeancom: 1
+      podhostspace: 1
+      podigeeio: 1
+      realtorpersiacom: 1
+      redcirclecom: 1
+      rsscom: 11
+      spreakercom: 41
+      substackcom: 1
+      transistorfm: 2
+    AI Slop:
+      anchorfm: 5
+      apexaiin: 1
+      buzzsproutcom: 3
+      fastcastai: 5
+      fexingocom: 1
+      hubhoppercom: 1
+      jellypodcom: 6
+      megaphonefm: 1
+      podeoco: 1
+      rsscom: 10
+      spreakercom: 45
+      supabaseco: 2
+      transistorfm: 1
+      windowsnet: 1
+  '2026-07-17':
+    Total: 1137
+    Spam:
+      anchorfm: 17
+      audioboomcom: 1
+      biterainvestcom: 4
+      buzzsproutcom: 4
+      captivatefm: 2
+      cloudfunctionsnet: 1
+      firstoryme: 89
+      hubhoppercom: 3
+      libsyncom: 1
+      megaphonefm: 1
+      pinecastcom: 6
+      redcirclecom: 1
+      riversidecom: 1
+      rsscom: 5
+      simplecastcom: 1
+      spreakercom: 25
+      transistorfm: 2
+    AI Slop:
+      anchorfm: 5
+      buzzsproutcom: 6
+      fastcastai: 12
+      githubusercontentcom: 1
+      hubhoppercom: 3
+      jellypodcom: 4
+      libsyncom: 1
+      megaphonefm: 1
+      podigeeio: 1
+      redcirclecom: 2
+      riversidecom: 1
+      rsscom: 6
+      spreakercom: 57
+      transistorfm: 9
+    Hijack:
+      afrnet: 1
+      amazonawscom: 484
+      gsmccloud: 278
+      rsscom: 1
+      spreakercom: 100
+  '2026-07-18':
+    Total: 805
+    Hijack:
+      amazonawscom: 360
+      gsmccloud: 177
+      spreakercom: 49
+    AI Slop:
+      alitucom: 1
+      anchorfm: 15
+      ancientfaithcom: 1
+      asynccom: 1
+      aushaco: 1
+      backblazeb2com: 1
+      buzzsproutcom: 5
+      californiacarecompasscom: 1
+      castoscom: 3
+      cinepromptio: 1
+      fastcastai: 14
+      fexingocom: 1
+      hubhoppercom: 4
+      ivooxcom: 1
+      jellypodcom: 2
+      lanternpodcastscom: 1
+      libsyncom: 1
+      markkulabnet: 1
+      podbeancom: 3
+      podcastmachinecom: 1
+      podigeeio: 1
+      prestocastcom: 2
+      punkytigerlabscom: 1
+      redcirclecom: 1
+      riversidecom: 2
+      rsscom: 4
+      skilledtradetoolscom: 1
+      spreakercom: 23
+      squarespacecom: 1
+      storyflocom: 1
+      substackcom: 2
+      supabaseco: 1
+      transistorfm: 4
+    Spam:
+      anchorfm: 11
+      buzzsproutcom: 5
+      concretecontractorsdaytonohiocom: 1
+      firstoryme: 41
+      hubhoppercom: 6
+      megaphonefm: 4
+      pinecastcom: 24
+      podigeeio: 1
+      riversidecom: 1
+      rsscom: 7
+      spreakercom: 11
+      transistorfm: 2
+      workersdev: 1
+    Illegal:
+      rsscom: 1
+  '2026-07-19':
+    Total: 1094
+    AI Slop:
+      acastcom: 1
+      anchorfm: 10
+      beehiivcom: 1
+      bigfootycontentcom: 1
+      buzzsproutcom: 6
+      captivatefm: 1
+      castoscom: 1
+      fastcastai: 4
+      firstoryme: 1
+      hubhoppercom: 1
+      megaphonefm: 2
+      muffedai: 10
+      podbeancom: 1
+      rsscom: 5
+      rtvees: 1
+      runapp: 1
+      simplecastcom: 2
+      soundonfm: 1
+      spreakercom: 330
+      substackcom: 2
+      supabaseco: 4
+      transistorfm: 2
+    Spam:
+      anchorfm: 26
+      buzzsproutcom: 5
+      fastcastai: 7
+      firstoryme: 156
+      hubhoppercom: 11
+      outbreaknewstodaycom: 1
+      pinecastcom: 7
+      podbeancom: 1
+      podigeeio: 1
+      prestocastcom: 1
+      redcirclecom: 1
+      riversidefm: 1
+      rsscom: 2
+      spreakercom: 16
+      transistorfm: 1
+      wavlakecom: 1
+    Hijack:
+      amazonawscom: 240
+      gsmccloud: 177
+      rsscom: 1
+      spreakercom: 50
+  '2026-07-20':
+    Total: 515
+    AI Slop:
+      anchorfm: 5
+      buzzsproutcom: 2
+      captivatefm: 1
+      castoscom: 1
+      diegozccom: 1
+      fastcastai: 1
+      fexingocom: 1
+      firstoryme: 1
+      herokuappcom: 1
+      jellypodcom: 3
+      podbeancom: 3
+      podigeeio: 1
+      podpilotorg: 1
+      redcirclecom: 1
+      rsscom: 9
+      spreakercom: 15
+      supabaseco: 2
+      transistorfm: 1
+    Hijack:
+      amazonawscom: 120
+      gsmccloud: 18
+      rsscom: 1
+      spreakercom: 3
+    Spam:
+      anchorfm: 7
+      aushaco: 1
+      buzzsproutcom: 4
+      firstoryme: 159
+      hubhoppercom: 9
+      ivooxcom: 1
+      pinecastcom: 9
+      podbeancom: 1
+      podigeeio: 3
+      preretirementnavigatedcom: 1
+      redcirclecom: 1
+      riversidecom: 1
+      rsscom: 4
+      spreakercom: 120
+      transistorfm: 1
+    Illegal:
+      talkshoecom: 1
+  '2026-07-21':
+    Total: 558
+    AI Slop:
+      fastcastai: 2
+      spreakercom: 77
+    Spam:
+      acastcom: 1
+      anchorfm: 51
+      dentalxbridgecom: 1
+      firstoryme: 243
+      hubhoppercom: 10
+      libsyncom: 1
+      pinecastcom: 11
+      podbeancom: 1
+      podigeeio: 2
+      redcirclecom: 1
+      riversidecom: 2
+      rsscom: 15
+      sewerlinerepairsimpsonvillecom: 1
+      spreakercom: 29
+      substackcom: 2
+      wavlakecom: 1
+      windowsnet: 1
+      ximalayacom: 2
+    Hijack:
+      amazonawscom: 91
+      anchorfm: 1
+      spreakercom: 12
+  '2026-07-22':
+    Total: 558
+    Spam:
+      anchorfm: 11
+      buzzsproutcom: 8
+      captivatefm: 2
+      firstoryme: 235
+      hubhoppercom: 16
+      omnycontentcom: 1
+      pinecastcom: 7
+      podbeancom: 2
+      podigeeio: 2
+      redcirclecom: 3
+      riversidecom: 1
+      rsscom: 19
+      spreakercom: 27
+      transistorfm: 2
+    AI Slop:
+      anchorfm: 10
+      aushaco: 1
+      brokeitdev: 1
+      buzzsproutcom: 5
+      captivatefm: 1
+      communitysolarnews: 1
+      ecode10com: 1
+      fastcastai: 2
+      fexingocom: 1
+      gtbieu: 1
+      hubhoppercom: 7
+      ivooxcom: 1
+      jellypodcom: 1
+      megaphonefm: 2
+      netlifyapp: 1
+      podbeancom: 3
+      podigeeio: 1
+      podservefm: 1
+      prestocastcom: 1
+      rsscom: 14
+      runapp: 1
+      spreakercom: 46
+      substackcom: 1
+      supabaseco: 3
+      transistorfm: 10
+    Hijack:
+      spreakercom: 105
+  '2026-07-23':
+    Total: 873
+    Hijack:
+      anchorfm: 1
+      buzzsproutcom: 1
+      spreakercom: 322
+    Spam:
+      anchorfm: 13
+      aushaco: 1
+      beamlycom: 1
+      blubrrycom: 1
+      buzzsproutcom: 15
+      captivatefm: 2
+      castoscom: 10
+      ebootisde: 1
+      firstoryme: 216
+      hubhoppercom: 18
       jellypodcom: 2
       libsyncom: 1
-      lanternpodcastscom: 1
-      supabaseco: 19
-      rsspodcastingcom: 1
-      killentimeorg: 1
-      firstoryme: 1
+      pinecastcom: 9
+      podbeancom: 2
+      podcastmachinecom: 1
+      podigeeio: 1
       podservefm: 1
-      options4lcom: 1
-      redcirclecom: 2
-    Spam:
-      spreakercom: 60
-      buzzsproutcom: 10
-      rsscom: 10
-      hubhoppercom: 11
-      publicfeedsnet: 1
-      pinecastcom: 8
-      firstoryme: 203
-      anchorfm: 20
-      transistorfm: 2
-      podeoco: 1
-      riversidecom: 2
-      applecom: 1
-      amperwavenet: 1
+      redcirclecom: 3
+      riversidefm: 3
+      rsscom: 15
+      spreakercom: 115
+      transistorfm: 1
+    AI Slop:
+      acastcom: 1
+      amazonawscom: 1
+      anchorfm: 11
+      brokeitdev: 1
+      buzzsproutcom: 4
+      captivatefm: 4
+      dreamhosterscom: 1
+      fastcastai: 1
+      fexingocom: 3
+      firstoryme: 1
+      hubhoppercom: 6
+      jellypodcom: 2
+      libsyncom: 1
+      megaphonefm: 2
+      pinecastcom: 1
+      podbeancom: 4
+      podcastmachinecom: 1
       podigeeio: 2
-      dopamine-and-doubtcom: 1
-      captivatefm: 1
-      pcosdivacom: 1
-      podbeancom: 1
-      beamlycom: 1
+      rsscom: 15
+      simplecastcom: 3
+      socialmediajobsremotecom: 1
+      soundonfm: 1
+      spreakercom: 44
+      supabaseco: 1
+      transistorfm: 5
+  '2026-07-24':
+    Total: 740
     Hijack:
-      spreakercom: 43
-      buzzsproutcom: 1
+      anchorfm: 3
+      libsyncom: 1
+      pdorg: 1
+      spreakercom: 340
+      substackcom: 1
+    Spam:
+      anchorfm: 16
+      buzzsproutcom: 4
+      captivatefm: 1
+      firstoryme: 185
+      hubhoppercom: 12
+      libsyncom: 1
+      nachgefasst-podcastde: 1
+      pinecastcom: 8
+      r2dev: 1
+      redcirclecom: 3
+      rsscom: 11
+      spreakercom: 65
+    AI Slop:
+      anchorfm: 16
+      apprendre-la-mecanique-automobilefr: 1
+      beehiivcom: 1
+      buzzsproutcom: 5
+      captivatefm: 5
+      fexingocom: 1
+      hubhoppercom: 4
+      jellypodcom: 1
+      megaphonefm: 2
+      pinecastcom: 1
+      podbeancom: 2
+      podservefm: 1
+      r2dev: 1
+      rsscom: 7
+      simplecastcom: 4
+      skeptoidcom: 1
+      spreakercom: 29
+      transistorfm: 3
+    Illegal:
+      anchorfm: 1
+  '2026-07-25':
+    Total: 1238
+    Spam:
+      anchorfm: 21
+      aushaco: 1
+      buzzsproutcom: 12
+      carovaiqcom: 1
+      castoscom: 10
+      firstoryme: 149
+      hubhoppercom: 5
+      libsyncom: 2
+      mazdekai: 1
+      pinecastcom: 22
+      podbeancom: 177
+      podigeeio: 2
+      podomaticcom: 4
+      podvinecom: 1
+      redcirclecom: 3
+      riversidecom: 3
+      rsscom: 28
+      spreakercom: 73
+      tinkeit: 1
+      tpacoachingcom: 1
+      transistorfm: 1
+    Hijack:
+      otrwesternscom: 1
+      podbeancom: 1
+      spreakercom: 616
+    AI Slop:
+      acastcom: 3
+      anchorfm: 19
+      aushaco: 1
+      beehiivcom: 1
+      budapestfm: 1
+      buzzsproutcom: 8
+      castoscom: 1
+      extrasimplehistorycom: 1
+      fastcastai: 1
+      hubhoppercom: 6
+      jellypodcom: 1
+      johnsoncitylodge561org: 1
+      libsyncom: 1
+      megaphonefm: 3
+      myid: 4
+      nerranetworkcom: 1
+      paulcsavdariblog: 1
+      pinecastcom: 1
+      podbeancom: 1
+      podigeeio: 2
+      podservefm: 1
+      riversidecom: 3
+      rsscom: 8
+      rsspodcastingcom: 2
+      simplecastcom: 2
+      spreakercom: 21
+      substackcom: 1
+      sundaysnews: 1
+      supabaseco: 1
+      transistorfm: 3
+      zvukstream: 1
+  '2026-07-26':
+    Total: 732
+    Hijack:
+      podbeancom: 1
+      spreakercom: 19
+    AI Slop:
+      amazonawscom: 1
+      anchorfm: 13
+      buddingfuturesabacom: 1
+      buzzsproutcom: 3
+      castoscom: 1
+      fastcastai: 3
+      hubhoppercom: 1
+      jellypodcom: 2
+      megaphonefm: 1
+      podpilotorg: 1
+      railwayapp: 1
+      riversidecom: 1
+      rsscom: 7
+      simplecastcom: 1
+      spreakercom: 21
+      sundaysnews: 6
+      transistorfm: 2
+    Spam:
+      anchorfm: 31
+      aushaco: 1
+      buzzsproutcom: 11
+      captivatefm: 2
+      castboxfm: 3
+      castoscom: 2
+      firstoryme: 124
+      hubhoppercom: 8
+      letscastfm: 1
+      mazdekai: 3
+      megaphonefm: 1
+      pinecastcom: 34
+      podbeancom: 303
+      podomaticcom: 1
+      r2dev: 1
+      riversidecom: 2
+      rsscom: 56
+      rsspodcastingcom: 1
+      spreakercom: 59
+      theaudioinsightcom: 1
+      transistorfm: 1
+  '2026-07-27':
+    Total: 1096
+    Spam:
+      anchorfm: 36
+      aushaco: 1
+      blubrrycom: 1
+      buzzsproutcom: 17
+      captivatefm: 1
+      epoxyflooringrochesternycom: 1
+      firstoryme: 217
+      getcourseaccesscom: 5
+      hubhoppercom: 11
+      kajabicom: 1
+      libsyncom: 1
+      mavedigital: 3
+      nerranetworkcom: 3
+      pinecastcom: 5
+      podbeancom: 530
+      podcastmachinecom: 1
+      podigeeio: 3
+      podomaticcom: 8
+      redcirclecom: 1
+      riversidecom: 1
+      rsscom: 21
+      spreakercom: 100
+    Hijack:
+      spreakercom: 25
+    AI Slop:
+      acastcom: 1
+      anchorfm: 14
+      buzzsproutcom: 18
+      captivatefm: 1
+      castoscom: 1
+      discerningheartscom: 1
+      fastcastai: 1
+      hubhoppercom: 3
+      ivooxcom: 1
+      maximiliancombr: 1
+      megaphonefm: 1
+      nerranetworkcom: 1
+      podbeancom: 2
+      podcastmachinecom: 2
+      podservefm: 1
+      redcirclecom: 3
+      riversidecom: 1
+      rsscom: 9
+      simplecastcom: 1
+      spreakercom: 34
+      substackcom: 1
+      thehumfmcom: 1
+      transistorfm: 4
+  '2026-07-28':
+    Total: 1810
+    AI Slop:
+      anchorfm: 7
+      beamlycom: 1
+      buzzsproutcom: 5
+      captivatefm: 4
+      dippackmistricom: 1
+      discerningheartscom: 1
+      feedback-loupecom: 1
+      fexingocom: 5
+      githubio: 3
+      hubhoppercom: 3
+      insideout7blog: 1
+      jellypodcom: 2
+      mazdekai: 1
+      megaphonefm: 3
+      noxmagcom: 3
+      pinecastcom: 1
+      podbeancom: 3
+      podservefm: 2
+      redcirclecom: 1
+      riversidecom: 1
+      rsscom: 20
+      speechkitru: 1
+      spreakercom: 274
+      substackcom: 2
+      supabaseco: 2
+      theempresariocom: 1
+      worldintwentycom: 1
+    Spam:
+      afrnet: 1
+      anchorfm: 70
+      applecom: 2
+      asynccom: 2
+      aushaco: 2
+      beamlycom: 2
+      beamlydev: 2
+      bigboxpodcastpl: 3
+      blubrrycom: 1
+      buzzsproutcom: 13
+      camacuk: 8
+      captivatefm: 1
+      castboxfm: 6
+      castoscom: 1
+      chiropractorroundrocktxcom: 1
+      firstoryme: 241
+      getspikegamecom: 1
+      hubhoppercom: 43
+      ivooxcom: 1
+      pinecastcom: 2
+      podbeancom: 156
+      podcastmachinecom: 7
+      podigeeio: 1
+      podomaticcom: 7
+      redcirclecom: 4
+      rsscom: 53
+      sounderfm: 1
+      spreakercom: 74
+      tbladvisorycom: 1
+      wistiacom: 1
+      zegocom: 1
+    Hijack:
+      podigeeio: 1
+      spreakercom: 750
+  '2026-07-29':
+    Total: 902
+    Spam:
+      amperwavenet: 1
+      anchorfm: 25
+      applecom: 1
+      beamlycom: 1
+      beamlydev: 1
+      blubrrycom: 1
+      buzzsproutcom: 11
+      captivatefm: 1
+      dopamine-and-doubtcom: 1
+      firstoryme: 211
+      hubhoppercom: 11
+      jellypodcom: 1
+      pcosdivacom: 1
+      pinecastcom: 8
+      podbeancom: 1
+      podeoco: 1
+      podigeeio: 2
+      publicfeedsnet: 1
+      radiointegrationnet: 1
+      riversidecom: 2
+      rsscom: 11
+      spreakercom: 85
+      trademastermindcouk: 1
+      transistorfm: 2
+    AI Slop:
+      anchorfm: 22
+      buzzsproutcom: 14
+      captivatefm: 1
+      castcorefi: 1
+      claytonledgercom: 1
+      ficemorg: 1
+      firstoryme: 1
+      hubhoppercom: 21
+      jellypodcom: 2
+      killentimeorg: 1
+      lanternpodcastscom: 1
+      libsyncom: 1
+      megaphonefm: 2
+      merchwiseaicom: 1
+      options4lcom: 1
+      pdrlfm: 1
+      pinecastcom: 1
+      podbeancom: 5
+      podigeeio: 1
+      podservefm: 1
+      redcirclecom: 3
+      rsscom: 21
+      rsspodcastingcom: 1
+      spreakercom: 48
+      substackcom: 2
+      supabaseco: 19
+      transistorfm: 1
+      unscarcityai: 1
+    Hijack:
+      buzzsproutcom: 2
+      megaphonefm: 1
       rsscom: 1
+      spreakercom: 340
+  '2026-07-30':
+    Total: 507
+    Spam:
+      acastcom: 1
+      anchorfm: 7
+      buzzsproutcom: 7
+      captivatefm: 1
+      firstoryme: 210
+      hubhoppercom: 10
+      jellypodcom: 1
+      pinecastcom: 3
+      podigeeio: 2
+      rsscom: 10
+      spreakercom: 69
+      transistorfm: 2
+      tuttofrittiorg: 1
+    AI Slop:
+      anchorfm: 4
+      buzzsproutcom: 6
+      englisch-lehrercom: 1
+      hubhoppercom: 1
+      lanternpodcastscom: 1
+      megaphonefm: 1
+      podbeancom: 1
+      podigeeio: 1
+      redcirclecom: 1
+      rsscom: 5
+      simplecastcom: 3
+      soundcloudcom: 1
+      spreakercom: 11
+    Hijack:
+      spreakercom: 146
