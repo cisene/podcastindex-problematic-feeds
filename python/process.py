@@ -361,6 +361,15 @@ def main():
         results['dates'][date_date]['Total'] = value_total
         print(f"\t{date_date}: {value_total}")
 
+  print("Sorting files ..")
+  sorted_files = dict(sorted(feeds['feeds'].items(), key=lambda item: item[0]))
+  feeds['feeds'] = sorted_files
+
+  for domain in feeds['feeds']:
+    sorted_domain = sorted(feeds['feeds'][domain])
+    print(sorted_domain)
+    feeds['feeds'][domain] = sorted_domain
+
   #sorted(results)
   writeYAML(DATA_YAML_DEST, results)
   print(f"Wrote: {len(results['dates'])} dates ..")
