@@ -279,19 +279,16 @@ def main():
   header = next(csvReader)
   # id,feedId,reason,updatedOn,note,url,generator,author,itunesOwnerName,itunesId
 
-  idx_id = header.index("id")
-  idx_feedId = header.index("feedId")
+  #idx_id = header.index("id")
+  #idx_feedId = header.index("feedId")
   idx_reason = header.index("reason")
   idx_updatedOn = header.index("updatedOn")
-  idx_note = header.index("note")
+  #idx_note = header.index("note")
   idx_url = header.index("url")
 
   fields = [
-    #idx_id,
-    #idx_feedId,
     idx_reason,
     idx_updatedOn,
-    #idx_note,
     idx_url,
   ]
 
@@ -322,6 +319,9 @@ def main():
         results['dates'][dateKey] = {}
         results['dates'][dateKey]['Total'] = 0
 
+      if results['dates'][dateKey]['Total'] > 0:
+        continue
+
       if reasonKey not in results['dates'][dateKey]:
         results['dates'][dateKey][reasonKey] = {}
 
@@ -329,7 +329,6 @@ def main():
         results['dates'][dateKey][reasonKey][feedSourceKey] = 0
 
       results['dates'][dateKey][reasonKey][feedSourceKey] += 1
-      results['dates'][dateKey]['Total'] += 1
 
       if feedSourceKey not in feeds['feeds']:
         feeds['feeds'][feedSourceKey] = []
@@ -337,7 +336,32 @@ def main():
       if url not in feeds['feeds'][feedSourceKey]:
         feeds['feeds'][feedSourceKey].append(url)
 
-  sorted(results)
+
+  print("Sorting dates ..")
+  sorted_dates = dict(sorted(results['dates'].items(), key=lambda item: item[0]))
+  results['dates'] = sorted_dates
+
+  print("Completing date counts ..")
+  for date_date in results['dates']:
+    if results['dates'][date_date]['Total'] == 0:
+      value_total = 0
+      for topic in results['dates'][date_date]:
+        if topic == "Total":
+          continue
+
+        sorted_topic = dict(sorted(results['dates'][date_date][topic].items(), key=lambda item: item[0]))
+        #print(sorted_topic)
+        results['dates'][date_date][topic] = sorted_topic
+
+        for domain in results['dates'][date_date][topic]:
+          value_total += results['dates'][date_date][topic][domain]
+          pass
+
+      if value_total != 0:
+        results['dates'][date_date]['Total'] = value_total
+        print(f"\t{date_date}: {value_total}")
+
+  #sorted(results)
   writeYAML(DATA_YAML_DEST, results)
   print(f"Wrote: {len(results['dates'])} dates ..")
 
