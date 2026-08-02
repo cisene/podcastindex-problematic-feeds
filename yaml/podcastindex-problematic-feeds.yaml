@@ -2990,3 +2990,10 @@ dates:
       spreakercom: 11
     Hijack:
       spreakercom: 146
+  '2026-07-31':
+    Total: 187
+    Spam:
+      pinecastcom: 3
+      spreakercom: 1
+    Hijack:
+      spreakercom: 183
