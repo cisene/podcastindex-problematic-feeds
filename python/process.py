@@ -367,7 +367,7 @@ def main():
 
   for domain in feeds['feeds']:
     sorted_domain = sorted(feeds['feeds'][domain])
-    print(sorted_domain)
+    #print(sorted_domain)
     feeds['feeds'][domain] = sorted_domain
 
   #sorted(results)
