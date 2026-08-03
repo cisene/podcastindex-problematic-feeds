@@ -334,7 +334,8 @@ def main():
         feeds['feeds'][feedSourceKey] = []
 
       if url not in feeds['feeds'][feedSourceKey]:
-        feeds['feeds'][feedSourceKey].append(url)
+        if not re.search(r"\x5fconflict$", url, flags=re.IGNORECASE):
+          feeds['feeds'][feedSourceKey].append(url)
 
 
   print("Sorting dates ..")
@@ -367,7 +368,6 @@ def main():
 
   for domain in feeds['feeds']:
     sorted_domain = sorted(feeds['feeds'][domain])
-    #print(sorted_domain)
     feeds['feeds'][domain] = sorted_domain
 
   #sorted(results)
