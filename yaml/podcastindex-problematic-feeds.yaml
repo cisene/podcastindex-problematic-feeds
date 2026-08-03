@@ -2997,3 +2997,33 @@ dates:
       spreakercom: 1
     Hijack:
       spreakercom: 183
+  '2026-08-02':
+    Total: 615
+    Hijack:
+      art19com: 1
+      backblazeb2com: 1
+      gigadialnet: 1
+      spreakercom: 394
+      thebookvoicecom: 1
+    Spam:
+      anchorfm: 7
+      audioboomcom: 1
+      buzzsproutcom: 1
+      firstoryme: 97
+      hubhoppercom: 8
+      ivooxcom: 1
+      jellypodcom: 3
+      libsyncom: 1
+      megaphonefm: 1
+      nrkno: 1
+      podbeancom: 1
+      podigeeio: 6
+      riversidefm: 1
+      rsscom: 41
+      simplecastcom: 2
+      soundcloudcom: 1
+      spreakercom: 39
+    AI Slop:
+      fastcastai: 1
+      megaphonefm: 1
+      spreakercom: 3
