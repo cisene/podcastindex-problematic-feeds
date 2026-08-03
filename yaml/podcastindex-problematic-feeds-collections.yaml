@@ -14,7 +14,6 @@ feeds:
   - https://feeds.acast.com/public/shows/648fac6906a304001195db78
   - https://feeds.acast.com/public/shows/65136295c2fc1f0011723ae9
   - https://feeds.acast.com/public/shows/6820fc61ca72734652df1102
-  - https://feeds.acast.com/public/shows/696e58234788cf9ec6f1ddbc_conflict
   - https://feeds.acast.com/public/shows/69c6232426c1fb9c07b02968
   - https://feeds.acast.com/public/shows/69e27c2323929c3a2a50de47
   - https://feeds.acast.com/public/shows/69ea0384738b0d0aa5fc06fd
@@ -31,7 +30,6 @@ feeds:
   - https://feeds.acast.com/public/shows/69f696c69dcd58edd956fea8
   - https://feeds.acast.com/public/shows/69f8fd97d9139f13fbb15e61
   - https://feeds.acast.com/public/shows/69fa41331932a077a9b56205
-  - https://feeds.acast.com/public/shows/69fd6bc52b71c054a394861a_conflict
   - https://feeds.acast.com/public/shows/6a0db5548777270b41327185
   - https://feeds.acast.com/public/shows/6a0e95f880978431da78d201
   - https://feeds.acast.com/public/shows/6a0ea7d5d7997e788c35ffed
@@ -8411,7 +8409,6 @@ feeds:
   - https://rss.buzzsprout.com/2434338.rss
   - https://rss.buzzsprout.com/2436995.rss
   - https://rss.buzzsprout.com/2445807.rss
-  - https://rss.buzzsprout.com/2454631.rss_conflict
   - https://rss.buzzsprout.com/2454753.rss
   - https://rss.buzzsprout.com/2458627.rss
   - https://rss.buzzsprout.com/2497916.rss
@@ -8901,7 +8898,6 @@ feeds:
   - https://rss.buzzsprout.com/2614129.rss
   - https://rss.buzzsprout.com/2614207.rss
   - https://rss.buzzsprout.com/2614225.rss
-  - https://rss.buzzsprout.com/2614305.rss_conflict
   - https://rss.buzzsprout.com/2614356.rss
   - https://rss.buzzsprout.com/2614360.rss
   - https://rss.buzzsprout.com/2614377.rss
@@ -9116,7 +9112,6 @@ feeds:
   - https://rss.buzzsprout.com/2625570.rss
   - https://rss.buzzsprout.com/2625638.rss
   - https://rss.buzzsprout.com/2625922.rss
-  - https://rss.buzzsprout.com/2625959.rss_conflict
   - https://rss.buzzsprout.com/2625961.rss
   - https://rss.buzzsprout.com/2625964.rss
   - https://rss.buzzsprout.com/2625966.rss
@@ -9461,7 +9456,6 @@ feeds:
   - https://feeds.captivate.fm/physics/
   - https://feeds.captivate.fm/pitch-lab/
   - https://feeds.captivate.fm/place-shapers/
-  - https://feeds.captivate.fm/place-shapers/_conflict
   - https://feeds.captivate.fm/project-hail-mary-by/
   - https://feeds.captivate.fm/pwtrelynews-weather/
   - https://feeds.captivate.fm/quiet-ambition-podcast-hazjg7/
@@ -9491,7 +9485,6 @@ feeds:
   - https://feeds.captivate.fm/the-front-rowe/
   - https://feeds.captivate.fm/the-frozen-river-a-gma/
   - https://feeds.captivate.fm/the-girl-behind-the/
-  - https://feeds.captivate.fm/the-landscaping-growth/_conflict
   - https://feeds.captivate.fm/the-magic-of-you-haa77o/
   - https://feeds.captivate.fm/the-magic-of-you-hafxim/
   - https://feeds.captivate.fm/the-oil-shock-is-going/
@@ -9500,7 +9493,6 @@ feeds:
   - https://feeds.captivate.fm/the-widow-a-novel-by/
   - https://feeds.captivate.fm/theo-of-golden-a-novel/
   - https://feeds.captivate.fm/triumph-by-judy-wilson/
-  - https://feeds.captivate.fm/unhealthy-podcast/_conflict
   - https://feeds.captivate.fm/word-meets-world/
   - https://feeds.captivate.fm/year-of-journal-prompts/
   - https://feeds.captivate.fm/your-daily-rich-habits/
@@ -9661,7 +9653,6 @@ feeds:
   - https://api.dr.dk/podcasts/v1/feeds/00-erne.xml?format=podcast https://api.dr.dk/podcasts/v1/feeds/3-halvleg.xml?format=podcast https://api.dr.dk/podcasts/v1/feeds/4-division.xml?format=podcast https://api.dr.dk/podcasts/v1/feeds/9april.xml
   - https://api.dr.dk/podcasts/v1/feeds/buffeten.xml?format=podcast
   dreamhosterscom:
-  - https://adrianhas.dreamhosters.com/feed/podcast/talking-like-a-teen/_conflict
   - https://plugintesting.dreamhosters.com/category/uncategorized/feed/
   ebootisde:
   - https://www.ebootis.de/feed/mp3/
@@ -16843,7 +16834,6 @@ feeds:
   ghcfirmcom:
   - https://ghcfirm.com/feed/podcast/http-www-ghcfirm-com/
   gheantoantreemcom:
-  - https://gheantoantreem.com/feed/podcast/ghe-an-toan-tre-em/_conflict
   gigadialnet:
   - http://www.gigadial.net/public/station/1335374/rss.xml
   girlandbrilliantcom:
@@ -16864,7 +16854,6 @@ feeds:
   - https://sameer1337.github.io/ai-tech-podcast/feeds/startup.xml
   - https://sameer1337.github.io/ai-tech-podcast/feeds/truecrime.xml
   - https://sameer1337.github.io/ai-tech-podcast/feeds/world.xml
-  - https://shaqo88.github.io/youtube-podcast-feeds/nachmanson/feed.xml_conflict
   githubusercontentcom:
   - https://raw.githubusercontent.com/mesektok/mesektok.github.io/main/podcast/feed.xml
   - https://raw.githubusercontent.com/nawellsee/hip-apple-feed/main/feed.xml
@@ -26716,7 +26705,6 @@ feeds:
   - https://prestocast.com/kuri14s/feed
   - https://prestocast.com/laura_flow/feed
   - https://prestocast.com/nextgen/feed
-  - https://prestocast.com/olmoaxayacatl/feed_conflict
   - https://prestocast.com/peptidescostarica/feed
   - https://prestocast.com/retatrutide/feed
   - https://prestocast.com/rodrigo/feed
@@ -26734,7 +26722,6 @@ feeds:
   r2dev:
   - https://pub-13b0a3b17c7c48c0889540abd2ad72de.r2.dev/wifiviettel24h_com/wifiviettel24h_com_podcast_feed.xml
   - https://pub-24c9fca841f545ff987d9494b7820048.r2.dev/feed.xml
-  - https://pub-40a72d8993724446a89fbd038ef8d186.r2.dev/feed.xml_conflict
   - https://pub-5abcb104c68143f682c58aae40c949ea.r2.dev/es/feed.xml
   - https://pub-9ef3a28683d64339b4922ae5767fca10.r2.dev/feed.xml
   - https://pub-e1984941fb4e4c468c40329f25b084c1.r2.dev/feed.xml
@@ -26780,7 +26767,6 @@ feeds:
   - https://feeds.redcircle.com/0ff31322-7db4-4dd2-9a1a-5ecf1b77cc2e
   - https://feeds.redcircle.com/0ffc944e-cb91-4465-bbbd-5c7cd49c4253
   - https://feeds.redcircle.com/10003b2f-24ef-4cba-8bf0-1e54596ff46f
-  - https://feeds.redcircle.com/1159f15b-9b40-49d5-98fa-0ca74951fa6b_conflict
   - https://feeds.redcircle.com/11794c80-d95f-4be3-97dc-0686163f3184
   - https://feeds.redcircle.com/1193abc2-45f0-4ab2-b974-6c3b4615148b
   - https://feeds.redcircle.com/1294a958-a7d1-4ced-ad35-ac7f1d826476
@@ -26923,7 +26909,6 @@ feeds:
   - https://feeds.redcircle.com/74d50577-7b3b-440d-b66f-99819fe66b11
   - https://feeds.redcircle.com/75351813-c766-4da0-8c4e-c8f2bf72f0f1
   - https://feeds.redcircle.com/760e981e-772d-49d6-a24e-9e0705308079
-  - https://feeds.redcircle.com/764a1f45-79fe-4561-bb6b-749a24ea9187_conflict
   - https://feeds.redcircle.com/7655533f-ab34-41c0-b2db-29f76723dc42
   - https://feeds.redcircle.com/77013ddd-d361-4f68-a458-0828e57d771b
   - https://feeds.redcircle.com/78349706-bfaf-4ea2-bb00-de2cd7fee43d
@@ -27028,7 +27013,6 @@ feeds:
   - https://feeds.redcircle.com/b4750d28-6662-47e3-b991-79cb3a2a55fb
   - https://feeds.redcircle.com/b4de0f3a-75f9-4adb-aa0c-1be4688d4f3e
   - https://feeds.redcircle.com/b5bd7ef5-2814-460a-a3b0-450e8f8f2295
-  - https://feeds.redcircle.com/b5bd7ef5-2814-460a-a3b0-450e8f8f2295_conflict
   - https://feeds.redcircle.com/bb8f57d1-6c35-4587-ad83-477f539e1e50
   - https://feeds.redcircle.com/bc48636e-b7b1-4259-bdca-2dc93094e21a
   - https://feeds.redcircle.com/bd549967-e29c-42d3-bc63-56bd547ce74e
@@ -27116,7 +27100,6 @@ feeds:
   - https://feeds.redcircle.com/f26402ca-421d-48e3-b291-f04d661e6206
   - https://feeds.redcircle.com/f29125dc-9b49-4c51-bcf9-4df22e7c3c3a
   - https://feeds.redcircle.com/f2a872e4-a9b4-41c2-973e-2b831645dfa9
-  - https://feeds.redcircle.com/f2d4e183-e2fb-424e-941e-7e251e627cbf_conflict
   - https://feeds.redcircle.com/f2e09ed0-f240-4e80-97cc-a95c18c50fc9
   - https://feeds.redcircle.com/f32f8ed0-4745-45af-890e-8c26e8727784
   - https://feeds.redcircle.com/f33d8931-0235-4361-b634-c90f37b8211c
@@ -27313,7 +27296,6 @@ feeds:
   - https://media.rss.com/abbott-and-costello-the-oldies-radio/feed.xml
   - https://media.rss.com/abc-pod9/feed.xml
   - https://media.rss.com/ablmatefham/feed.xml
-  - https://media.rss.com/about-bitcoin-podcast/feed.xml_conflict
   - https://media.rss.com/abr-nis-guide/feed.xml
   - https://media.rss.com/accord-equips/feed.xml
   - https://media.rss.com/actuallyai/feed.xml
@@ -27537,7 +27519,6 @@ feeds:
   - https://media.rss.com/bethel-baptist-church-macclesfield/feed.xml
   - https://media.rss.com/between-reflections/feed.xml
   - https://media.rss.com/between-two-worlds-the-audio-novel/feed.xml
-  - https://media.rss.com/beyond-adjustments/feed.xml_conflict
   - https://media.rss.com/beyond-the-smile-conversations-on-modern-dental-health/feed.xml
   - https://media.rss.com/bhagwan-ka-secret-plan-jo-dikhta-hai-wo-sach-nahi/feed.xml
   - https://media.rss.com/bhata-history/feed.xml
@@ -27959,7 +27940,6 @@ feeds:
   - https://media.rss.com/dark-bible-stories/feed.xml
   - https://media.rss.com/dark-crime-files/feed.xml
   - https://media.rss.com/dark-files/feed.xml
-  - https://media.rss.com/dark-psychology/feed.xml_conflict
   - https://media.rss.com/dark-romance-novels/feed.xml
   - https://media.rss.com/darwin-s-solution/feed.xml
   - https://media.rss.com/das-letzte-notsignal-der-sci-fi-mystery-weltraum-horror-podcast/feed.xml
@@ -28105,7 +28085,6 @@ feeds:
   - https://media.rss.com/dunkin-donuts-menu-secrets-what-everyone-is-talking-about/feed.xml
   - https://media.rss.com/duobaan/feed.xml
   - https://media.rss.com/duoyanghua/feed.xml
-  - https://media.rss.com/duszno-podcast/feed.xml_conflict
   - https://media.rss.com/dving-podcast/feed.xml
   - https://media.rss.com/e-arabization/feed.xml
   - https://media.rss.com/e-pod6/feed.xml
@@ -29121,7 +29100,6 @@ feeds:
   - https://media.rss.com/motivational-speaking-without-a-stage/feed.xml
   - https://media.rss.com/motor-vehicle-accident-lawyers-adelaide-skilled-legal-representation-for-accidents/feed.xml
   - https://media.rss.com/movie-previews-collection-the-oldies-radio/feed.xml
-  - https://media.rss.com/movie-wars/feed.xml_conflict
   - https://media.rss.com/movies4theblind-the-oldies-radio/feed.xml
   - https://media.rss.com/moyang/feed.xml
   - https://media.rss.com/mpp-ky/feed.xml
@@ -29289,7 +29267,6 @@ feeds:
   - https://media.rss.com/nostalgia-noobz/feed.xml
   - https://media.rss.com/not-a-quiet-revival-the-power-of-the-holy-spirit-bold-faith-and-a-church-on-fire-audiobook/feed.xml
   - https://media.rss.com/not-another-boring-insurance-podcast-steve-o-brien-on-building-clear21-upcoming-ai-innovation/feed.xml
-  - https://media.rss.com/not-that-damn-show/feed.xml_conflict
   - https://media.rss.com/notebooklm-guide-slide-deck-2026/feed.xml
   - https://media.rss.com/notes-from-the-field/feed.xml
   - https://media.rss.com/notes-to-self/feed.xml
@@ -29853,7 +29830,6 @@ feeds:
   - https://media.rss.com/speed-gibson-the-oldies-radio/feed.xml
   - https://media.rss.com/spin-fun-entertainment-exploring-gra-kolofortuny-pl/feed.xml
   - https://media.rss.com/spirits-with-spirits/feed.xml
-  - https://media.rss.com/splendor-of-the-king/feed.xml_conflict
   - https://media.rss.com/sports-dudes/feed.xml
   - https://media.rss.com/sports-pod11/feed.xml
   - https://media.rss.com/spotify-mod-apk-pod4/feed.xml
@@ -29960,7 +29936,6 @@ feeds:
   - https://media.rss.com/tansuo/feed.xml
   - https://media.rss.com/tante/feed.xml
   - https://media.rss.com/tanya-jer-spotlight/feed.xml
-  - https://media.rss.com/tapkgeresniu/feed.xml_conflict
   - https://media.rss.com/taraftarium24-podcast/feed.xml
   - https://media.rss.com/tarikootd/feed.xml
   - https://media.rss.com/tarrina593-podcast-de-futbol-sin-filtros-makaco-sports/feed.xml
@@ -30101,7 +30076,6 @@ feeds:
   - https://media.rss.com/the-cybersecurity-podcast-with-fexingo-hacks-breaches-and-digital-defense-conversations/feed.xml
   - https://media.rss.com/the-daily-insight/feed.xml
   - https://media.rss.com/the-daily-insights/feed.xml
-  - https://media.rss.com/the-daily-objective/feed.xml_conflict
   - https://media.rss.com/the-daily-stoic-by-ryan-holiday-book-summary-podcast-english/feed.xml
   - https://media.rss.com/the-data-business-podcast-with-fexingo-analytics-data-infrastructure-and-information-products/feed.xml
   - https://media.rss.com/the-day-s-play/feed.xml
@@ -30134,7 +30108,6 @@ feeds:
   - https://media.rss.com/the-forgotten-history-show/feed.xml
   - https://media.rss.com/the-founder-s-journey-with-fexingo-first-time-entrepreneurs-failures-and-lessons-learned/feed.xml
   - https://media.rss.com/the-friend-zone-by-abby-jimenez-book-summary-podcast-english/feed.xml
-  - https://media.rss.com/the-friendship-studio-podcast/feed.xml_conflict
   - https://media.rss.com/the-future-intelligence-podcast-ai-news-and-insights/feed.xml
   - https://media.rss.com/the-future-of-ai-in-app-development-and-why-businesses-are-investing-in-ai-powered-mobile-apps/feed.xml
   - https://media.rss.com/the-future-of-financial-alpha-generative-ai-in-alternative-investments/feed.xml
@@ -30301,7 +30274,6 @@ feeds:
   - https://media.rss.com/the-software-engineering-podcast-with-fexingo-code-architecture-and-engineering-best-practices/feed.xml
   - https://media.rss.com/the-solfawn-deep-dive-podcast/feed.xml
   - https://media.rss.com/the-sovereignty-race/feed.xml
-  - https://media.rss.com/the-sports-playbook/feed.xml_conflict
   - https://media.rss.com/the-spy-coast-a-thriller-by-tess-gerritsen-book-summary-podcast-english/feed.xml
   - https://media.rss.com/the-stark-family-in-america/feed.xml
   - https://media.rss.com/the-step-by-step-info-to-contact-bellsouth-at-t-support/feed.xml
@@ -30366,7 +30338,6 @@ feeds:
   - https://media.rss.com/theater-five-the-oldies-radio/feed.xml
   - https://media.rss.com/thegridpodcast/feed.xml
   - https://media.rss.com/thegryndpod/feed.xml
-  - https://media.rss.com/thelegacyloungelive/feed.xml_conflict
   - https://media.rss.com/theliberationleague/feed.xml
   - https://media.rss.com/themadbrains/feed.xml
   - https://media.rss.com/themintedceo/feed.xml
@@ -30453,7 +30424,6 @@ feeds:
   - https://media.rss.com/transform-your-home-with-cozy-decor-ideas-smart-design-tips-diy-inspiration/feed.xml
   - https://media.rss.com/transiciones-en-la-adultez-intermedia/feed.xml
   - https://media.rss.com/transient-ai/feed.xml
-  - https://media.rss.com/transtea/feed.xml_conflict
   - https://media.rss.com/trauma-heal-flourish/feed.xml
   - https://media.rss.com/travel-thru-grief/feed.xml
   - https://media.rss.com/traze-referral-code-z4866315-get-10-off-on-trading-fees/feed.xml
@@ -39872,7 +39842,6 @@ feeds:
   - https://www.spreaker.com/show/6951522/episodes/feed
   - https://www.spreaker.com/show/6951544/episodes/feed
   - https://www.spreaker.com/show/6951547/episodes/feed
-  - https://www.spreaker.com/show/6951551/episodes/feed_conflict
   - https://www.spreaker.com/show/6951557/episodes/feed
   - https://www.spreaker.com/show/6951569/episodes/feed
   - https://www.spreaker.com/show/6951572/episodes/feed
@@ -41221,7 +41190,6 @@ feeds:
   - https://www.spreaker.com/show/6960577/episodes/feed
   - https://www.spreaker.com/show/6960579/episodes/feed
   - https://www.spreaker.com/show/6960580/episodes/feed
-  - https://www.spreaker.com/show/6960583/episodes/feed_conflict
   - https://www.spreaker.com/show/6960589/episodes/feed
   - https://www.spreaker.com/show/6960590/episodes/feed
   - https://www.spreaker.com/show/6960591/episodes/feed
@@ -41964,7 +41932,6 @@ feeds:
   - https://www.spreaker.com/show/6972634/episodes/feed
   - https://www.spreaker.com/show/6972666/episodes/feed
   - https://www.spreaker.com/show/6972732/episodes/feed
-  - https://www.spreaker.com/show/6972733/episodes/feed_conflict
   - https://www.spreaker.com/show/6972797/episodes/feed
   - https://www.spreaker.com/show/6972830/episodes/feed
   - https://www.spreaker.com/show/6972832/episodes/feed
@@ -46177,7 +46144,6 @@ feeds:
   - https://www.spreaker.com/show/6995667/episodes/feed
   - https://www.spreaker.com/show/6995733/episodes/feed
   - https://www.spreaker.com/show/6995734/episodes/feed
-  - https://www.spreaker.com/show/6995739/episodes/feed_conflict
   - https://www.spreaker.com/show/6995740/episodes/feed
   - https://www.spreaker.com/show/6995743/episodes/feed
   - https://www.spreaker.com/show/6995744/episodes/feed
@@ -46214,7 +46180,6 @@ feeds:
   - https://www.spreaker.com/show/6995935/episodes/feed
   - https://www.spreaker.com/show/6995964/episodes/feed
   - https://www.spreaker.com/show/6995965/episodes/feed
-  - https://www.spreaker.com/show/6996062/episodes/feed_conflict
   - https://www.spreaker.com/show/6996063/episodes/feed
   - https://www.spreaker.com/show/6996065/episodes/feed
   - https://www.spreaker.com/show/6996096/episodes/feed
@@ -48116,7 +48081,6 @@ feeds:
   - https://www.spreaker.com/show/7004548/episodes/feed
   - https://www.spreaker.com/show/7004550/episodes/feed
   - https://www.spreaker.com/show/7004578/episodes/feed
-  - https://www.spreaker.com/show/7004580/episodes/feed_conflict
   - https://www.spreaker.com/show/7004584/episodes/feed
   - https://www.spreaker.com/show/7004610/episodes/feed
   - https://www.spreaker.com/show/7004611/episodes/feed
@@ -48437,7 +48401,6 @@ feeds:
   - https://www.spreaker.com/show/7007903/episodes/feed
   - https://www.spreaker.com/show/7007904/episodes/feed
   - https://www.spreaker.com/show/7007906/episodes/feed
-  - https://www.spreaker.com/show/7007907/episodes/feed_conflict
   - https://www.spreaker.com/show/7007910/episodes/feed
   - https://www.spreaker.com/show/7008009/episodes/feed
   - https://www.spreaker.com/show/7008012/episodes/feed
@@ -49255,7 +49218,6 @@ feeds:
   - https://www.spreaker.com/show/7013432/episodes/feed
   - https://www.spreaker.com/show/7013555/episodes/feed
   - https://www.spreaker.com/show/7013556/episodes/feed
-  - https://www.spreaker.com/show/7013557/episodes/feed_conflict
   - https://www.spreaker.com/show/7013560/episodes/feed
   - https://www.spreaker.com/show/7013561/episodes/feed
   - https://www.spreaker.com/show/7013562/episodes/feed
@@ -68818,7 +68780,6 @@ feeds:
   - https://www.spreaker.com/show/7116719/episodes/feed
   - https://www.spreaker.com/show/7116727/episodes/feed
   - https://www.spreaker.com/show/7116781/episodes/feed
-  - https://www.spreaker.com/show/7116809/episodes/feed_conflict
   - https://www.spreaker.com/show/7116853/episodes/feed
   - https://www.spreaker.com/show/7116856/episodes/feed
   - https://www.spreaker.com/show/7116864/episodes/feed
@@ -68857,7 +68818,6 @@ feeds:
   - https://www.spreaker.com/show/7117404/episodes/feed
   - https://www.spreaker.com/show/7117415/episodes/feed
   - https://www.spreaker.com/show/7117471/episodes/feed
-  - https://www.spreaker.com/show/7117478/episodes/feed_conflict
   - https://www.spreaker.com/show/7117490/episodes/feed
   - https://www.spreaker.com/show/7117492/episodes/feed
   - https://www.spreaker.com/show/7117499/episodes/feed
@@ -71884,7 +71844,6 @@ feeds:
   - https://www.spreaker.com/show/7140441/episodes/feed
   - https://www.spreaker.com/show/7140442/episodes/feed
   - https://www.spreaker.com/show/7140503/episodes/feed
-  - https://www.spreaker.com/show/7140540/episodes/feed_conflict
   - https://www.spreaker.com/show/7140608/episodes/feed
   - https://www.spreaker.com/show/7140610/episodes/feed
   - https://www.spreaker.com/show/7140611/episodes/feed
@@ -73091,7 +73050,6 @@ feeds:
   - https://www.spreaker.com/show/7146028/episodes/feed
   - https://www.spreaker.com/show/7146029/episodes/feed
   - https://www.spreaker.com/show/7146031/episodes/feed
-  - https://www.spreaker.com/show/7146033/episodes/feed_conflict
   - https://www.spreaker.com/show/7146034/episodes/feed
   - https://www.spreaker.com/show/7146035/episodes/feed
   - https://www.spreaker.com/show/7146038/episodes/feed
@@ -73113,7 +73071,6 @@ feeds:
   - https://www.spreaker.com/show/7146245/episodes/feed
   - https://www.spreaker.com/show/7146289/episodes/feed
   - https://www.spreaker.com/show/7146291/episodes/feed
-  - https://www.spreaker.com/show/7146298/episodes/feed_conflict
   - https://www.spreaker.com/show/7146315/episodes/feed
   - https://www.spreaker.com/show/7146346/episodes/feed
   - https://www.spreaker.com/show/7146412/episodes/feed
@@ -77848,7 +77805,6 @@ feeds:
   - https://www.spreaker.com/show/7178205/episodes/feed
   - https://www.spreaker.com/show/7178206/episodes/feed
   - https://www.spreaker.com/show/7178207/episodes/feed
-  - https://www.spreaker.com/show/7178208/episodes/feed_conflict
   - https://www.spreaker.com/show/7178212/episodes/feed
   - https://www.spreaker.com/show/7178214/episodes/feed
   - https://www.spreaker.com/show/7178215/episodes/feed
@@ -80141,7 +80097,6 @@ feeds:
   - https://www.spreaker.com/show/7217175/episodes/feed
   - https://www.spreaker.com/show/7217178/episodes/feed
   - https://www.spreaker.com/show/7217179/episodes/feed
-  - https://www.spreaker.com/show/7217196/episodes/feed_conflict
   - https://www.spreaker.com/show/7217206/episodes/feed
   - https://www.spreaker.com/show/7217211/episodes/feed
   - https://www.spreaker.com/show/7217213/episodes/feed
@@ -80181,7 +80136,6 @@ feeds:
   - https://www.spreaker.com/show/7217362/episodes/feed
   - https://www.spreaker.com/show/7217363/episodes/feed
   - https://www.spreaker.com/show/7217366/episodes/feed
-  - https://www.spreaker.com/show/7217397/episodes/feed_conflict
   - https://www.spreaker.com/show/7217400/episodes/feed
   - https://www.spreaker.com/show/7217402/episodes/feed
   - https://www.spreaker.com/show/7217405/episodes/feed
@@ -80216,15 +80170,12 @@ feeds:
   - https://www.spreaker.com/show/7217756/episodes/feed
   - https://www.spreaker.com/show/7217757/episodes/feed
   - https://www.spreaker.com/show/7217855/episodes/feed
-  - https://www.spreaker.com/show/7217858/episodes/feed_conflict
   - https://www.spreaker.com/show/7217861/episodes/feed
   - https://www.spreaker.com/show/7217889/episodes/feed
-  - https://www.spreaker.com/show/7217889/episodes/feed_conflict
   - https://www.spreaker.com/show/7217892/episodes/feed
   - https://www.spreaker.com/show/7217893/episodes/feed
   - https://www.spreaker.com/show/7217895/episodes/feed
   - https://www.spreaker.com/show/7217899/episodes/feed
-  - https://www.spreaker.com/show/7217956/episodes/feed_conflict
   - https://www.spreaker.com/show/7217957/episodes/feed
   - https://www.spreaker.com/show/7217958/episodes/feed
   - https://www.spreaker.com/show/7217987/episodes/feed
@@ -80233,7 +80184,6 @@ feeds:
   - https://www.spreaker.com/show/7218055/episodes/feed
   - https://www.spreaker.com/show/7218056/episodes/feed
   - https://www.spreaker.com/show/7218087/episodes/feed
-  - https://www.spreaker.com/show/7218119/episodes/feed_conflict
   - https://www.spreaker.com/show/7218152/episodes/feed
   - https://www.spreaker.com/show/7218185/episodes/feed
   - https://www.spreaker.com/show/7218186/episodes/feed
@@ -80273,7 +80223,6 @@ feeds:
   - https://www.spreaker.com/show/7218821/episodes/feed
   - https://www.spreaker.com/show/7218826/episodes/feed
   - https://www.spreaker.com/show/7218827/episodes/feed
-  - https://www.spreaker.com/show/7218827/episodes/feed_conflict
   - https://www.spreaker.com/show/7218828/episodes/feed
   - https://www.spreaker.com/show/7218831/episodes/feed
   - https://www.spreaker.com/show/7218832/episodes/feed
@@ -80375,9 +80324,6 @@ feeds:
   - https://www.spreaker.com/show/7219117/episodes/feed
   - https://www.spreaker.com/show/7219122/episodes/feed
   - https://www.spreaker.com/show/7219123/episodes/feed
-  - https://www.spreaker.com/show/7219124/episodes/feed_conflict
-  - https://www.spreaker.com/show/7219125/episodes/feed_conflict
-  - https://www.spreaker.com/show/7219126/episodes/feed_conflict
   - https://www.spreaker.com/show/7219127/episodes/feed
   - https://www.spreaker.com/show/7219143/episodes/feed
   - https://www.spreaker.com/show/7219147/episodes/feed
@@ -80413,7 +80359,6 @@ feeds:
   - https://www.spreaker.com/show/7219621/episodes/feed
   - https://www.spreaker.com/show/7219644/episodes/feed
   - https://www.spreaker.com/show/7219645/episodes/feed
-  - https://www.spreaker.com/show/7219646/episodes/feed_conflict
   - https://www.spreaker.com/show/7219648/episodes/feed
   - https://www.spreaker.com/show/7219649/episodes/feed
   - https://www.spreaker.com/show/7219650/episodes/feed
@@ -80742,9 +80687,7 @@ feeds:
   - https://feeds.transistor.fm/birdlens-ai-bird-identifier
   - https://feeds.transistor.fm/birdsong-chronicles-ai-birding-species-identification
   - https://feeds.transistor.fm/black-cat-prowess-navigating-urban-labyrinths
-  - https://feeds.transistor.fm/black-cat-prowess-navigating-urban-labyrinths_conflict
   - https://feeds.transistor.fm/blueprint-of-opaque-justice-revealing-hidden-law
-  - https://feeds.transistor.fm/blueprint-of-opaque-justice-revealing-hidden-law_conflict
   - https://feeds.transistor.fm/blueprint-of-shadows-deciphering-urban-enigma
   - https://feeds.transistor.fm/boc-tr-n-chu-i-th-ng-dang-ng-c-a-d-i-bong-v-a-lam-m-a-lam-gio
   - https://feeds.transistor.fm/bong-da-d-i-lang-kinh-khong-mau-h-ng-chu-i-cau-chuy-n-ch-a-k
@@ -80768,7 +80711,6 @@ feeds:
   - https://feeds.transistor.fm/bong-da-vi-t-nam-s-tr-l-i-d-y-b-t-ng
   - https://feeds.transistor.fm/boostlete-fitness-supplements-performance
   - https://feeds.transistor.fm/breaking-asphalt-exploring-the-underbelly-of-the-city
-  - https://feeds.transistor.fm/breaking-asphalt-exploring-the-underbelly-of-the-city_conflict
   - https://feeds.transistor.fm/breaking-free-quit-bad-habits-build-better-ones
   - https://feeds.transistor.fm/breathe-easy-mindfulness-stress-relief-breathing-techniques
   - https://feeds.transistor.fm/bugscout-ai-insect-bug-identification-podcast
@@ -80787,63 +80729,46 @@ feeds:
   - https://feeds.transistor.fm/chuy-n-bong-da-khong-d-n-gi-n-t-san-c-d-n-chi-c-gh-hlv
   - https://feeds.transistor.fm/chuyen-d-hot-bong-da-vi-t-nam-co-th-t-s-ti-n-b-hay-ch-la-o-giac
   - https://feeds.transistor.fm/city-chronicles-dissecting-crime-gridlocks
-  - https://feeds.transistor.fm/city-chronicles-dissecting-crime-gridlocks_conflict
   - https://feeds.transistor.fm/city-secrets-decoding-urban-crime-psychology
-  - https://feeds.transistor.fm/city-secrets-decoding-urban-crime-psychology_conflict
   - https://feeds.transistor.fm/city-underbelly-chronicles-unmunding-the-shadows
-  - https://feeds.transistor.fm/city-underbelly-chronicles-unmunding-the-shadows_conflict
   - https://feeds.transistor.fm/claude-al-architect-certification-agent-sdk
   - https://feeds.transistor.fm/clickloop-field-notes
   - https://feeds.transistor.fm/coin-chronicles-ai-coin-identification-numismatics
   - https://feeds.transistor.fm/cold-case-breakthrough
-  - https://feeds.transistor.fm/cold-case-breakthrough_conflict
   - https://feeds.transistor.fm/compra
   - https://feeds.transistor.fm/contract-killers
-  - https://feeds.transistor.fm/contract-killers_conflict
   - https://feeds.transistor.fm/core-insights-with-brian-brandt
   - https://feeds.transistor.fm/criar-con-corazon-y-razon
   - https://feeds.transistor.fm/criminal-canopies-penetrating-urban-crime-rainforest
-  - https://feeds.transistor.fm/criminal-canopies-penetrating-urban-crime-rainforest_conflict
   - https://feeds.transistor.fm/criminal-canvases-urban-crimes-in-focus
   - https://feeds.transistor.fm/cryptic-corners-unzipping-city-crime-secrets
-  - https://feeds.transistor.fm/cryptic-corners-unzipping-city-crime-secrets_conflict
   - https://feeds.transistor.fm/crystal-clear-gemstones-healing-mindful-living
   - https://feeds.transistor.fm/cu-c-chi-n-gi-a-nh-ng-ng-i-kh-ng-l
   - https://feeds.transistor.fm/cult-deprogramming
-  - https://feeds.transistor.fm/cult-deprogramming_conflict
   - https://feeds.transistor.fm/d-i-bong-nao-s-t-a-sang-t-i-gi-i-d-u-nam-nay
   - https://feeds.transistor.fm/d-ng-sau-chu-i-tr-n-b-t-b-i-c-a-d-i-bong-s-1-vi-t-nam
   - https://feeds.transistor.fm/d-ng-sau-chu-i-tr-n-bung-n-c-a-d-i-bong-vang-den
   - https://feeds.transistor.fm/d-ng-sau-nh-ng-cu-s-c-mua-bong-nam-nay
   - https://feeds.transistor.fm/d-ng-sau-nh-ng-cu-s-c-va-ngoi-sao-th-m-l-ng-chu-i-drama-bong-da-ch-a-t-ng-co
   - https://feeds.transistor.fm/dark-districts-unraveling-criminal-stories
-  - https://feeds.transistor.fm/dark-districts-unraveling-criminal-stories_conflict
   - https://feeds.transistor.fm/dark-tapestry-weaving-urban-crime-trails
-  - https://feeds.transistor.fm/dark-tapestry-weaving-urban-crime-trails_conflict
   - https://feeds.transistor.fm/dark-web-diaries
-  - https://feeds.transistor.fm/dark-web-diaries_conflict
-  - https://feeds.transistor.fm/decantando-ideias_conflict
   - https://feeds.transistor.fm/default-password
   - https://feeds.transistor.fm/digital-mavericks-breaking-the-algorithmic-mold
   - https://feeds.transistor.fm/dirty-cops
-  - https://feeds.transistor.fm/dirty-cops_conflict
   - https://feeds.transistor.fm/done-right-productivity-task-management-focus
   - https://feeds.transistor.fm/e975f29b-057e-431f-8869-e5f88004865d
   - https://feeds.transistor.fm/earthship-radio
   - https://feeds.transistor.fm/echoes-of-silence-dissecting-unspoken-crimes
   - https://feeds.transistor.fm/echoes-of-the-unheard-urban-crime-explorations
-  - https://feeds.transistor.fm/echoes-of-the-unheard-urban-crime-explorations_conflict
   - https://feeds.transistor.fm/economy-tent-international-podcast
   - https://feeds.transistor.fm/empowercast-the-power-of-community-change
   - https://feeds.transistor.fm/enigma-of-evil-cracking-criminal-consciousness
-  - https://feeds.transistor.fm/enigma-of-evil-cracking-criminal-consciousness_conflict
   - https://feeds.transistor.fm/entonces-y-ahora-el-show-de-las-generaciones
   - https://feeds.transistor.fm/ep-01-help-agents-win-contests-master-transaction-plans-w-josh-jaster
   - https://feeds.transistor.fm/etx-flooring-report
   - https://feeds.transistor.fm/f2c0f3d9-7654-41a8-9a87-6ede337c65ff
-  - https://feeds.transistor.fm/fantasy-sports-decoded_conflict
   - https://feeds.transistor.fm/fatal-corners-exploring-the-forensic-side-of-crime
-  - https://feeds.transistor.fm/fatal-corners-exploring-the-forensic-side-of-crime_conflict
   - https://feeds.transistor.fm/financial-advisor-ai-podcast
   - https://feeds.transistor.fm/financial-af
   - https://feeds.transistor.fm/finpedia-ai-powered-finance-investment-education
@@ -80854,35 +80779,26 @@ feeds:
   - https://feeds.transistor.fm/gi-i-thi-u-series-bong-da-khuc-quanh-d-nh-m-nh
   - https://feeds.transistor.fm/glitch-in-the-system
   - https://feeds.transistor.fm/go-nipless-after-dark
-  - https://feeds.transistor.fm/going-viral-by-accident_conflict
   - https://feeds.transistor.fm/gothams-gruesome-probing-metropolitan-malevolence
-  - https://feeds.transistor.fm/gothams-gruesome-probing-metropolitan-malevolence_conflict
   - https://feeds.transistor.fm/green-thumb-clinic-ai-plant-care-diagnosis
   - https://feeds.transistor.fm/grit-guilt-unveiling-urban-crime
-  - https://feeds.transistor.fm/grit-guilt-unveiling-urban-crime_conflict
   - https://feeds.transistor.fm/grit-of-the-streets-exploring-urban-crime
-  - https://feeds.transistor.fm/grit-of-the-streets-exploring-urban-crime_conflict
   - https://feeds.transistor.fm/hanh-trinh-bong-da-b-t-ng
   - https://feeds.transistor.fm/hanh-trinh-c-a-nh-ng-nha-vo-d-ch
   - https://feeds.transistor.fm/harsh-metro-anatomy-of-urban-chaos
-  - https://feeds.transistor.fm/harsh-metro-anatomy-of-urban-chaos_conflict
   - https://feeds.transistor.fm/headlines-from-the-future
   - https://feeds.transistor.fm/hertz-brass
   - https://feeds.transistor.fm/homeschool-underground
-  - https://feeds.transistor.fm/hunchline-the-morning-line_conflict
   - https://feeds.transistor.fm/i-was-the-legendary-hero-now-ive-been-reincarnated-as-a-high-school-student
   - https://feeds.transistor.fm/impact-vector-health
   - https://feeds.transistor.fm/in-the-shadows-unraveling-crime-stories
-  - https://feeds.transistor.fm/in-the-shadows-unraveling-crime-stories_conflict
   - https://feeds.transistor.fm/industrial-property-finance
   - https://feeds.transistor.fm/infinite-forest
   - https://feeds.transistor.fm/insurance-fraud-investigators
-  - https://feeds.transistor.fm/insurance-fraud-investigators_conflict
   - https://feeds.transistor.fm/it-test-podcast
   - https://feeds.transistor.fm/johns-podcast
   - https://feeds.transistor.fm/joshua-ramsey-marketing-expert-entrepreneur-seo-insights-podcast
   - https://feeds.transistor.fm/justice-unzipped-exploring-urban-crime-anatomy
-  - https://feeds.transistor.fm/justice-unzipped-exploring-urban-crime-anatomy_conflict
   - https://feeds.transistor.fm/k-ch-b-n-b-t-ng-gi-i-bong-da-ngo-i-h-ng-anh-mua-nay
   - https://feeds.transistor.fm/kbd
   - https://feeds.transistor.fm/kh-i-d-ng-cu-c-ch-i-bong-da
@@ -80923,7 +80839,6 @@ feeds:
   - https://feeds.transistor.fm/mas-alla-del-titular
   - https://feeds.transistor.fm/mic-hamptons-podcast
   - https://feeds.transistor.fm/midnight-confession
-  - https://feeds.transistor.fm/midnight-confession_conflict
   - https://feeds.transistor.fm/midnight-signals-755d9bc3-202c-41c4-a527-c9f0c9b20934
   - https://feeds.transistor.fm/miles-of-quiet
   - https://feeds.transistor.fm/mind-tricks-the-truth-toolkit
@@ -80939,18 +80854,14 @@ feeds:
   - https://feeds.transistor.fm/minh-quan-va-goc-nhin-den-t-i-v-cu-c-ch-i-bong-da-hi-n-d-i
   - https://feeds.transistor.fm/minh-quan-va-series-bi-n-chu-i-tr-n-c-a-clb-a-quan-qu-c-n-i
   - https://feeds.transistor.fm/morning-coffee-world-report
-  - https://feeds.transistor.fm/my-parikrama_conflict
   - https://feeds.transistor.fm/myths-explained
   - https://feeds.transistor.fm/naavi-on-digital-forensics
   - https://feeds.transistor.fm/neighborhood-watch
-  - https://feeds.transistor.fm/neighborhood-watch_conflict
   - https://feeds.transistor.fm/nh-ng-goc-khu-t-it-ai-k-v-cu-c-dua-vo-d-ch-v-league
   - https://feeds.transistor.fm/nh-ng-goc-nhin-th-ng-t-ng-v-cu-c-ch-i-bong-da-d-nh-cao-ff3ebdbb-fba2-4496-b756-dc1f3ba38788
   - https://feeds.transistor.fm/nhin-th-ng-vao-s-th-t-c-a-bong-da-d-nh-cao-vi-t-nam
   - https://feeds.transistor.fm/nocturne-chronicles-the-nightfall-justice
-  - https://feeds.transistor.fm/nocturne-chronicles-the-nightfall-justice_conflict
   - https://feeds.transistor.fm/noir-by-nightfall-decoding-urban-shadows
-  - https://feeds.transistor.fm/noir-by-nightfall-decoding-urban-shadows_conflict
   - https://feeds.transistor.fm/not-just-because-history
   - https://feeds.transistor.fm/not-just-because-mathematics
   - https://feeds.transistor.fm/not-just-because-vehicles
@@ -80959,7 +80870,6 @@ feeds:
   - https://feeds.transistor.fm/occult-story-podcast
   - https://feeds.transistor.fm/oceans-transit-podcast
   - https://feeds.transistor.fm/odkup-telefonov-slovenija
-  - https://feeds.transistor.fm/on-the-ground-unearthing-grassroots-movements_conflict
   - https://feeds.transistor.fm/on-the-water-kayaking-paddleboarding-outdoor-adventures
   - https://feeds.transistor.fm/one-decision
   - https://feeds.transistor.fm/openpod-radio-open-podcasting-rss-for-everyone
@@ -80986,7 +80896,6 @@ feeds:
   - https://feeds.transistor.fm/ref2080
   - https://feeds.transistor.fm/relaxation-1
   - https://feeds.transistor.fm/riddles-of-the-nightfall-deciphering-crime-enigmas
-  - https://feeds.transistor.fm/riddles-of-the-nightfall-deciphering-crime-enigmas_conflict
   - https://feeds.transistor.fm/rizzman-radio-master-social-confidence-connection
   - https://feeds.transistor.fm/rock-gem-guide-ai-stone-crystal-identification
   - https://feeds.transistor.fm/s-th-t-d-ng-sau-chu-i-th-ng-khong-t-ng-c-a-d-i-bong-a
@@ -80999,18 +80908,13 @@ feeds:
   - https://feeds.transistor.fm/serie-bong-da-d-nh-cao-chuy-n-th-thao-khong-gi-chan-ai-lau
   - https://feeds.transistor.fm/seriously-science-358ff406-af4b-43b3-ad23-160a8986a7ac
   - https://feeds.transistor.fm/sidewalk-noir-decoding-the-urban-abyss
-  - https://feeds.transistor.fm/sidewalk-noir-decoding-the-urban-abyss_conflict
   - https://feeds.transistor.fm/signal-from-the-machine
   - https://feeds.transistor.fm/signal-static
   - https://feeds.transistor.fm/simply-divine-r-j-crowther-talks-to-mark-skinner-funeral-services
   - https://feeds.transistor.fm/sinister-boulevards-tearing-urban-crime-veil
-  - https://feeds.transistor.fm/sinister-boulevards-tearing-urban-crime-veil_conflict
   - https://feeds.transistor.fm/sinister-metropolis-dissecting-dark-deeds
-  - https://feeds.transistor.fm/sinister-metropolis-dissecting-dark-deeds_conflict
   - https://feeds.transistor.fm/sirens-in-shadows-navigating-urban-justice
-  - https://feeds.transistor.fm/sirens-in-shadows-navigating-urban-justice_conflict
   - https://feeds.transistor.fm/sketchy-silhouettes-narrating-urban-crime-tales
-  - https://feeds.transistor.fm/sketchy-silhouettes-narrating-urban-crime-tales_conflict
   - https://feeds.transistor.fm/speakdutch-dutch-shadowing
   - https://feeds.transistor.fm/speakdutch-easy-dutch-conversations
   - https://feeds.transistor.fm/speakdutch-stories
@@ -81018,17 +80922,13 @@ feeds:
   - https://feeds.transistor.fm/starks-notch
   - https://feeds.transistor.fm/still-mind-daily-meditation-mindfulness-for-modern-life
   - https://feeds.transistor.fm/storyside-marathi-first-chapter
-  - https://feeds.transistor.fm/studiosignal_conflict
   - https://feeds.transistor.fm/subterranean-secrets-probing-the-urban-abyss
-  - https://feeds.transistor.fm/subterranean-secrets-probing-the-urban-abyss_conflict
   - https://feeds.transistor.fm/subway-shadows-the-underground-crime-chronicles
-  - https://feeds.transistor.fm/subway-shadows-the-underground-crime-chronicles_conflict
   - https://feeds.transistor.fm/sweatpants-neckties
   - https://feeds.transistor.fm/t-san-c-d-n-san-ch-i-s-cau-chuy-n-khong-h-i-k-t-c-a-bong-da-va-tro-ch-i-tr-c-tuy-n
   - https://feeds.transistor.fm/t-vinh-quang-d-n-g-c-nga-goc-khu-t-c-a-m-t-d-i-bong
   - https://feeds.transistor.fm/taalmaatje-dutch-shadowing
   - https://feeds.transistor.fm/tales-of-the-darkened-city-exposing-urban-crime
-  - https://feeds.transistor.fm/tales-of-the-darkened-city-exposing-urban-crime_conflict
   - https://feeds.transistor.fm/teaching-analytics-in-the-age-of-ai
   - https://feeds.transistor.fm/test-451ad31d-41f0-44f9-8ca0-ae98af572b9b
   - https://feeds.transistor.fm/test-765c8497-5f11-4d40-95d1-82210f544b02
@@ -81040,12 +80940,9 @@ feeds:
   - https://feeds.transistor.fm/the-ai-firehose
   - https://feeds.transistor.fm/the-ai-operating-system
   - https://feeds.transistor.fm/the-arsonists-signature
-  - https://feeds.transistor.fm/the-arsonists-signature_conflict
   - https://feeds.transistor.fm/the-auction-block
-  - https://feeds.transistor.fm/the-auction-block_conflict
   - https://feeds.transistor.fm/the-awakening-pulse
   - https://feeds.transistor.fm/the-blackmail-files
-  - https://feeds.transistor.fm/the-blackmail-files_conflict
   - https://feeds.transistor.fm/the-cmb-brief-commercial-mortgages-rates-and-uk-property-finance
   - https://feeds.transistor.fm/the-complete-claude-ai-architect-certification-build-deploy-llm-powered-apps
   - https://feeds.transistor.fm/the-cunning-folk
@@ -81053,23 +80950,17 @@ feeds:
   - https://feeds.transistor.fm/the-daily-david-lynch-podcast
   - https://feeds.transistor.fm/the-dojo-martial-arts
   - https://feeds.transistor.fm/the-fixer
-  - https://feeds.transistor.fm/the-fixer_conflict
   - https://feeds.transistor.fm/the-forgers
-  - https://feeds.transistor.fm/the-forgers_conflict
   - https://feeds.transistor.fm/the-justice-weavers-interlacing-threads-of-crime-punishment
-  - https://feeds.transistor.fm/the-justice-weavers-interlacing-threads-of-crime-punishment_conflict
   - https://feeds.transistor.fm/the-kerastase-podkast-3c9842a1-b848-4265-91f5-ccf68d74e8e9
   - https://feeds.transistor.fm/the-kerastase-podkast-4aff5122-fc21-4059-84f2-298c1cb793aa
   - https://feeds.transistor.fm/the-kingpins-fall
-  - https://feeds.transistor.fm/the-kingpins-fall_conflict
   - https://feeds.transistor.fm/the-lottery-rundown
   - https://feeds.transistor.fm/the-market-mosaic
   - https://feeds.transistor.fm/the-money-launderers
-  - https://feeds.transistor.fm/the-money-launderers_conflict
   - https://feeds.transistor.fm/the-morning-show
   - https://feeds.transistor.fm/the-parkway-re-podcast
   - https://feeds.transistor.fm/the-ponzi-unraveling
-  - https://feeds.transistor.fm/the-ponzi-unraveling_conflict
   - https://feeds.transistor.fm/the-reading-room-tarot-intuition-spiritual-guidance
   - https://feeds.transistor.fm/the-rook-report-radio-show
   - https://feeds.transistor.fm/the-science-of-everyday-materials
@@ -81078,7 +80969,6 @@ feeds:
   - https://feeds.transistor.fm/the-supplement-executives-weekend-briefing
   - https://feeds.transistor.fm/the-synthetic-world
   - https://feeds.transistor.fm/the-takedown-bcfe24d9-c75b-4c88-9fed-3c9fa888f9db
-  - https://feeds.transistor.fm/the-takedown-bcfe24d9-c75b-4c88-9fed-3c9fa888f9db_conflict
   - https://feeds.transistor.fm/the-through-line
   - https://feeds.transistor.fm/the-toronto-morning-show
   - https://feeds.transistor.fm/the-wealth-map
@@ -81098,31 +80988,23 @@ feeds:
   - https://feeds.transistor.fm/type-faster-keyboard-speed-coding-efficiency
   - https://feeds.transistor.fm/uk-business-spotlight
   - https://feeds.transistor.fm/underground-frequencies-mapping-crime-signals
-  - https://feeds.transistor.fm/underground-frequencies-mapping-crime-signals_conflict
   - https://feeds.transistor.fm/underworld-unveiled-peeling-back-urban-darkness
-  - https://feeds.transistor.fm/underworld-unveiled-peeling-back-urban-darkness_conflict
   - https://feeds.transistor.fm/unlikely-wins-true-stories-of-the-impossible
   - https://feeds.transistor.fm/unlocking-urban-mysteries-examining-criminal-psychology
-  - https://feeds.transistor.fm/unlocking-urban-mysteries-examining-criminal-psychology_conflict
-  - https://feeds.transistor.fm/unsolved-space-mysteries-12022e1e-6662-45d8-a0f0-eae4fc3bfc0f_conflict
   - https://feeds.transistor.fm/urban-shadows-decoding-invisible-crime-trails
   - https://feeds.transistor.fm/valenciagaconfidential
   - https://feeds.transistor.fm/ven-man-s-th-t-d-ng-sau-chu-i-th-ng-c-a-d-i-bong-x-ngh
   - https://feeds.transistor.fm/vice-squad
-  - https://feeds.transistor.fm/vice-squad_conflict
   - https://feeds.transistor.fm/victorias-inesperadas-historias-reales-de-lo-imposible
   - https://feeds.transistor.fm/vim-mastery-terminal-productivity-text-editing-power
   - https://feeds.transistor.fm/vinces-notebook-feed
   - https://feeds.transistor.fm/vortex-of-vice-unearthing-city-serpents
   - https://feeds.transistor.fm/web-of-shadows-tracing-criminal-intricacies
-  - https://feeds.transistor.fm/web-of-shadows-tracing-criminal-intricacies_conflict
-  - https://feeds.transistor.fm/wednesday-wonders_conflict
   - https://feeds.transistor.fm/whats-on-events-culture-community-discoveries
   - https://feeds.transistor.fm/whats-well-good-in-relationships
   - https://feeds.transistor.fm/wild-weird-animal-facts
   - https://feeds.transistor.fm/winston-salem-pulse
   - https://feeds.transistor.fm/witness-protection-blues
-  - https://feeds.transistor.fm/witness-protection-blues_conflict
   - https://feeds.transistor.fm/word-origins-etymology-language-linguistic-history
   - https://feeds.transistor.fm/your-career-your-terms
   - https://feeds.transistor.fm/your-personal-bank
