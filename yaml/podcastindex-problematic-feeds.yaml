@@ -3027,3 +3027,217 @@ dates:
       fastcastai: 1
       megaphonefm: 1
       spreakercom: 3
+  '2026-08-03':
+    Total: 784
+    Spam:
+      acastcom: 2
+      anchorfm: 12
+      aushaco: 3
+      beehiivcom: 2
+      buzzsproutcom: 26
+      captivatefm: 2
+      donecastcom: 1
+      firstoryme: 51
+      gradickcommunicationscom: 1
+      hubhoppercom: 9
+      jellypodcom: 4
+      pinecastcom: 1
+      podbeancom: 3
+      podeoco: 1
+      podigeeio: 10
+      redcirclecom: 3
+      riversidecom: 3
+      rsscom: 25
+      s3mtsru: 1
+      soundonfm: 1
+      spreakercom: 68
+      substackcom: 1
+      transistorfm: 5
+      vodiofr: 2
+      websightindiacom: 1
+    Hijack:
+      buzzsproutcom: 1
+      firstoryme: 1
+      gigadialcom: 1
+      gigadialnet: 5
+      spreakercom: 508
+    AI Slop:
+      aiuniversitycom: 1
+      aivfxnewscom: 5
+      anchorfm: 1
+      buzzsproutcom: 2
+      captivatefm: 1
+      fastcastai: 1
+      jellypodcom: 1
+      spreakercom: 18
+  '2026-08-04':
+    Total: 312
+    Hijack:
+      hotaudiobookcom: 3
+      spreakercom: 297
+      thebookvoicecom: 2
+    Spam:
+      buzzsproutcom: 3
+      hubhoppercom: 1
+      podigeeio: 2
+      spreakercom: 3
+    AI Slop:
+      spreakercom: 1
+  '2026-08-05':
+    Total: 709
+    Hijack:
+      backblazeb2com: 3
+      buzzsproutcom: 1
+      spreakercom: 389
+      thebookvoicecom: 6
+    Spam:
+      acastcom: 2
+      anchorfm: 23
+      applecom: 1
+      applyabroadlabcom: 1
+      audiocom: 1
+      aushaco: 1
+      beamlydev: 1
+      blubrrycom: 1
+      buzzsproutcom: 27
+      buzzsproutxyz: 1
+      captivatefm: 4
+      castoscom: 6
+      demadesai: 1
+      dogdaycarepflugervillecom: 1
+      epicbedheadsagacom: 1
+      flightcastcom: 1
+      hubhoppercom: 19
+      letscastfm: 1
+      libsyncom: 1
+      mavedigital: 1
+      megaphonefm: 3
+      muslimcentralcom: 2
+      nxcliio: 1
+      onspeakingtermsmedia: 1
+      podbeancom: 5
+      podcastaddictcom: 1
+      podigeeio: 2
+      podservefm: 2
+      qurancentralcom: 3
+      redcirclecom: 5
+      riversidecom: 5
+      rsscom: 19
+      spreakercom: 119
+      substackcom: 3
+      thebiblicalthinkercom: 1
+      transistorfm: 4
+    AI Slop:
+      anchorfm: 1
+      captivatefm: 29
+      fastcastai: 1
+      megaphonefm: 5
+      spreakercom: 3
+  '2026-08-07':
+    Total: 149
+    Spam:
+      anchorfm: 1
+      aushaco: 2
+      buzzsproutcom: 5
+      hubhoppercom: 2
+      podigeeio: 1
+      qurancentralcom: 1
+      riversidecom: 1
+      rsscom: 1
+      spreakercom: 13
+      transistorfm: 1
+    AI Slop:
+      anchorfm: 7
+      attereoncom: 1
+      buzzsproutcom: 2
+      cantobookscom: 1
+      captivatefm: 92
+      getaisentinelcom: 1
+      hubhoppercom: 1
+      igxsolutionscouk: 1
+      podservefm: 1
+      rsscom: 4
+      spreakercom: 10
+  '2026-08-08':
+    Total: 1230
+    AI Slop:
+      buzzsproutcom: 1
+      captivatefm: 62
+      hubhoppercom: 11
+      megaphonefm: 2
+      rsscom: 31
+      simplecastcom: 1
+      spreakercom: 31
+    Hijack:
+      captivatefm: 116
+      spreakercom: 438
+    Spam:
+      acastcom: 1
+      anchorfm: 33
+      aushaco: 6
+      buzzsproutcom: 20
+      casinotearscom: 1
+      castboxfm: 2
+      castoscom: 1
+      erp-softwareorg: 1
+      feedburnercom: 2
+      hubhoppercom: 82
+      ivooxcom: 2
+      jellypodcom: 1
+      libsyncom: 3
+      megaphonefm: 1
+      oanasilviafilipro: 1
+      pinecastcom: 4
+      podbeancom: 2
+      podcastmachinecom: 1
+      poderatocom: 1
+      podigeeio: 2
+      podomaticcom: 4
+      podservefm: 1
+      redcirclecom: 1
+      rsscom: 208
+      simplecastcom: 1
+      spreakercom: 154
+      starwarsreportcom: 1
+  '2026-08-09':
+    Total: 299
+    Spam:
+      anchorfm: 1
+      buzzsproutcom: 4
+      captivatefm: 1
+      hubhoppercom: 2
+      omnycontentcom: 1
+      podbeancom: 1
+      riversidecom: 1
+      rsscom: 40
+      spreakercom: 41
+      transistorfm: 1
+    Hijack:
+      captivatefm: 58
+      spreakercom: 100
+    AI Slop:
+      megaphonefm: 1
+      simplecastcom: 1
+      spreakercom: 46
+  '2026-08-11':
+    Total: 666
+    Spam:
+      anchorfm: 15
+      aushaco: 1
+      buzzsproutcom: 12
+      dipferlfahrerde: 1
+      firstoryme: 3
+      hubhoppercom: 70
+      podbeancom: 3
+      podservefm: 1
+      prestocastcom: 1
+      redcirclecom: 1
+      rsscom: 165
+      spreakercom: 216
+      transistorfm: 2
+    Hijack:
+      spreakercom: 115
+    AI Slop:
+      captivatefm: 55
+      megaphonefm: 1
+      spreakercom: 4
