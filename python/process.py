@@ -294,48 +294,58 @@ def main():
 
   for row in csvReader:
     if (row):
+      reasonKey = None
+      dateKey = None
+      feedSourceKey = None
+      url = None
+
       for field in fields:
+
         value = row[field]
+        if value == None:
+          print(f"Unexpected value")
+          break
 
         if field == idx_reason:
-          value = reasonResolver(int(value))
-          reasonKey = value
+          reasonKey = reasonResolver(int(value))
 
         if field == idx_updatedOn:
-          value = convertEpochToISO(int(value))
-          dateKey = value
+          dateKey = convertEpochToISO(int(value))
 
         if field == idx_url:
           url = value
-          value = resolveFeedSource(value)
-          if value == None:
-            print(f"Unresolved url '{value}'")
-            #exit(0)
+          feedSourceKey = resolveFeedSource(value)
+
+          if re.search(r"\x5fconflict$", url, flags=re.IGNORECASE):
             continue
-          feedSourceKey = value
 
 
-      if dateKey not in results['dates']:
-        results['dates'][dateKey] = {}
-        results['dates'][dateKey]['Total'] = 0
+        if dateKey != None:
+          if dateKey not in results['dates']:
+            results['dates'][dateKey] = {}
+            results['dates'][dateKey]['Total'] = 0
 
-      if results['dates'][dateKey]['Total'] > 0:
-        continue
+          if results['dates'][dateKey]['Total'] > 0:
+            continue
 
-      if reasonKey not in results['dates'][dateKey]:
-        results['dates'][dateKey][reasonKey] = {}
+        if dateKey != None and reasonKey != None:
+          if reasonKey not in results['dates'][dateKey]:
+            results['dates'][dateKey][reasonKey] = {}
 
-      if feedSourceKey not in results['dates'][dateKey][reasonKey]:
-        results['dates'][dateKey][reasonKey][feedSourceKey] = 0
+        if dateKey != None and reasonKey != None and feedSourceKey != None:
+          if feedSourceKey not in results['dates'][dateKey][reasonKey]:
+            results['dates'][dateKey][reasonKey][feedSourceKey] = 0
 
-      results['dates'][dateKey][reasonKey][feedSourceKey] += 1
+          results['dates'][dateKey][reasonKey][feedSourceKey] += 1
 
-      if feedSourceKey not in feeds['feeds']:
-        feeds['feeds'][feedSourceKey] = []
 
-      if url not in feeds['feeds'][feedSourceKey]:
-        if not re.search(r"\x5fconflict$", url, flags=re.IGNORECASE):
-          feeds['feeds'][feedSourceKey].append(url)
+        if feedSourceKey not in feeds['feeds']:
+          if url != None:
+            feeds['feeds'][feedSourceKey] = []
+            feeds['feeds'][feedSourceKey].append(url)
+        else:
+          if url != None:
+            feeds['feeds'][feedSourceKey].append(url)
 
 
   print("Sorting dates ..")
@@ -351,7 +361,6 @@ def main():
           continue
 
         sorted_topic = dict(sorted(results['dates'][date_date][topic].items(), key=lambda item: item[0]))
-        #print(sorted_topic)
         results['dates'][date_date][topic] = sorted_topic
 
         for domain in results['dates'][date_date][topic]:
@@ -362,17 +371,23 @@ def main():
         results['dates'][date_date]['Total'] = value_total
         print(f"\t{date_date}: {value_total}")
 
+  #sorted(results)
+  writeYAML(DATA_YAML_DEST, results)
+  print(f"Wrote: {len(results['dates'])} dates ..")
+
   print("Sorting files ..")
   sorted_files = dict(sorted(feeds['feeds'].items(), key=lambda item: item[0]))
   feeds['feeds'] = sorted_files
 
+  #print(feeds['feeds'][domain])
   for domain in feeds['feeds']:
-    sorted_domain = sorted(feeds['feeds'][domain])
-    feeds['feeds'][domain] = sorted_domain
+    print(domain)
+    print(feeds['feeds'][domain])
+    if domain != None:
+      if feeds['feeds'][domain] != None:
+        sorted_domain = sorted(feeds['feeds'][domain])
+        feeds['feeds'][domain] = sorted_domain
 
-  #sorted(results)
-  writeYAML(DATA_YAML_DEST, results)
-  print(f"Wrote: {len(results['dates'])} dates ..")
 
   sorted(feeds)
   writeYAML(DATA_YAML_FEEDS, feeds)
