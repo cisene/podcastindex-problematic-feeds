@@ -3241,3 +3241,51 @@ dates:
       captivatefm: 55
       megaphonefm: 1
       spreakercom: 4
+  '2026-08-12':
+    Total: 279
+    Spam:
+      anchorfm: 19
+      aushaco: 1
+      beamlycom: 1
+      blubrrycom: 1
+      buzzsproutcom: 12
+      digitaloceanspacescom: 1
+      firstoryme: 1
+      githubio: 10
+      goaserviceru: 1
+      hubhoppercom: 6
+      jellypodcom: 3
+      podbeancom: 1
+      podigeeio: 4
+      podservefm: 1
+      prestocastcom: 1
+      rsscom: 30
+      simplecastcom: 1
+      spreakercom: 96
+      substackcom: 1
+      transistorfm: 2
+      xn--helait-5yaee: 1
+    AI Slop:
+      anchorfm: 12
+      art19com: 1
+      binarybanternl: 1
+      booksreaderspace: 1
+      buzzsproutcom: 6
+      captivatefm: 1
+      euamandasouzacom: 1
+      hubhoppercom: 4
+      jellypodcom: 2
+      jyotishintelligencecom: 1
+      megaphonefm: 2
+      monxifycom: 1
+      podbeancom: 1
+      podigeeio: 3
+      podservefm: 1
+      redcirclecom: 2
+      rsscom: 15
+      simplecastcom: 1
+      spreakercom: 24
+      transistorfm: 2
+      wpcomstagingcom: 1
+    Hijack:
+      spreakercom: 2
