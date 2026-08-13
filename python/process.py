@@ -319,6 +319,9 @@ def main():
           if re.search(r"\x5fconflict$", url, flags=re.IGNORECASE):
             continue
 
+          if url == None:
+            continue
+
 
         if dateKey != None:
           if dateKey not in results['dates']:
@@ -338,14 +341,14 @@ def main():
 
           results['dates'][dateKey][reasonKey][feedSourceKey] += 1
 
+        if feedSourceKey != None:
 
-        if feedSourceKey not in feeds['feeds']:
-          if url != None:
-            feeds['feeds'][feedSourceKey] = []
-            feeds['feeds'][feedSourceKey].append(url)
-        else:
-          if url != None:
-            feeds['feeds'][feedSourceKey].append(url)
+          if feedSourceKey not in feeds['feeds']:
+            if url != None:
+              feeds['feeds'][feedSourceKey] = []
+
+          if url not in feeds['feeds'][feedSourceKey]:
+              feeds['feeds'][feedSourceKey].append(url)
 
 
   print("Sorting dates ..")
@@ -379,10 +382,7 @@ def main():
   sorted_files = dict(sorted(feeds['feeds'].items(), key=lambda item: item[0]))
   feeds['feeds'] = sorted_files
 
-  #print(feeds['feeds'][domain])
   for domain in feeds['feeds']:
-    print(domain)
-    print(feeds['feeds'][domain])
     if domain != None:
       if feeds['feeds'][domain] != None:
         sorted_domain = sorted(feeds['feeds'][domain])
