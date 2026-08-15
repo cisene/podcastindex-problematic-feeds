@@ -3289,3 +3289,55 @@ dates:
       wpcomstagingcom: 1
     Hijack:
       spreakercom: 2
+  '2026-08-13':
+    Total: 103
+    Spam:
+      anchorfm: 4
+      aushaco: 1
+      buzzsproutcom: 4
+      captivatefm: 1
+      hubhoppercom: 3
+      pinecastcom: 1
+      podcastscom: 1
+      podigeeio: 1
+      podservefm: 1
+      rsscom: 8
+      spreakercom: 74
+    Hijack:
+      spreakercom: 3
+    AI Slop:
+      hustlestudiosnet: 1
+  '2026-08-14':
+    Total: 433
+    Spam:
+      anchorfm: 11
+      buzzsproutcom: 9
+      captivatefm: 1
+      castoscom: 2
+      firstoryme: 1
+      herbigleapcom: 1
+      hubhoppercom: 33
+      omnycontentcom: 1
+      pinecastcom: 3
+      rsscom: 181
+      simplecastcom: 2
+      spreakercom: 150
+    AI Slop:
+      anchorfm: 1
+      antonysislecom: 1
+      jellypodcom: 1
+      redcirclecom: 1
+      rsscom: 4
+      spreakercom: 26
+    Malicious:
+      spreakercom: 1
+    Hijack:
+      spreakercom: 3
+  '2026-08-15':
+    Total: 538
+    Spam:
+      hubhoppercom: 94
+      podomaticcom: 2
+      podservefm: 1
+      rsscom: 230
+      spreakercom: 211
