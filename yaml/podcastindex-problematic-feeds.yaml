@@ -3341,3 +3341,32 @@ dates:
       podservefm: 1
       rsscom: 230
       spreakercom: 211
+  '2026-08-16':
+    Total: 401
+    Spam:
+      acastcom: 1
+      anchorfm: 5
+      beamlycom: 1
+      beamlydev: 1
+      buzzsproutcom: 7
+      castoscom: 2
+      deezercom: 1
+      firstoryme: 49
+      hubhoppercom: 25
+      jellypodcom: 3
+      podigeeio: 1
+      podomaticcom: 1
+      podservefm: 1
+      rsscom: 54
+      spreakercom: 80
+      springcastfm: 1
+    AI Slop:
+      acastcom: 1
+      blubrrycom: 5
+      megaphonefm: 13
+      simplecastcom: 4
+      spreakercom: 30
+    Hijack:
+      spreakercom: 114
+    Illegal:
+      rsscom: 1
