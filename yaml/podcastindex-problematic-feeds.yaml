@@ -3334,39 +3334,99 @@ dates:
     Hijack:
       spreakercom: 3
   '2026-08-15':
-    Total: 538
+    Total: 1293
     Spam:
-      hubhoppercom: 94
-      podomaticcom: 2
+      anchorfm: 14
+      art19com: 1
+      aushaco: 2
+      buzzsproutcom: 4
+      captivatefm: 1
+      duckdnsorg: 1
+      firstoryme: 19
+      hubhoppercom: 151
+      jellypodcom: 1
+      kblipcom: 1
+      partyfavorzcom: 1
+      pinecastcom: 5
+      podomaticcom: 6
       podservefm: 1
-      rsscom: 230
-      spreakercom: 211
+      radiobusfm: 1
+      rsscom: 534
+      spreakercom: 528
+      springcastfm: 1
+      transistorfm: 1
+      zonnepanelendakpannennl: 1
+    AI Slop:
+      captivatefm: 1
+      megaphonefm: 3
+    Hijack:
+      ivooxcom: 1
+      spreakercom: 14
   '2026-08-16':
-    Total: 401
+    Total: 750
+    Hijack:
+      redcirclecom: 2
+      spreakercom: 118
     Spam:
       acastcom: 1
-      anchorfm: 5
-      beamlycom: 1
+      anchorfm: 12
+      applecom: 1
+      beamlycom: 2
       beamlydev: 1
-      buzzsproutcom: 7
-      castoscom: 2
+      buzzsproutcom: 8
+      castoscom: 3
       deezercom: 1
-      firstoryme: 49
-      hubhoppercom: 25
+      firstoryme: 62
+      hubhoppercom: 27
       jellypodcom: 3
-      podigeeio: 1
+      muslimcentralcom: 1
+      podigeeio: 3
       podomaticcom: 1
       podservefm: 1
-      rsscom: 54
-      spreakercom: 80
+      podsterfm: 2
+      radio-chroniclecom: 1
+      rsscom: 71
+      shenotonet: 2
+      spreakercom: 112
       springcastfm: 1
+      substackcom: 1
+      transistorfm: 3
     AI Slop:
-      acastcom: 1
-      blubrrycom: 5
-      megaphonefm: 13
-      simplecastcom: 4
-      spreakercom: 30
-    Hijack:
-      spreakercom: 114
+      acastcom: 2
+      anchorfm: 18
+      asynccom: 1
+      aushaco: 1
+      blubrrycom: 17
+      buzzsproutcom: 6
+      captivatefm: 6
+      firstoryme: 1
+      fromthebackporchorg: 1
+      googleapiscom: 1
+      hubhoppercom: 2
+      ivooxcom: 1
+      jellypodcom: 5
+      jyotishintelligencecom: 4
+      kajabicom: 1
+      lanternpodcastscom: 1
+      libsyncom: 1
+      malinkinpro: 1
+      mayorgapro: 1
+      megaphonefm: 35
+      podbeancom: 1
+      poddyhostcom: 1
+      podigeeio: 1
+      podservefm: 1
+      r2dev: 1
+      redcirclecom: 4
+      reinovivoes: 2
+      riversidecom: 2
+      rsscom: 18
+      simplecastcom: 25
+      simplecastxyz: 2
+      soundcloudcom: 1
+      spreakercom: 77
+      stillbibleapp: 1
+      sundaysnews: 1
+      transistorfm: 65
     Illegal:
       rsscom: 1
