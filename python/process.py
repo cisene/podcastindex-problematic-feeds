@@ -26,6 +26,11 @@ DATA_CSV_SOURCE = "https://public.podcastindex.org/podcastindex_problematic_feed
 DATA_YAML_DEST = '../yaml/podcastindex-problematic-feeds.yaml'
 DATA_YAML_FEEDS = '../yaml/podcastindex-problematic-feeds-collections.yaml'
 
+def formatDateStringUTCNow():
+  result = datetime.utcnow().strftime("%Y-%m-%d")
+  # datetime.datetime.now(datetime.UTC)
+  return result
+
 def writeYAML(filepath, contents):
   s = yaml.safe_dump(
     contents,
@@ -80,10 +85,8 @@ def httpGET(url):
   return result
 
 def convertEpochToISO(epoch):
-  #dt = datetime.utcfromtimestamp(epoch)
   dt = datetime.fromtimestamp(epoch)
   isodate = dt.strftime("%Y-%m-%d")
-  #isodate = dt.datetime.fromtimestamp(epoch, datetime.UTC)
   return isodate
 
 def reasonResolver(reason):
@@ -265,6 +268,8 @@ def main():
   results = readYAML(DATA_YAML_DEST)
   feeds = readYAML(DATA_YAML_FEEDS)
 
+  today_date = formatDateStringUTCNow()
+
   if results == None:
     results = {}
     results['dates'] = {}
@@ -322,7 +327,6 @@ def main():
           if url == None:
             continue
 
-
         if dateKey != None:
           if dateKey not in results['dates']:
             results['dates'][dateKey] = {}
@@ -354,6 +358,10 @@ def main():
   print("Sorting dates ..")
   sorted_dates = dict(sorted(results['dates'].items(), key=lambda item: item[0]))
   results['dates'] = sorted_dates
+
+  if today_date in results['dates']:
+    results['dates'].pop(today_date)
+    print(f"Popped {today_date} ..")
 
   print("Completing date counts ..")
   for date_date in results['dates']:
