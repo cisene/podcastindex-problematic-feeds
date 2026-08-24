@@ -3566,32 +3566,53 @@ dates:
     AI Slop:
       anchorfm: 1
   '2026-08-23':
-    Total: 478
+    Total: 1199
     Spam:
-      250andcountingcom: 3
-      anchorfm: 22
-      aushaco: 1
-      booksreaderspace: 1
-      buzzsproutcom: 10
-      captivatefm: 2
-      castoscom: 29
-      esoundspace: 5
-      fetchrsscom: 1
-      firstoryme: 208
-      flightcastcom: 1
-      hubhoppercom: 4
-      letscastfm: 2
-      megaphonefm: 1
-      podbeancom: 2
-      podeoco: 1
-      podservefm: 2
-      riversidecom: 4
-      rsscom: 36
-      spreakercom: 69
-      substackcom: 1
-      tachibananavicom: 1
-      transistorfm: 3
-      vipprosradiocom: 1
+      20thecountdowncom: 1
+      250andcountingcom: 6
+      anchorfm: 71
+      applecom: 2
+      aushaco: 2
+      booksreaderspace: 3
+      buzzsproutcom: 30
+      captivatefm: 5
+      castboxfm: 10
+      castoscom: 61
+      esoundspace: 10
+      feedburnercom: 1
+      fetchrsscom: 2
+      firstoryme: 441
+      flightcastcom: 2
+      fujisawa-shonan-rotaryorg: 1
+      hubhoppercom: 15
+      jellypodcom: 1
+      justcastcom: 1
+      letscastfm: 4
+      mavedigital: 1
+      megaphonefm: 2
+      microsellscom: 1
+      ngocbaomediacom: 1
+      podbeancom: 7
+      podcastmachinecom: 3
+      podeoco: 3
+      podigeeio: 2
+      podomaticcom: 2
+      podservefm: 4
+      riversidecom: 9
+      rsscom: 90
+      soundcloudcom: 1
+      spreakercom: 180
+      substackcom: 3
+      tachibananavicom: 2
+      transistorfm: 9
+      vipprosradiocom: 2
     AI Slop:
-      fexingocom: 1
-      spreakercom: 67
+      fexingocom: 2
+      spreakercom: 185
+    Illegal:
+      jellypodcom: 1
+    Hijack:
+      audiobookzapcom: 7
+      booksreaderspace: 1
+      esoundspace: 7
+      libranovocom: 5
