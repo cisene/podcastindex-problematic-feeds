@@ -137,6 +137,7 @@ def renderSlugFromUrl(url):
     'fr',
     'fun',
     'id',
+    'in',
     'io',
     'it',
     'jp',
@@ -176,11 +177,12 @@ def renderSlugFromUrl(url):
   ]
 
 
-  if parts[0] in tldList:
+  if parts[0] in tldList and (len(parts) == 2):
     result = f"{parts[1]}{parts[0]}"
   else:
     if parts[0] in wtfTLDs:
       result = f"{parts[2]}{parts[1]}{parts[0]}"
+
   return result
 
 def resolveFeedSource(url):
