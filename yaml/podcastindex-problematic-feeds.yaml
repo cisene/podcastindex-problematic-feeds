@@ -4365,3 +4365,60 @@ dates:
       hubhoppercom: 5
       podomaticcom: 1
       spreakercom: 7
+  '2026-09-13':
+    Total: 1003
+    AI Slop:
+      anchorfm: 12
+      buzzsproutcom: 3
+      castoscom: 2
+      fastcastai: 1
+      firstoryme: 2
+      fiveminutebriefai: 1
+      hubhoppercom: 25
+      indiciadeskcom: 1
+      jellypodcom: 1
+      learn-ice-hockeycom: 1
+      megaphonefm: 2
+      ngocbaomediacom: 1
+      ofscarlettsfirecom: 1
+      phoenessecom: 1
+      pinecastcom: 1
+      podbeancom: 4
+      riversidecom: 2
+      rsscom: 10
+      spreakercom: 11
+      transistorfm: 2
+    Spam:
+      anchorfm: 359
+      aushaco: 1
+      buzzsproutcom: 31
+      camacuk: 1
+      casinofootballcouk: 1
+      castboxfm: 13
+      castleappkcom: 1
+      firstoryme: 112
+      goreseecom: 1
+      hubhoppercom: 73
+      inglesaudiocom: 1
+      islamhousecom: 1
+      mdstrmcom: 1
+      megaphonefm: 4
+      ngocbaomediacom: 43
+      omnyfm: 1
+      pinecastcom: 14
+      podbeancom: 13
+      podigeeio: 3
+      podomaticcom: 3
+      podsterfm: 1
+      podvinecom: 4
+      riversidecom: 1
+      rsscom: 70
+      spreakercom: 151
+      thedopamineslotmachinecouk: 1
+      transistorfm: 2
+    Hijack:
+      anchorfm: 1
+      rsscom: 1
+      spreakercom: 9
+    Illegal:
+      buzzsproutcom: 1
