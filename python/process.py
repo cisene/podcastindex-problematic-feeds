@@ -10,7 +10,8 @@ import requests
 
 from contextlib import closing
 
-import datetime as DT
+#import datetime
+#import datetime as DT
 from datetime import datetime, date, time
 
 #from operator import itemgetter
@@ -27,8 +28,10 @@ DATA_YAML_DEST = '../yaml/podcastindex-problematic-feeds.yaml'
 DATA_YAML_FEEDS = '../yaml/podcastindex-problematic-feeds-collections.yaml'
 
 def formatDateStringUTCNow():
-  result = datetime.utcnow().strftime("%Y-%m-%d")
+  #result = datetime.utcnow().strftime("%Y-%m-%d")
   # datetime.datetime.now(datetime.UTC)
+  #result = datetime.now(datetime.timezome.utc).strftime("%Y-%m-%d")
+  result = datetime.now().strftime("%Y-%m-%d")
   return result
 
 def writeYAML(filepath, contents):
@@ -271,6 +274,7 @@ def main():
   feeds = readYAML(DATA_YAML_FEEDS)
 
   today_date = formatDateStringUTCNow()
+  print(f"Today is '{today_date}'")
 
   if results == None:
     results = {}
