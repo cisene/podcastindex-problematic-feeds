@@ -4422,3 +4422,56 @@ dates:
       spreakercom: 9
     Illegal:
       buzzsproutcom: 1
+  '2026-09-14':
+    Total: 1847
+    Spam:
+      anchorfm: 625
+      aushaco: 2
+      buzzsproutcom: 72
+      castboxfm: 15
+      castoscom: 23
+      cause-communefm: 1
+      codesraidcom: 1
+      colorcomunitariaorg: 1
+      firstoryme: 224
+      holehouseapknet: 1
+      hubhoppercom: 93
+      iftarmealcom: 1
+      jellypodcom: 1
+      maifencc: 1
+      ngocbaomediacom: 84
+      omnyfm: 1
+      peertubetv: 1
+      pinecastcom: 1
+      podbeancom: 9
+      podigeeio: 3
+      podomaticcom: 7
+      rsscom: 82
+      sachvuivn: 1
+      spreakercom: 230
+      tiktokapkmodcom: 1
+      transistorfm: 3
+      wgbappscom: 1
+    AI Slop:
+      aiedgebriefingcom: 1
+      anchorfm: 23
+      apisodcom: 1
+      booksreaderspace: 25
+      buzzsproutcom: 10
+      fastcastai: 1
+      firstoryme: 1
+      hubhoppercom: 19
+      jfloocom: 1
+      megaphonefm: 3
+      miantiguacom: 1
+      podbeancom: 6
+      podigeeio: 1
+      riversidecom: 1
+      rsscom: 20
+      spreakercom: 34
+      wembyfun: 1
+    Hijack:
+      booksreaderspace: 142
+      mediabooksspace: 55
+      spreakercom: 6
+      thebookvoicecom: 10
