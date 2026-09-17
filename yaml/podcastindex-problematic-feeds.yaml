@@ -4475,3 +4475,54 @@ dates:
       mediabooksspace: 55
       spreakercom: 6
       thebookvoicecom: 10
+  '2026-09-15':
+    Total: 473
+    AI Slop:
+      anchorfm: 2
+      apisodcom: 1
+      booksreaderspace: 133
+      buzzsproutcom: 3
+      giartbellcom: 1
+      hubhoppercom: 5
+      jellypodcom: 3
+      megaphonefm: 1
+      podbeancom: 3
+      riversidecom: 1
+      rsscom: 2
+      spreakercom: 17
+    Spam:
+      anchorfm: 23
+      aushaco: 1
+      booksreaderspace: 2
+      buzzsproutcom: 7
+      castoscom: 11
+      dafayerorg: 1
+      firstoryme: 108
+      hubhoppercom: 14
+      pinecastcom: 9
+      podomaticcom: 2
+      rsscom: 18
+      spreakercom: 100
+      transistorfm: 1
+    Hijack:
+      hubhoppercom: 1
+      spreakercom: 3
+  '2026-09-16':
+    Total: 480
+    Spam:
+      anchorfm: 80
+      aushaco: 1
+      buzzsproutcom: 27
+      castoscom: 7
+      firstoryme: 192
+      hubhoppercom: 47
+      jellypodcom: 1
+      ngocbaomediacom: 2
+      podbeancom: 3
+      rsscom: 29
+      spreakercom: 68
+    AI Slop:
+      booksreaderspace: 18
+    Hijack:
+      rsscom: 2
+      spreakercom: 3
