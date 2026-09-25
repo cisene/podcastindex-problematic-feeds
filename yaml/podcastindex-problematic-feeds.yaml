@@ -4688,3 +4688,55 @@ dates:
     AI Slop:
       anchorfm: 1
       spreakercom: 1
+  '2026-09-23':
+    Total: 569
+    Spam:
+      anchorfm: 11
+      aushaco: 4
+      buzzsproutcom: 32
+      firstoryme: 63
+      gastrogayscom: 1
+      hubhoppercom: 3
+      jellypodcom: 3
+      megaphonefm: 2
+      pinecastcom: 1
+      podigeeio: 2
+      prestocastcom: 1
+      rsscom: 24
+      spreakercom: 211
+      transistorfm: 1
+    AI Slop:
+      aavistusai: 1
+      anchorfm: 43
+      audioboomcom: 1
+      aushaco: 2
+      bible4jesuscom: 1
+      buzzsproutcom: 12
+      castoscom: 1
+      dicefloorcom: 1
+      firstoryme: 3
+      hubhoppercom: 11
+      jellypodcom: 5
+      megaphonefm: 4
+      omandoccom: 1
+      podbeancom: 9
+      podigeeio: 3
+      rsscom: 28
+      smsnovanet: 1
+      spreakercom: 71
+      transistorfm: 8
+    Hijack:
+      rsscom: 1
+      spreakercom: 3
+  '2026-09-24':
+    Total: 26
+    Spam:
+      anchorfm: 1
+      buzzsproutcom: 1
+      erp-softwareorg: 1
+      jellypodcom: 1
+      prestocastcom: 1
+      rsscom: 1
+      spreakercom: 19
+    Hijack:
+      spreakercom: 1
