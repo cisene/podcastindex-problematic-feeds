@@ -4740,3 +4740,42 @@ dates:
       spreakercom: 19
     Hijack:
       spreakercom: 1
+  '2026-09-25':
+    Total: 609
+    Spam:
+      anchorfm: 51
+      aushaco: 1
+      buzzsproutcom: 52
+      castoscom: 6
+      dunkhellzifferde: 1
+      firstoryme: 157
+      hubhoppercom: 13
+      jellypodcom: 2
+      megaphonefm: 1
+      podbeancom: 1
+      podcastindexorg: 2
+      podigeeio: 3
+      podomaticcom: 1
+      podsterfm: 1
+      prestocastcom: 1
+      riversidecom: 6
+      rsscom: 53
+      searchinstituteco: 1
+      spreakercom: 214
+      suomiyllapitoyhteystiedotcom: 1
+      transistorfm: 6
+      uniquelabai: 1
+      williamscapai: 1
+    AI Slop:
+      anchorfm: 5
+      fastcastai: 3
+      firstoryme: 1
+      jellypodcom: 1
+      riversidecom: 1
+      rsscom: 3
+      spreakercom: 13
+      transistorfm: 1
+      vitalitymmgcom: 1
+    Hijack:
+      buzzsproutcom: 1
+      spreakercom: 3
