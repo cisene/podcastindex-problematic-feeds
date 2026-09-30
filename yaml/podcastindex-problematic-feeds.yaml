@@ -4898,3 +4898,26 @@ dates:
       wavlakecom: 1
     AI Slop:
       spreakercom: 2
+  '2026-09-29':
+    Total: 767
+    Spam:
+      anchorfm: 12
+      buzzsproutcom: 20
+      castoscom: 7
+      firstoryme: 341
+      hubhoppercom: 10
+      jellypodcom: 1
+      podbeancom: 1
+      podigeeio: 2
+      riversidecom: 1
+      rsscom: 151
+      spreakercom: 192
+      transistorfm: 8
+    Hijack:
+      spreakercom: 13
+    AI Slop:
+      booksreaderspace: 1
+      buzzsproutcom: 1
+      jellypodcom: 1
+      spreakercom: 3
+      transistorfm: 2
