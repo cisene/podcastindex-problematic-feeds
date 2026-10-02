@@ -4921,3 +4921,17 @@ dates:
       jellypodcom: 1
       spreakercom: 3
       transistorfm: 2
+  '2026-09-30':
+    Total: 348
+    Spam:
+      afrnet: 1
+      anchorfm: 6
+      buzzsproutcom: 9
+      castoscom: 26
+      firstoryme: 164
+      hubhoppercom: 3
+      podbeancom: 7
+      rsscom: 52
+      spreakercom: 79
+      transistorfm: 1
+    AI Slop: {}
