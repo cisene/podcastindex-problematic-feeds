@@ -4935,3 +4935,25 @@ dates:
       spreakercom: 79
       transistorfm: 1
     AI Slop: {}
+  '2026-10-01':
+    Total: 356
+    Spam:
+      anchorfm: 6
+      buzzsproutcom: 24
+      fiftifycom: 1
+      firstoryme: 42
+      hubhoppercom: 11
+      jellypodcom: 1
+      pinecastcom: 6
+      podbeancom: 1
+      podigeeio: 2
+      riversidecom: 1
+      rsscom: 20
+      spreakercom: 150
+      transistorfm: 1
+    AI Slop:
+      spreakercom: 86
+    Hijack:
+      anchorfm: 1
+      rsscom: 1
+      spreakercom: 2
