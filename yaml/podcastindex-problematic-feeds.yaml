@@ -4957,3 +4957,73 @@ dates:
       anchorfm: 1
       rsscom: 1
       spreakercom: 2
+  '2026-10-02':
+    Total: 579
+    Spam:
+      anchorfm: 27
+      buzzsproutcom: 34
+      castboxfm: 1
+      dienlanhvucom: 1
+      firstoryme: 202
+      graspdapp: 1
+      hubhoppercom: 10
+      jellypodcom: 3
+      letscastfm: 1
+      museai: 2
+      podbeancom: 2
+      riversidecom: 2
+      rsscom: 53
+      spreakercom: 148
+      transistorfm: 4
+    Hijack:
+      spreakercom: 32
+    AI Slop:
+      fastcastai: 56
+  '2026-10-03':
+    Total: 320
+    Spam:
+      anchorfm: 21
+      belvederesdachurchorg: 1
+      buzzsproutcom: 20
+      firstoryme: 6
+      hpmedvn: 1
+      hubhoppercom: 4
+      megaphonefm: 2
+      omnyfm: 1
+      podigeeio: 2
+      reyesconnectappcom: 3
+      riversidecom: 1
+      robhasawebsitecom: 1
+      rsscom: 18
+      spreakercom: 146
+      transistorfm: 4
+    AI Slop:
+      anchorfm: 20
+      buzzsproutcom: 4
+      confidencyfilescom: 1
+      firstoryme: 1
+      hubhoppercom: 5
+      jellypodcom: 1
+      megaphonefm: 1
+      podbeancom: 7
+      podigeeio: 2
+      podsterfm: 1
+      riversidecom: 1
+      rsscom: 8
+      spreakercom: 31
+      tomecieu: 1
+      transistorfm: 4
+    Hijack:
+      spreakercom: 1
+  '2026-10-04':
+    Total: 86
+    Spam:
+      anchorfm: 15
+      aushaco: 1
+      buzzsproutcom: 10
+      firstoryme: 1
+      hubhoppercom: 1
+      rsscom: 16
+      spreakercom: 41
+    AI Slop:
+      spreakercom: 1
