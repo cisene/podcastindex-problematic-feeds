@@ -5016,14 +5016,18 @@ dates:
     Hijack:
       spreakercom: 1
   '2026-10-04':
-    Total: 86
+    Total: 147
     Spam:
-      anchorfm: 15
+      anchorfm: 21
       aushaco: 1
-      buzzsproutcom: 10
+      buzzsproutcom: 14
       firstoryme: 1
       hubhoppercom: 1
-      rsscom: 16
-      spreakercom: 41
+      podnewsnet: 1
+      riversidecom: 1
+      rsscom: 26
+      spreakercom: 78
+      transistorfm: 1
+      youtubecom: 1
     AI Slop:
       spreakercom: 1
