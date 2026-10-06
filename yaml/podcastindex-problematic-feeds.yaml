@@ -5031,3 +5031,26 @@ dates:
       youtubecom: 1
     AI Slop:
       spreakercom: 1
+  '2026-10-05':
+    Total: 282
+    Spam:
+      3speaktv: 1
+      adileakdetectioncouk: 1
+      anchorfm: 14
+      buzzsproutcom: 33
+      firstoryme: 19
+      hubhoppercom: 14
+      jellypodcom: 3
+      keloketravelagencycom: 1
+      kingofaeopodcastcom: 1
+      megaphonefm: 1
+      nerranetworkcom: 1
+      pinecastcom: 1
+      podbeancom: 2
+      riversidecom: 2
+      rsscom: 33
+      spreakercom: 143
+      transistorfm: 10
+    AI Slop: {}
+    Hijack:
+      spreakercom: 2
