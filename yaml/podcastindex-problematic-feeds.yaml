@@ -5152,3 +5152,29 @@ dates:
       spreakercom: 86
       transistorfm: 3
     AI Slop: {}
+  '2026-10-11':
+    Total: 285
+    Spam:
+      anchorfm: 71
+      booksreaderspace: 31
+      buzzsproutcom: 7
+      castboxfm: 1
+      firstoryme: 8
+      hubhoppercom: 14
+      jellypodcom: 1
+      museai: 1
+      ngocbaomediacom: 6
+      patrickcomtoisphotographycom: 1
+      podbeancom: 6
+      podomaticcom: 1
+      riversidecom: 2
+      rsscom: 20
+      shirainaginet: 1
+      sportpanelense: 1
+      spreakercom: 98
+    Hijack:
+      spreakercom: 1
+    Illegal:
+      buzzsproutcom: 1
+      podbeancom: 13
+    AI Slop: {}
