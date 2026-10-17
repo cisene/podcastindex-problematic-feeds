@@ -5263,3 +5263,74 @@ dates:
       spreakercom: 7
     AI Slop:
       anchorfm: 1
+  '2026-10-15':
+    Total: 633
+    Spam:
+      3h33com: 1
+      3speaktv: 2
+      advisersgivebackorg: 1
+      anchorfm: 29
+      aushaco: 1
+      booksreaderspace: 13
+      buzzsproutcom: 53
+      dynamicmindsetcombr: 1
+      firstoryme: 129
+      hubhoppercom: 12
+      jellypodcom: 4
+      megaphonefm: 32
+      misesorg: 1
+      museai: 1
+      podbeancom: 3
+      podigeeio: 1
+      podomaticcom: 2
+      prestocastcom: 1
+      radiohispanidadcom: 1
+      riversidecom: 3
+      rsscom: 37
+      soundcloudcom: 2
+      spreakercom: 174
+      theobservabilitylayercom: 1
+      transistorfm: 5
+    AI Slop:
+      anchorfm: 10
+      buzzsproutcom: 3
+      hubhoppercom: 1
+      jellypodcom: 2
+      megaphonefm: 4
+      mythstripblog: 1
+      podigeeio: 3
+      riversidecom: 3
+      rsscom: 54
+      spreakercom: 23
+      transistorfm: 2
+      xogosaudiocom: 1
+    Hijack:
+      anchorfm: 1
+      spreakercom: 15
+  '2026-10-16':
+    Total: 883
+    Spam:
+      3speaktv: 1
+      anchorfm: 78
+      booksreaderspace: 8
+      buzzsproutcom: 31
+      firstoryme: 414
+      hubhoppercom: 20
+      jellypodcom: 3
+      megaphonefm: 7
+      museai: 3
+      ngocbaomediacom: 25
+      pinecastcom: 2
+      podbeancom: 6
+      podigeeio: 1
+      podomaticcom: 2
+      ra-hude: 1
+      riversidecom: 1
+      rsscom: 89
+      spreakercom: 175
+      transistorfm: 3
+    Hijack:
+      anchorfm: 1
+      spreakercom: 3
+    AI Slop:
+      rsscom: 9
