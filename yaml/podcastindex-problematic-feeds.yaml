@@ -5357,3 +5357,57 @@ dates:
     Hijack:
       rsscom: 1
       spreakercom: 14
+  '2026-10-18':
+    Total: 393
+    Spam:
+      aitoolsforlawai: 1
+      anchorfm: 70
+      audialacom: 1
+      aufildelaparolefr: 1
+      aushaco: 2
+      booksreaderspace: 3
+      butkeviciuseu: 1
+      buzzsproutcom: 28
+      firstoryme: 107
+      hubhoppercom: 4
+      jellypodcom: 5
+      megaphonefm: 7
+      nerranetworkcom: 1
+      netsplitfm: 1
+      podbeancom: 3
+      podigeeio: 1
+      riversidecom: 6
+      rsscom: 22
+      spreakercom: 123
+      transistorfm: 3
+    Hijack:
+      spreakercom: 3
+    AI Slop: {}
+  '2026-10-19':
+    Total: 523
+    Spam:
+      aiuniversitycom: 1
+      anchorfm: 20
+      aushaco: 2
+      bobhasquestionscom: 1
+      booksreaderspace: 3
+      buzzsproutcom: 21
+      firstoryme: 266
+      flushbridgeportapottyprimecom: 1
+      hubhoppercom: 3
+      jellypodcom: 5
+      megaphonefm: 2
+      podbeancom: 2
+      podcastdistributionnet: 1
+      podigeeio: 2
+      riversidecom: 4
+      rsscom: 38
+      sloppodapp: 1
+      spreakercom: 137
+      thinkresonatecom: 1
+      transistorfm: 6
+      unbiasedheadlinescom: 1
+    AI Slop:
+      spreakercom: 2
+    Hijack:
+      spreakercom: 3
