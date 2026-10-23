@@ -5411,3 +5411,74 @@ dates:
       spreakercom: 2
     Hijack:
       spreakercom: 3
+  '2026-10-20':
+    Total: 377
+    Spam:
+      aibusinesslenscom: 1
+      anchorfm: 12
+      booksreaderspace: 2
+      buzzsproutcom: 19
+      firstoryme: 176
+      hubhoppercom: 5
+      jellypodcom: 2
+      maxlineportapottyofjacksonvillecom: 1
+      megaphonefm: 2
+      museai: 1
+      omprengbrocenteruk: 1
+      riversidecom: 1
+      rsscom: 13
+      spreakercom: 135
+      transistorfm: 2
+    Hijack:
+      rsscom: 2
+      spreakercom: 2
+  '2026-10-21':
+    Total: 302
+    Spam:
+      anchorfm: 8
+      baugeandthebotscom: 1
+      booksreaderspace: 1
+      buzzsproutcom: 15
+      firstoryme: 166
+      hubhoppercom: 1
+      jellypodcom: 1
+      megaphonefm: 3
+      museai: 6
+      podomaticcom: 1
+      rsscom: 13
+      spreakercom: 85
+    AI Slop: {}
+    Hijack:
+      spreakercom: 1
+  '2026-10-22':
+    Total: 767
+    Spam:
+      247relaynewscom: 1
+      anchorfm: 173
+      bccexamprepcom: 1
+      booksreaderspace: 2
+      buzzsproutcom: 35
+      castboxfm: 37
+      cq1818de: 1
+      dongsportvn: 1
+      ekonomininsesicom: 1
+      fastcastai: 1
+      firstoryme: 175
+      hubhoppercom: 22
+      maisonbestpoolscom: 1
+      megaphonefm: 4
+      museai: 1
+      ngocbaomediacom: 28
+      podbeancom: 4
+      podigeeio: 5
+      riversidecom: 2
+      rsscom: 44
+      spreakercom: 187
+      transistorfm: 16
+      waterdamagerestorationdallasnet: 1
+    Hijack:
+      podbeancom: 1
+      spreakercom: 15
+    AI Slop:
+      rsscom: 2
+      spreakercom: 6
